@@ -1,0 +1,1621 @@
+﻿Folio,Nivel de estudios,Campus,Área,Actividad,Fecha,ID,Clasificación,Región,Reincidencia,Programa,Semestre
+R0001,Kindergardiano,Narnia,Sociología,Examen nivelador,01/01/2023 00:00,A000001,Copia en exámenes,Centro,Sí,ALPHA,1
+R0002,La Secu,Distrito 13,Sociología,Estudio,02/01/2023 00:00,A000002,Colusión,Centro,No,ALPHA,2
+R0003,La Secu,Narnia,Sociología,Examen nivelador,03/01/2023 00:00,A000003,Copia en exámenes,Centro,No,ALPHA,3
+R0004,La Secu,Narnia,Sociología,Examen nivelador,04/01/2023 00:00,A000004,Copia en exámenes,Centro,Sí,BETA,4
+R0005,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,05/01/2023 00:00,A000005,Copia en exámenes,Centro,No,BETA,5
+R0006,La Secu,Narnia,Sociología,Estudio,06/01/2023 00:00,A000006,Plagio,Centro,No,GAMMA,6
+R0007,Big Bang Theory,Pizza Planeta,Diseños,Prototipo,07/01/2023 00:00,A000007,Plagio,Sur,No,DELTA,1
+R0008,Kindergardiano,Pizza Planeta,Arquitectura,Examen nivelador,08/01/2023 00:00,A000008,Copia en exámenes,Sur,No,EPSILON,2
+R0009,Kindergardiano,Pizza Planeta,Arquitectura,Examen nivelador,09/01/2023 00:00,A000009,Copia en exámenes,Sur,Sí,DSETA,3
+R0010,Big Bang Theory,Pizza Planeta,Diseños,Estudio,10/01/2023 00:00,A000010,Otra,Sur,Sí,ETA,4
+R0011,Big Bang Theory,Narnia,Arquitectura,Experimento,11/01/2023 00:00,A000011,Suplantación de identidad,Centro,No,ETA,5
+R0012,La Secu,Pandora,Sociología,Experimento,12/01/2023 00:00,A000012,Otra,Norte,Sí,KAPPA,6
+R0013,Big Bang Theory,Pizza Planeta,Bienestar,Experimento,13/01/2023 00:00,A000013,Intercambio de tareas en línea,Sur,No,LAMBDA,1
+R0014,Big Bang Theory,Pizza Planeta,Bienestar,Examen nivelador,14/01/2023 00:00,A000014,Copia en exámenes,Sur,Sí,OMICRON,2
+R0015,Big Bang Theory,Pandora,Bienestar,Estudio,15/01/2023 00:00,A000015,Plagio,Norte,No,PI,3
+R0016,La Secu,Narnia,Sociología,Estudio,16/01/2023 00:00,A000016,Plagio,Centro,No,SIGMA,4
+R0017,La Secu,Pandora,Sociología,Experimento,17/01/2023 00:00,A000017,Copia en exámenes,Norte,No,OMEGA,5
+R0018,La Secu,Pandora,Sociología,Experimento,18/01/2023 00:00,A000018,Copia en exámenes,Norte,No,JI,7
+R0019,Big Bang Theory,Rarotonga,Bienestar,Examen nivelador,19/01/2023 00:00,A000019,Copia en exámenes,Norte,No,PHI,1
+R0020,Big Bang Theory,Rarotonga,Bienestar,Examen nivelador,20/01/2023 00:00,A000020,Copia en exámenes,Norte,Sí,ETA,2
+R0021,Big Bang Theory,Pizza Planeta,Bienestar,Estudio,21/01/2023 00:00,A000021,Copia en exámenes,Sur,No,KAPPA,3
+R0022,Big Bang Theory,Wonderland,Arquitectura,Estudio,22/01/2023 00:00,A000022,Plagio,Centro,No,LAMBDA,4
+R0023,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,23/01/2023 00:00,A000023,Copia en exámenes,Centro,Sí,OMICRON,7
+R0024,Big Bang Theory,Pizza Planeta,Arquitectura,Experimento,24/01/2023 00:00,A000024,Copia en exámenes,Sur,No,PI,6
+R0025,Big Bang Theory,Pizza Planeta,Arquitectura,Experimento,25/01/2023 00:00,A000025,Otra,Sur,No,SIGMA,1
+R0026,La Secu,Rarotonga,Sociología,Prototipo,26/01/2023 00:00,A000026,Plagio,Norte,No,OMEGA,2
+R0027,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,27/01/2023 00:00,A000027,Copia en exámenes,Centro,No,JI,3
+R0028,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,28/01/2023 00:00,A000028,Copia en exámenes,Centro,Sí,PHI,4
+R0029,La Secu,Wonderland,Sociología,Examen nivelador,29/01/2023 00:00,A000029,Copia en exámenes,Centro,Sí,ALPHA,7
+R0030,La Secu,Wonderland,Sociología,Examen nivelador,30/01/2023 00:00,A000030,Copia en exámenes,Centro,No,BETA,6
+R0031,La Secu,Wonderland,Sociología,Examen nivelador,31/01/2023 00:00,A000031,Copia en exámenes,Centro,Sí,BETA,1
+R0032,La Secu,Wonderland,Sociología,Examen nivelador,01/02/2023 00:00,A000032,Copia en exámenes,Centro,No,GAMMA,2
+R0033,La Secu,Wonderland,Sociología,Examen nivelador,02/02/2023 00:00,A000033,Copia en exámenes,Centro,Sí,DELTA,3
+R0034,La Secu,Wonderland,Sociología,Examen nivelador,03/02/2023 00:00,A000034,Copia en exámenes,Centro,No,ETA,7
+R0035,La Secu,Wonderland,Sociología,Examen nivelador,04/02/2023 00:00,A000035,Copia en exámenes,Centro,No,KAPPA,5
+R0036,Big Bang Theory,El País de Nunca Jamás,Bienestar,Estudio,05/02/2023 00:00,A000036,Plagio,Sur,No,LAMBDA,6
+R0037,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,06/02/2023 00:00,A000037,Copia en exámenes,Centro,No,OMICRON,1
+R0038,Big Bang Theory,"Muy, muy lejano",Arquitectura,Examen nivelador,07/02/2023 00:00,A000038,Copia en exámenes,Norte,No,PI,7
+R0039,Big Bang Theory,"Muy, muy lejano",Arquitectura,Examen nivelador,08/02/2023 00:00,A000039,Copia en exámenes,Norte,Sí,SIGMA,3
+R0040,La Secu,El País de Nunca Jamás,Sociología,Experimento,09/02/2023 00:00,A000040,Plagio,Sur,No,OMEGA,4
+R0041,La Secu,El País de Nunca Jamás,Sociología,Prototipo,10/02/2023 00:00,A000041,Plagio,Sur,No,JI,5
+R0042,Big Bang Theory,Wonderland,Diseños,Examen nivelador,11/02/2023 00:00,A000042,Otra,Centro,Sí,PHI,6
+R0043,La Secu,Pandora,Sociología,Estudio,12/02/2023 00:00,A000043,Plagio,Norte,No,ETA,2
+R0044,La Secu,Pandora,Sociología,Examen nivelador,13/02/2023 00:00,A000044,Otra,Norte,No,KAPPA,7
+R0045,La Secu,Hogwarts,Sociología,Prototipo,14/02/2023 00:00,A000045,Plagio,Centro,No,LAMBDA,4
+R0046,La Secu,Pandora,Sociología,Prototipo,15/02/2023 00:00,A000046,Plagio,Norte,No,OMICRON,5
+R0047,La Secu,Hogwarts,Sociología,Prototipo,16/02/2023 00:00,A000047,Plagio,Centro,Sí,TAU,6
+R0048,Big Bang Theory,Wonderland,Negocios,Estudio,17/02/2023 00:00,A000048,Plagio,Centro,Sí,PSI,1
+R0049,Big Bang Theory,Wonderland,Negocios,Estudio,18/02/2023 00:00,A000049,Plagio,Centro,No,RHO,2
+R0050,La Secu,Rarotonga,Sociología,Estudio,19/02/2023 00:00,A000050,Plagio,Norte,Sí,PI,7
+R0051,Big Bang Theory,Genovia,Arquitectura,Examen nivelador,20/02/2023 00:00,A000051,Colusión,Norte,No,MU,4
+R0052,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,21/02/2023 00:00,A000052,Copia en exámenes,Centro,Sí,IOTA,5
+R0053,Big Bang Theory,Narnia,Ingeniería,Estudio,22/02/2023 00:00,A000053,Plagio,Centro,No,TAU,6
+R0054,Big Bang Theory,Wonderland,Arquitectura,Prototipo,23/02/2023 00:00,A000054,Plagio,Centro,No,PSI,2
+R0055,La Secu,Rarotonga,Sociología,Prototipo,24/02/2023 00:00,A000055,Intercambio de tareas en línea,Norte,No,RHO,3
+R0056,La Secu,Rarotonga,Sociología,Prototipo,25/02/2023 00:00,A000056,Intercambio de tareas en línea,Norte,No,PI,7
+R0057,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,26/02/2023 00:00,A000057,Copia en exámenes,Centro,No,MU,5
+R0058,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,27/02/2023 00:00,A000058,Copia en exámenes,Centro,Sí,IOTA,6
+R0059,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,28/02/2023 00:00,A000059,Copia en exámenes,Centro,No,ETA,1
+R0060,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,01/03/2023 00:00,A000060,Copia en exámenes,Centro,No,KAPPA,2
+R0061,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,02/03/2023 00:00,A000061,Copia en exámenes,Centro,Sí,LAMBDA,7
+R0062,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,03/03/2023 00:00,A000062,Copia en exámenes,Centro,No,OMICRON,4
+R0063,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,04/03/2023 00:00,A000063,Copia en exámenes,Centro,No,TAU,5
+R0064,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,05/03/2023 00:00,A000064,Colusión,Norte,No,PSI,6
+R0065,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,06/03/2023 00:00,A000065,Copia en exámenes,Norte,No,RHO,2
+R0066,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,07/03/2023 00:00,A000066,Colusión,Norte,Sí,PI,3
+R0067,Big Bang Theory,Wonderland,Negocios,Estudio,08/03/2023 00:00,A000067,Plagio,Centro,Sí,MU,4
+R0068,Big Bang Theory,Narnia,Negocios,Estudio,09/03/2023 00:00,A000068,Colusión,Centro,No,ALPHA,7
+R0069,Big Bang Theory,Genovia,Ingeniería,Estudio,10/03/2023 00:00,A000069,Plagio,Norte,Sí,ALPHA,6
+R0070,Big Bang Theory,Genovia,Ingeniería,Estudio,11/03/2023 00:00,A000070,Plagio,Norte,No,ALPHA,1
+R0071,Big Bang Theory,Genovia,Ingeniería,Estudio,12/03/2023 00:00,A000071,Plagio,Norte,Sí,BETA,2
+R0072,Big Bang Theory,Genovia,Ingeniería,Estudio,13/03/2023 00:00,A000072,Plagio,Norte,No,BETA,3
+R0073,Big Bang Theory,Genovia,Diseños,Examen nivelador,14/03/2023 00:00,A000073,Copia en exámenes,Norte,No,GAMMA,4
+R0074,Big Bang Theory,El País de Nunca Jamás,Ingeniería,Examen nivelador,15/03/2023 00:00,A000074,Plagio,Sur,No,DELTA,7
+R0075,Big Bang Theory,Genovia,Negocios,Prototipo,16/03/2023 00:00,A000075,Plagio,Norte,No,EPSILON,6
+R0076,Big Bang Theory,Genovia,Negocios,Prototipo,17/03/2023 00:00,A000076,Plagio,Norte,No,DSETA,2
+R0077,Big Bang Theory,Genovia,Ingeniería,Estudio,18/03/2023 00:00,A000077,Plagio,Norte,Sí,ETA,3
+R0078,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,19/03/2023 00:00,A000078,Copia en exámenes,Centro,No,ETA,4
+R0079,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,20/03/2023 00:00,A000079,Copia en exámenes,Centro,No,KAPPA,7
+R0080,La Secu,Genovia,Sociología,Estudio,21/03/2023 00:00,A000080,Plagio,Norte,Sí,LAMBDA,2
+R0081,Big Bang Theory,Genovia,Negocios,Examen nivelador,22/03/2023 00:00,A000081,Copia en exámenes,Norte,No,OMICRON,3
+R0082,La Secu,Ciudad Gótica,Sociología,Examen nivelador,23/03/2023 00:00,A000082,Copia en exámenes,Sur,No,PI,4
+R0083,Big Bang Theory,Genovia,Negocios,Examen nivelador,24/03/2023 00:00,A000083,Copia en exámenes,Norte,No,SIGMA,5
+R0084,Big Bang Theory,Genovia,Negocios,Examen nivelador,25/03/2023 00:00,A000084,Copia en exámenes,Norte,No,OMEGA,6
+R0085,Big Bang Theory,Genovia,Negocios,Estudio,26/03/2023 00:00,A000085,Plagio,Norte,Sí,JI,1
+R0086,Big Bang Theory,Genovia,Negocios,Examen nivelador,27/03/2023 00:00,A000086,Copia en exámenes,Norte,Sí,PHI,2
+R0087,Big Bang Theory,Genovia,Negocios,Experimento,28/03/2023 00:00,A000087,Copia en exámenes,Norte,No,ETA,3
+R0088,Big Bang Theory,Parque Jurásico,Arquitectura,Examen nivelador,29/03/2023 00:00,A000088,Copia en exámenes,Sur,Sí,KAPPA,4
+R0089,Big Bang Theory,Parque Jurásico,Arquitectura,Examen nivelador,30/03/2023 00:00,A000089,Distribución de exámenes,Sur,No,LAMBDA,7
+R0090,Big Bang Theory,Parque Jurásico,Arquitectura,Examen regulador,31/03/2023 00:00,A000090,Copia en exámenes,Sur,Sí,OMICRON,8
+R0091,Big Bang Theory,El País de Nunca Jamás,Arquitectura,Prototipo,01/04/2023 00:00,A000091,Plagio,Sur,No,PI,2
+R0092,La Secu,Ciudad Gótica,Sociología,Examen regulador,02/04/2023 00:00,A000092,Copia en exámenes,Sur,No,SIGMA,3
+R0093,Big Bang Theory,Genovia,Negocios,Examen regulador,03/04/2023 00:00,A000093,Distribución de exámenes,Norte,No,OMEGA,4
+R0094,La Secu,Ciudad Gótica,Sociología,Examen regulador,04/04/2023 00:00,A000094,Copia en exámenes,Sur,No,JI,5
+R0095,La Secu,Ciudad Gótica,Sociología,Examen regulador,05/04/2023 00:00,A000095,Copia en exámenes,Sur,No,PHI,5
+R0096,La Secu,Ciudad Gótica,Sociología,Examen regulador,06/04/2023 00:00,A000096,Copia en exámenes,Sur,Sí,ALPHA,6
+R0097,La Secu,"Muy, muy lejano",Sociología,Examen regulador,07/04/2023 00:00,A000097,Colusión,Norte,No,BETA,2
+R0098,La Secu,Ciudad Gótica,Sociología,Examen regulador,08/04/2023 00:00,A000098,Copia en exámenes,Sur,No,BETA,3
+R0099,La Secu,Wonderland,Sociología,Examen regulador,09/04/2023 00:00,A000099,Intercambio de tareas en línea,Centro,Sí,GAMMA,4
+R0100,Big Bang Theory,Parque Jurásico,Arquitectura,Examen regulador,10/04/2023 00:00,A000100,Copia en exámenes,Sur,No,DELTA,5
+R0101,La Secu,Wonderland,Sociología,Examen regulador,11/04/2023 00:00,A000101,Intercambio de tareas en línea,Centro,No,ETA,8
+R0102,La Secu,Springfield,Sociología,Experimento,12/04/2023 00:00,A000102,Plagio,Centro,No,KAPPA,6
+R0103,La Secu,Springfield,Sociología,Experimento,13/04/2023 00:00,A000103,Plagio,Centro,No,LAMBDA,2
+R0104,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,14/04/2023 00:00,A000104,Plagio,Sur,Sí,OMICRON,3
+R0105,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,15/04/2023 00:00,A000105,Otra,Sur,Sí,PI,4
+R0106,La Secu,Ciudad Gótica,Sociología,Examen regulador,16/04/2023 00:00,A000106,Copia en exámenes,Norte,No,SIGMA,5
+R0107,La Secu,Pandora,Sociología,Examen regulador,17/04/2023 00:00,A000107,Copia en exámenes,Norte,Sí,OMEGA,5
+R0108,Monster University,Genovia,Arquitectura,Examen regulador,18/04/2023 00:00,A000108,Copia en exámenes,Norte,No,JI,6
+R0109,Monster University,Genovia,Ingeniería,Examen regulador,19/04/2023 00:00,A000109,Copia en exámenes,Norte,Sí,PHI,2
+R0110,Monster University,Genovia,Diseños,Examen regulador,20/04/2023 00:00,A000110,Copia en exámenes,Norte,No,ETA,3
+R0111,Monster University,Genovia,Ingeniería,Examen regulador,21/04/2023 00:00,A000111,Copia en exámenes,Norte,No,KAPPA,4
+R0112,Monster University,Genovia,Educación,Examen regulador,22/04/2023 00:00,A000112,Copia en exámenes,Norte,No,LAMBDA,8
+R0113,Monster University,Genovia,Negocios,Examen regulador,23/04/2023 00:00,A000113,Copia en exámenes,Norte,No,OMICRON,8
+R0114,Monster University,Genovia,Arquitectura,Examen regulador,24/04/2023 00:00,A000114,Copia en exámenes,Norte,No,TAU,6
+R0115,Monster University,Genovia,Ingeniería,Examen regulador,25/04/2023 00:00,A000115,Copia en exámenes,Norte,Sí,PSI,2
+R0116,Monster University,Genovia,Negocios,Examen regulador,26/04/2023 00:00,A000116,Copia en exámenes,Norte,No,RHO,3
+R0117,Monster University,Genovia,Arquitectura,Examen regulador,27/04/2023 00:00,A000117,Copia en exámenes,Norte,No,PI,4
+R0118,Monster University,Genovia,Arquitectura,Examen regulador,28/04/2023 00:00,A000118,Copia en exámenes,Norte,Sí,MU,5
+R0119,Monster University,Genovia,Negocios,Examen regulador,29/04/2023 00:00,A000119,Copia en exámenes,Norte,No,IOTA,5
+R0120,Monster University,Genovia,Arquitectura,Examen regulador,30/04/2023 00:00,A000120,Copia en exámenes,Norte,No,TAU,5
+R0121,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,01/05/2023 00:00,A000121,Plagio,Sur,No,PSI,6
+R0122,Monster University,Genovia,Negocios,Examen regulador,02/05/2023 00:00,A000122,Copia en exámenes,Norte,No,RHO,2
+R0123,La Secu,Pandora,Sociología,Examen regulador,03/05/2023 00:00,A000123,Plagio,Norte,Sí,PI,3
+R0124,Monster University,Wonderland,Negocios,Estudio,04/05/2023 00:00,A000124,Plagio,Centro,Sí,MU,4
+R0125,Monster University,Wonderland,Negocios,Estudio,05/05/2023 00:00,A000125,Plagio,Centro,No,IOTA,5
+R0126,Monster University,Wonderland,Negocios,Estudio,06/05/2023 00:00,A000126,Plagio,Centro,Sí,ETA,4
+R0127,Monster University,Wonderland,Negocios,Estudio,07/05/2023 00:00,A000127,Plagio,Centro,No,KAPPA,5
+R0128,Monster University,Wonderland,Negocios,Prototipo,08/05/2023 00:00,A000128,Intercambio de tareas en línea,Centro,Sí,LAMBDA,6
+R0129,Monster University,Wonderland,Negocios,Prototipo,09/05/2023 00:00,A000129,Plagio,Centro,No,OMICRON,2
+R0130,Monster University,Wonderland,Negocios,Prototipo,10/05/2023 00:00,A000130,Plagio,Centro,No,TAU,3
+R0131,La Secu,Hogwarts,Sociología,Examen regulador,11/05/2023 00:00,A000131,Distribución de exámenes,Centro,No,PSI,4
+R0132,La Secu,Hogwarts,Sociología,Examen regulador,12/05/2023 00:00,A000132,Otra,Centro,No,RHO,8
+R0133,La Secu,Pandora,Sociología,Examen regulador,13/05/2023 00:00,A000133,Plagio,Norte,No,PI,8
+R0134,La Secu,Pandora,Sociología,Examen regulador,14/05/2023 00:00,A000134,Copia en exámenes,Norte,Sí,MU,8
+R0135,La Secu,Hogwarts,Sociología,Estudio,15/05/2023 00:00,A000135,Plagio,Centro,No,ALPHA,8
+R0136,Monster University,Empire,Arquitectura,Examen regulador,16/05/2023 00:00,A000136,Copia en exámenes,Centro,No,ALPHA,8
+R0137,Monster University,Parque Jurásico,Arquitectura,Examen regulador,17/05/2023 00:00,A000137,Copia en exámenes,Sur,Sí,ALPHA,4
+R0138,La Secu,"Muy, muy lejano",Sociología,Examen regulador,18/05/2023 00:00,A000138,Copia en exámenes,Norte,No,BETA,5
+R0139,La Secu,Wonderland,Sociología,Prototipo,19/05/2023 00:00,A000139,Plagio,Centro,No,BETA,4
+R0140,Monster University,Genovia,Negocios,Examen regulador,20/05/2023 00:00,A000140,Copia en exámenes,Norte,No,GAMMA,5
+R0141,La Secu,Hogwarts,Sociología,Estudio,21/05/2023 00:00,A000141,Plagio,Centro,No,DELTA,6
+R0142,La Secu,Hogwarts,Sociología,Estudio,22/05/2023 00:00,A000142,Plagio,Centro,Sí,EPSILON,2
+R0143,La Secu,Hogwarts,Sociología,Estudio,23/05/2023 00:00,A000143,Plagio,Centro,Sí,DSETA,3
+R0144,La Secu,Hogwarts,Sociología,Estudio,24/05/2023 00:00,A000144,Plagio,Centro,No,ETA,4
+R0145,La Secu,Hogwarts,Sociología,Estudio,25/05/2023 00:00,A000145,Plagio,Centro,Sí,ETA,5
+R0146,Monster University,Wonderland,Arquitectura,Examen regulador,26/05/2023 00:00,A000146,Distribución de exámenes,Centro,No,KAPPA,6
+R0147,La Secu,Parque Jurásico,Sociología,Experimento,27/05/2023 00:00,A000147,Colusión,Sur,Sí,LAMBDA,9
+R0148,La Secu,Parque Jurásico,Sociología,Experimento,28/05/2023 00:00,A000148,Colusión,Sur,No,OMICRON,2
+R0149,La Secu,Pizza Planeta,Sociología,Experimento,29/05/2023 00:00,A000149,Plagio,Sur,No,PI,3
+R0150,Monster University,Distrito 13,Diseños,Estudio,30/05/2023 00:00,A000150,Plagio,Centro,No,SIGMA,4
+R0151,La Secu,Distrito 13,Sociología,Examen regulador,31/05/2023 00:00,A000151,Otra,Centro,No,OMEGA,5
+R0152,Monster University,Genovia,Arquitectura,Experimento,01/06/2023 00:00,A000152,Compra-venta,Norte,No,JI,4
+R0153,La Secu,Pizza Planeta,Sociología,Examen regulador,02/06/2023 00:00,A000153,Copia en exámenes,Sur,Sí,PHI,5
+R0154,La Secu,Distrito 13,Sociología,Examen regulador,03/06/2023 00:00,A000154,Copia en exámenes,Centro,No,ETA,6
+R0155,La Secu,Distrito 13,Sociología,Experimento,04/06/2023 00:00,A000155,Plagio,Centro,No,KAPPA,2
+R0156,La Secu,Distrito 13,Sociología,Estudio,05/06/2023 00:00,A000156,Plagio,Centro,Sí,LAMBDA,3
+R0157,La Secu,Springfield,Sociología,Prototipo,06/06/2023 00:00,A000157,Plagio,Centro,No,OMICRON,4
+R0158,La Secu,Springfield,Sociología,Prototipo,07/06/2023 00:00,A000158,Plagio,Centro,No,PI,5
+R0159,La Secu,Springfield,Sociología,Prototipo,08/06/2023 00:00,A000159,Plagio,Centro,No,SIGMA,6
+R0160,La Secu,Springfield,Sociología,Prototipo,09/06/2023 00:00,A000160,Plagio,Centro,No,OMEGA,1
+R0161,La Secu,Springfield,Sociología,Prototipo,10/06/2023 00:00,A000161,Plagio,Centro,Sí,JI,2
+R0162,La Secu,Springfield,Sociología,Prototipo,11/06/2023 00:00,A000162,Plagio,Centro,Sí,PHI,3
+R0163,La Secu,Springfield,Sociología,Prototipo,12/06/2023 00:00,A000163,Plagio,Centro,No,ALPHA,4
+R0164,La Secu,Springfield,Sociología,Prototipo,13/06/2023 00:00,A000164,Plagio,Centro,Sí,BETA,5
+R0165,La Secu,Springfield,Sociología,Prototipo,14/06/2023 00:00,A000165,Plagio,Centro,No,BETA,4
+R0166,La Secu,Springfield,Sociología,Prototipo,15/06/2023 00:00,A000166,Plagio,Centro,Sí,GAMMA,5
+R0167,La Secu,Springfield,Sociología,Prototipo,16/06/2023 00:00,A000167,Plagio,Centro,No,DELTA,6
+R0168,La Secu,Springfield,Sociología,Prototipo,17/06/2023 00:00,A000168,Plagio,Centro,No,ETA,2
+R0169,La Secu,Distrito 13,Sociología,Examen diagnóstico,18/06/2023 00:00,A000169,Copia en exámenes,Centro,No,KAPPA,3
+R0170,La Secu,Distrito 13,Sociología,Examen diagnóstico,19/06/2023 00:00,A000170,Copia en exámenes,Centro,No,LAMBDA,9
+R0171,La Secu,El País de Nunca Jamás,Sociología,Examen diagnóstico,20/06/2023 00:00,A000171,Copia en exámenes,Norte,No,OMICRON,5
+R0172,Kindergardiano,Genovia,Negocios,Estudio,21/06/2023 00:00,A000172,Plagio,Norte,Sí,PI,6
+R0173,La Secu,Pandora,Sociología,Prototipo,22/06/2023 00:00,A000173,Plagio,Norte,No,SIGMA,1
+R0174,La Secu,Pandora,Sociología,Prototipo,23/06/2023 00:00,A000174,Plagio,Norte,No,OMEGA,2
+R0175,La Secu,Pandora,Sociología,Examen diagnóstico,24/06/2023 00:00,A000175,Falsificación,Norte,Sí,JI,3
+R0176,La Secu,Wonderland,Sociología,Prototipo,25/06/2023 00:00,A000176,Intercambio de tareas en línea,Centro,No,PHI,4
+R0177,La Secu,Pizza Planeta,Sociología,Experimento,26/06/2023 00:00,A000177,Fabricación,Sur,No,ETA,5
+R0178,Monster University,Genovia,Diseños,Examen diagnóstico,27/06/2023 00:00,A000178,Compra-venta,Norte,No,KAPPA,4
+R0179,La Secu,"Muy, muy lejano",Sociología,Examen diagnóstico,28/06/2023 00:00,A000179,Otra,Centro,No,LAMBDA,5
+R0180,La Secu,Parque Jurásico,Sociología,Examen diagnóstico,29/06/2023 00:00,A000180,Autoplagio,Norte,Sí,OMICRON,6
+R0181,La Secu,Distrito 13,Sociología,Examen diagnóstico,30/06/2023 00:00,A000181,Copia en exámenes,Centro,Sí,TAU,2
+R0182,Monster University,Pizza Planeta,Arquitectura,Prototipo,01/07/2023 00:00,A000182,Plagio,Sur,No,PSI,9
+R0183,High School Musical,Wonderland,Sociología,Examen diagnóstico,02/07/2023 00:00,A000183,Copia en exámenes,Centro,Sí,RHO,4
+R0184,High School Musical,El País de Nunca Jamás,Sociología,Examen diagnóstico,03/07/2023 00:00,A000184,Copia en exámenes,Sur,No,PI,5
+R0185,Monster University,Genovia,Arquitectura,Experimento,04/07/2023 00:00,A000185,Distribución de exámenes,Norte,Sí,MU,6
+R0186,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,05/07/2023 00:00,A000186,Copia en exámenes,Norte,No,IOTA,1
+R0187,High School Musical,Wonderland,Sociología,Experimento,06/07/2023 00:00,A000187,Intercambio de tareas en línea,Centro,No,TAU,2
+R0188,High School Musical,Springfield,Sociología,Estudio,07/07/2023 00:00,A000188,Plagio,Norte,No,PSI,3
+R0189,High School Musical,Springfield,Sociología,Estudio,08/07/2023 00:00,A000189,Plagio,Norte,No,RHO,4
+R0190,High School Musical,Springfield,Sociología,Estudio,09/07/2023 00:00,A000190,Plagio,Norte,No,PI,5
+R0191,Kindergardiano,Genovia,Educación,Prototipo,10/07/2023 00:00,A000191,Plagio,Norte,Sí,MU,4
+R0192,Kindergardiano,Genovia,Educación,Prototipo,11/07/2023 00:00,A000192,Plagio,Norte,No,IOTA,5
+R0193,High School Musical,Wonderland,Sociología,Examen diagnóstico,12/07/2023 00:00,A000193,Copia en exámenes,Centro,No,ETA,6
+R0194,High School Musical,Distrito 13,Sociología,Examen diagnóstico,13/07/2023 00:00,A000194,Copia en exámenes,Centro,Sí,KAPPA,2
+R0195,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,14/07/2023 00:00,A000195,Fabricación,Sur,No,LAMBDA,3
+R0196,Monster University,Pizza Planeta,Ingeniería,Estudio,15/07/2023 00:00,A000196,Colusión,Sur,No,OMICRON,9
+R0197,Monster University,Genovia,Bienestar,Estudio,16/07/2023 00:00,A000197,Intercambio de tareas en línea,Norte,No,TAU,5
+R0198,Monster University,Genovia,Bienestar,Estudio,17/07/2023 00:00,A000198,Intercambio de tareas en línea,Norte,No,PSI,6
+R0199,Monster University,Genovia,Bienestar,Estudio,18/07/2023 00:00,A000199,Intercambio de tareas en línea,Norte,Sí,RHO,1
+R0200,High School Musical,Distrito 13,Sociología,Examen diagnóstico,19/07/2023 00:00,A000200,Copia en exámenes,Centro,Sí,PI,2
+R0201,Monster University,Narnia,Diseños,Estudio,20/07/2023 00:00,A000201,Plagio,Centro,No,MU,3
+R0202,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,21/07/2023 00:00,A000202,Plagio,Sur,Sí,ALPHA,4
+R0203,Monster University,Wonderland,Bienestar,Experimento,22/07/2023 00:00,A000203,Plagio,Centro,No,ALPHA,5
+R0204,High School Musical,Wonderland,Sociología,Experimento,23/07/2023 00:00,A000204,Plagio,Centro,Sí,ALPHA,4
+R0205,Monster University,Wonderland,Bienestar,Experimento,24/07/2023 00:00,A000205,Plagio,Centro,No,BETA,5
+R0206,High School Musical,Wonderland,Sociología,Experimento,25/07/2023 00:00,A000206,Plagio,Centro,No,BETA,9
+R0207,Monster University,Wonderland,Bienestar,Experimento,26/07/2023 00:00,A000207,Plagio,Centro,No,GAMMA,9
+R0208,Monster University,Wonderland,Bienestar,Experimento,27/07/2023 00:00,A000208,Plagio,Centro,No,DELTA,3
+R0209,Monster University,Wonderland,Bienestar,Experimento,28/07/2023 00:00,A000209,Plagio,Centro,No,EPSILON,9
+R0210,Monster University,Wonderland,Bienestar,Experimento,29/07/2023 00:00,A000210,Plagio,Centro,Sí,DSETA,9
+R0211,High School Musical,Wonderland,Sociología,Experimento,30/07/2023 00:00,A000211,Plagio,Centro,No,ETA,9
+R0212,Monster University,Wonderland,Bienestar,Experimento,31/07/2023 00:00,A000212,Plagio,Centro,No,ETA,1
+R0213,Monster University,Distrito 13,Bienestar,Examen diagnóstico,01/08/2023 00:00,A000213,Copia en exámenes,Centro,Sí,KAPPA,2
+R0214,Monster University,Distrito 13,Bienestar,Examen diagnóstico,02/08/2023 00:00,A000214,Copia en exámenes,Centro,No,LAMBDA,3
+R0215,High School Musical,El País de Nunca Jamás,Sociología,Experimento,03/08/2023 00:00,A000215,Copia en exámenes,Sur,No,OMICRON,4
+R0216,Monster University,Distrito 13,Bienestar,Estudio,04/08/2023 00:00,A000216,Otra,Centro,No,PI,5
+R0217,High School Musical,Wonderland,Sociología,Examen diagnóstico,05/08/2023 00:00,A000217,Plagio,Centro,No,SIGMA,4
+R0218,High School Musical,Distrito 13,Sociología,Prototipo,06/08/2023 00:00,A000218,Plagio,Centro,Sí,OMEGA,5
+R0219,High School Musical,Distrito 13,Sociología,Examen diagnóstico,07/08/2023 00:00,A000219,Copia en exámenes,Centro,Sí,JI,6
+R0220,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,08/08/2023 00:00,A000220,Copia en exámenes,Centro,No,PHI,2
+R0221,Monster University,Genovia,Bienestar,Estudio,09/08/2023 00:00,A000221,Intercambio de tareas en línea,Norte,Sí,ETA,3
+R0222,High School Musical,Wonderland,Sociología,Examen diagnóstico,10/08/2023 00:00,A000222,Copia en exámenes,Centro,No,KAPPA,4
+R0223,High School Musical,Wonderland,Sociología,Examen diagnóstico,11/08/2023 00:00,A000223,Copia en exámenes,Centro,Sí,LAMBDA,5
+R0224,High School Musical,Wonderland,Sociología,Examen diagnóstico,12/08/2023 00:00,A000224,Copia en exámenes,Centro,No,OMICRON,6
+R0225,High School Musical,Wonderland,Sociología,Examen diagnóstico,13/08/2023 00:00,A000225,Copia en exámenes,Centro,No,PI,1
+R0226,High School Musical,Wonderland,Sociología,Examen diagnóstico,14/08/2023 00:00,A000226,Copia en exámenes,Centro,No,SIGMA,9
+R0227,High School Musical,Wonderland,Sociología,Examen diagnóstico,15/08/2023 00:00,A000227,Copia en exámenes,Centro,No,OMEGA,3
+R0228,High School Musical,Pandora,Sociología,Prototipo,16/08/2023 00:00,A000228,Plagio,Norte,No,JI,4
+R0229,High School Musical,Pandora,Sociología,Prototipo,17/08/2023 00:00,A000229,Plagio,Norte,Sí,PHI,5
+R0230,High School Musical,Pandora,Sociología,Prototipo,18/08/2023 00:00,A000230,Plagio,Norte,No,ALPHA,6
+R0231,High School Musical,Pandora,Sociología,Prototipo,19/08/2023 00:00,A000231,Plagio,Norte,No,BETA,1
+R0232,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,20/08/2023 00:00,A000232,Copia en exámenes,Centro,Sí,BETA,2
+R0233,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,21/08/2023 00:00,A000233,Copia en exámenes,Centro,No,GAMMA,3
+R0234,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,22/08/2023 00:00,A000234,Copia en exámenes,Centro,No,DELTA,4
+R0235,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,23/08/2023 00:00,A000235,Copia en exámenes,Centro,No,ETA,5
+R0236,Monster University,Wonderland,Arquitectura,Prototipo,24/08/2023 00:00,A000236,Plagio,Centro,No,KAPPA,4
+R0237,Monster University,Genovia,Ingeniería,Examen diagnóstico,25/08/2023 00:00,A000237,Copia en exámenes,Norte,Sí,LAMBDA,5
+R0238,Monster University,Wonderland,Ingeniería,Examen diagnóstico,26/08/2023 00:00,A000238,Copia en exámenes,Centro,Sí,OMICRON,6
+R0239,Monster University,Genovia,Arquitectura,Examen diagnóstico,27/08/2023 00:00,A000239,Copia en exámenes,Norte,No,PI,2
+R0240,Monster University,Wonderland,Ingeniería,Examen diagnóstico,28/08/2023 00:00,A000240,Copia en exámenes,Centro,Sí,SIGMA,3
+R0241,Monster University,Genovia,Ingeniería,Examen diagnóstico,29/08/2023 00:00,A000241,Copia en exámenes,Norte,No,OMEGA,4
+R0242,Monster University,Distrito 13,Bienestar,Estudio,30/08/2023 00:00,A000242,Colusión,Centro,Sí,JI,5
+R0243,Monster University,Distrito 13,Bienestar,Estudio,31/08/2023 00:00,A000243,Colusión,Centro,No,PHI,6
+R0244,High School Musical,El País de Nunca Jamás,Sociología,Estudio,01/09/2023 00:00,A000244,Plagio,Norte,No,ETA,1
+R0245,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,02/09/2023 00:00,A000245,Copia en exámenes,Sur,No,KAPPA,2
+R0246,High School Musical,Springfield,Sociología,Experimento,03/09/2023 00:00,A000246,Plagio,Centro,No,LAMBDA,3
+R0247,High School Musical,Springfield,Sociología,Estudio,04/09/2023 00:00,A000247,Plagio,Centro,No,OMICRON,4
+R0248,Monster University,Genovia,Arquitectura,Examen diagnóstico,05/09/2023 00:00,A000248,Distribución de exámenes,Norte,Sí,TAU,5
+R0249,Monster University,Genovia,Arquitectura,Examen diagnóstico,06/09/2023 00:00,A000249,Copia en exámenes,Norte,No,PSI,4
+R0250,High School Musical,Springfield,Sociología,Estudio,07/09/2023 00:00,A000250,Plagio,Norte,No,RHO,5
+R0251,High School Musical,Springfield,Sociología,Estudio,08/09/2023 00:00,A000251,Plagio,Norte,Sí,PI,6
+R0252,High School Musical,Springfield,Sociología,Prototipo,09/09/2023 00:00,A000252,Plagio,Centro,No,MU,2
+R0253,High School Musical,Springfield,Sociología,Prototipo,10/09/2023 00:00,A000253,Plagio,Centro,No,IOTA,3
+R0254,Monster University,Distrito 13,Bienestar,Prototipo,11/09/2023 00:00,A000254,Plagio,Centro,No,TAU,4
+R0255,High School Musical,Springfield,Sociología,Examen diagnóstico,12/09/2023 00:00,A000255,Copia en exámenes,Centro,No,PSI,5
+R0256,High School Musical,Springfield,Sociología,Examen diagnóstico,13/09/2023 00:00,A000256,Copia en exámenes,Centro,Sí,RHO,6
+R0257,High School Musical,Springfield,Sociología,Examen diagnóstico,14/09/2023 00:00,A000257,Copia en exámenes,Centro,Sí,PI,1
+R0258,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,15/09/2023 00:00,A000258,Copia en exámenes,Centro,No,MU,2
+R0259,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,16/09/2023 00:00,A000259,Copia en exámenes,Centro,Sí,IOTA,3
+R0260,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,17/09/2023 00:00,A000260,Copia en exámenes,Centro,No,ETA,4
+R0261,Monster University,El País de Nunca Jamás,Bienestar,Experimento,18/09/2023 00:00,A000261,Soborno,Sur,Sí,KAPPA,5
+R0262,Monster University,Hogwarts,Bienestar,Estudio,19/09/2023 00:00,A000262,Colusión,Centro,No,LAMBDA,4
+R0263,Monster University,Hogwarts,Bienestar,Estudio,20/09/2023 00:00,A000263,Colusión,Centro,No,OMICRON,5
+R0264,High School Musical,El País de Nunca Jamás,Sociología,Examen diagnóstico,21/09/2023 00:00,A000264,Copia en exámenes,Norte,No,TAU,6
+R0265,Monster University,Genovia,Arquitectura,Examen diagnóstico,22/09/2023 00:00,A000265,Colusión,Norte,No,PSI,2
+R0266,High School Musical,Pizza Planeta,Sociología,Experimento,23/09/2023 00:00,A000266,Copia en exámenes,Sur,No,RHO,3
+R0267,High School Musical,Pizza Planeta,Sociología,Experimento,24/09/2023 00:00,A000267,Copia en exámenes,Sur,Sí,PI,4
+R0268,High School Musical,Pizza Planeta,Sociología,Experimento,25/09/2023 00:00,A000268,Copia en exámenes,Sur,No,MU,5
+R0269,High School Musical,Pizza Planeta,Sociología,Experimento,26/09/2023 00:00,A000269,Copia en exámenes,Sur,No,MU,6
+R0270,High School Musical,Pizza Planeta,Sociología,Prototipo,27/09/2023 00:00,A000270,Plagio,Sur,Sí,MU,1
+R0271,Kindergardiano,Narnia,Sociología,Examen nivelador,01/01/2023 00:00,A000001,Copia en exámenes,Centro,Sí,ALPHA,1
+R0272,La Secu,Distrito 13,Sociología,Estudio,02/01/2023 00:00,A000002,Colusión,Centro,No,ALPHA,2
+R0273,La Secu,Narnia,Sociología,Examen nivelador,03/01/2023 00:00,A000003,Copia en exámenes,Centro,No,ALPHA,3
+R0274,La Secu,Narnia,Sociología,Examen nivelador,04/01/2023 00:00,A000004,Copia en exámenes,Centro,Sí,BETA,4
+R0275,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,05/01/2023 00:00,A000005,Copia en exámenes,Centro,No,BETA,5
+R0276,La Secu,Narnia,Sociología,Estudio,06/01/2023 00:00,A000006,Plagio,Centro,No,GAMMA,6
+R0277,Big Bang Theory,Pizza Planeta,Diseños,Prototipo,07/01/2023 00:00,A000007,Plagio,Sur,No,DELTA,1
+R0278,Kindergardiano,Pizza Planeta,Arquitectura,Examen nivelador,08/01/2023 00:00,A000008,Copia en exámenes,Sur,No,EPSILON,2
+R0279,Kindergardiano,Pizza Planeta,Arquitectura,Examen nivelador,09/01/2023 00:00,A000009,Copia en exámenes,Sur,Sí,DSETA,3
+R0280,Big Bang Theory,Pizza Planeta,Diseños,Estudio,10/01/2023 00:00,A000010,Otra,Sur,Sí,ETA,4
+R0281,Big Bang Theory,Narnia,Arquitectura,Experimento,11/01/2023 00:00,A000011,Suplantación de identidad,Centro,No,ETA,5
+R0282,La Secu,Pandora,Sociología,Experimento,12/01/2023 00:00,A000012,Otra,Norte,Sí,KAPPA,6
+R0283,Big Bang Theory,Pizza Planeta,Bienestar,Experimento,13/01/2023 00:00,A000013,Intercambio de tareas en línea,Sur,No,LAMBDA,1
+R0284,Big Bang Theory,Pizza Planeta,Bienestar,Examen nivelador,14/01/2023 00:00,A000014,Copia en exámenes,Sur,Sí,OMICRON,2
+R0285,Big Bang Theory,Pandora,Bienestar,Estudio,15/01/2023 00:00,A000015,Plagio,Norte,No,PI,3
+R0286,La Secu,Narnia,Sociología,Estudio,16/01/2023 00:00,A000016,Plagio,Centro,No,SIGMA,4
+R0287,La Secu,Pandora,Sociología,Experimento,17/01/2023 00:00,A000017,Copia en exámenes,Norte,No,OMEGA,5
+R0288,La Secu,Pandora,Sociología,Experimento,18/01/2023 00:00,A000018,Copia en exámenes,Norte,No,JI,7
+R0289,Big Bang Theory,Rarotonga,Bienestar,Examen nivelador,19/01/2023 00:00,A000019,Copia en exámenes,Norte,No,PHI,1
+R0290,Big Bang Theory,Rarotonga,Bienestar,Examen nivelador,20/01/2023 00:00,A000020,Copia en exámenes,Norte,Sí,ETA,2
+R0291,Big Bang Theory,Pizza Planeta,Bienestar,Estudio,21/01/2023 00:00,A000021,Copia en exámenes,Sur,No,KAPPA,3
+R0292,Big Bang Theory,Wonderland,Arquitectura,Estudio,22/01/2023 00:00,A000022,Plagio,Centro,No,LAMBDA,4
+R0293,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,23/01/2023 00:00,A000023,Copia en exámenes,Centro,Sí,OMICRON,7
+R0294,Big Bang Theory,Pizza Planeta,Arquitectura,Experimento,24/01/2023 00:00,A000024,Copia en exámenes,Sur,No,PI,6
+R0295,Big Bang Theory,Pizza Planeta,Arquitectura,Experimento,25/01/2023 00:00,A000025,Otra,Sur,No,SIGMA,1
+R0296,La Secu,Rarotonga,Sociología,Prototipo,26/01/2023 00:00,A000026,Plagio,Norte,No,OMEGA,2
+R0297,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,27/01/2023 00:00,A000027,Copia en exámenes,Centro,No,JI,3
+R0298,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,28/01/2023 00:00,A000028,Copia en exámenes,Centro,Sí,PHI,4
+R0299,La Secu,Wonderland,Sociología,Examen nivelador,29/01/2023 00:00,A000029,Copia en exámenes,Centro,Sí,ALPHA,7
+R0300,La Secu,Wonderland,Sociología,Examen nivelador,30/01/2023 00:00,A000030,Copia en exámenes,Centro,No,BETA,6
+R0301,La Secu,Wonderland,Sociología,Examen nivelador,31/01/2023 00:00,A000031,Copia en exámenes,Centro,Sí,BETA,1
+R0302,La Secu,Wonderland,Sociología,Examen nivelador,01/02/2023 00:00,A000032,Copia en exámenes,Centro,No,GAMMA,2
+R0303,La Secu,Wonderland,Sociología,Examen nivelador,02/02/2023 00:00,A000033,Copia en exámenes,Centro,Sí,DELTA,3
+R0304,La Secu,Wonderland,Sociología,Examen nivelador,03/02/2023 00:00,A000034,Copia en exámenes,Centro,No,ETA,7
+R0305,La Secu,Wonderland,Sociología,Examen nivelador,04/02/2023 00:00,A000035,Copia en exámenes,Centro,No,KAPPA,5
+R0306,Big Bang Theory,El País de Nunca Jamás,Bienestar,Estudio,05/02/2023 00:00,A000036,Plagio,Sur,No,LAMBDA,6
+R0307,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,06/02/2023 00:00,A000037,Copia en exámenes,Centro,No,OMICRON,1
+R0308,Big Bang Theory,"Muy, muy lejano",Arquitectura,Examen nivelador,07/02/2023 00:00,A000038,Copia en exámenes,Norte,No,PI,7
+R0309,Big Bang Theory,"Muy, muy lejano",Arquitectura,Examen nivelador,08/02/2023 00:00,A000039,Copia en exámenes,Norte,Sí,SIGMA,3
+R0310,La Secu,El País de Nunca Jamás,Sociología,Experimento,09/02/2023 00:00,A000040,Plagio,Sur,No,OMEGA,4
+R0311,La Secu,El País de Nunca Jamás,Sociología,Prototipo,10/02/2023 00:00,A000041,Plagio,Sur,No,JI,5
+R0312,Big Bang Theory,Wonderland,Diseños,Examen nivelador,11/02/2023 00:00,A000042,Otra,Centro,Sí,PHI,6
+R0313,La Secu,Pandora,Sociología,Estudio,12/02/2023 00:00,A000043,Plagio,Norte,No,ETA,2
+R0314,La Secu,Pandora,Sociología,Examen nivelador,13/02/2023 00:00,A000044,Otra,Norte,No,KAPPA,7
+R0315,La Secu,Hogwarts,Sociología,Prototipo,14/02/2023 00:00,A000045,Plagio,Centro,No,LAMBDA,4
+R0316,La Secu,Pandora,Sociología,Prototipo,15/02/2023 00:00,A000046,Plagio,Norte,No,OMICRON,5
+R0317,La Secu,Hogwarts,Sociología,Prototipo,16/02/2023 00:00,A000047,Plagio,Centro,Sí,TAU,6
+R0318,Big Bang Theory,Wonderland,Negocios,Estudio,17/02/2023 00:00,A000048,Plagio,Centro,Sí,PSI,1
+R0319,Big Bang Theory,Wonderland,Negocios,Estudio,18/02/2023 00:00,A000049,Plagio,Centro,No,RHO,2
+R0320,La Secu,Rarotonga,Sociología,Estudio,19/02/2023 00:00,A000050,Plagio,Norte,Sí,PI,7
+R0321,Big Bang Theory,Genovia,Arquitectura,Examen nivelador,20/02/2023 00:00,A000051,Colusión,Norte,No,MU,4
+R0322,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,21/02/2023 00:00,A000052,Copia en exámenes,Centro,Sí,IOTA,5
+R0323,Big Bang Theory,Narnia,Ingeniería,Estudio,22/02/2023 00:00,A000053,Plagio,Centro,No,TAU,6
+R0324,Big Bang Theory,Wonderland,Arquitectura,Prototipo,23/02/2023 00:00,A000054,Plagio,Centro,No,PSI,2
+R0325,La Secu,Rarotonga,Sociología,Prototipo,24/02/2023 00:00,A000055,Intercambio de tareas en línea,Norte,No,RHO,3
+R0326,La Secu,Rarotonga,Sociología,Prototipo,25/02/2023 00:00,A000056,Intercambio de tareas en línea,Norte,No,PI,7
+R0327,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,26/02/2023 00:00,A000057,Copia en exámenes,Centro,No,MU,5
+R0328,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,27/02/2023 00:00,A000058,Copia en exámenes,Centro,Sí,IOTA,6
+R0329,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,28/02/2023 00:00,A000059,Copia en exámenes,Centro,No,ETA,1
+R0330,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,01/03/2023 00:00,A000060,Copia en exámenes,Centro,No,KAPPA,2
+R0331,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,02/03/2023 00:00,A000061,Copia en exámenes,Centro,Sí,LAMBDA,7
+R0332,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,03/03/2023 00:00,A000062,Copia en exámenes,Centro,No,OMICRON,4
+R0333,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,04/03/2023 00:00,A000063,Copia en exámenes,Centro,No,TAU,5
+R0334,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,05/03/2023 00:00,A000064,Colusión,Norte,No,PSI,6
+R0335,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,06/03/2023 00:00,A000065,Copia en exámenes,Norte,No,RHO,2
+R0336,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,07/03/2023 00:00,A000066,Colusión,Norte,Sí,PI,3
+R0337,Big Bang Theory,Wonderland,Negocios,Estudio,08/03/2023 00:00,A000067,Plagio,Centro,Sí,MU,4
+R0338,Big Bang Theory,Narnia,Negocios,Estudio,09/03/2023 00:00,A000068,Colusión,Centro,No,ALPHA,7
+R0339,Big Bang Theory,Genovia,Ingeniería,Estudio,10/03/2023 00:00,A000069,Plagio,Norte,Sí,ALPHA,6
+R0340,Big Bang Theory,Genovia,Ingeniería,Estudio,11/03/2023 00:00,A000070,Plagio,Norte,No,ALPHA,1
+R0341,Big Bang Theory,Genovia,Ingeniería,Estudio,12/03/2023 00:00,A000071,Plagio,Norte,Sí,BETA,2
+R0342,Big Bang Theory,Genovia,Ingeniería,Estudio,13/03/2023 00:00,A000072,Plagio,Norte,No,BETA,3
+R0343,Big Bang Theory,Genovia,Diseños,Examen nivelador,14/03/2023 00:00,A000073,Copia en exámenes,Norte,No,GAMMA,4
+R0344,Big Bang Theory,El País de Nunca Jamás,Ingeniería,Examen nivelador,15/03/2023 00:00,A000074,Plagio,Sur,No,DELTA,7
+R0345,Big Bang Theory,Genovia,Negocios,Prototipo,16/03/2023 00:00,A000075,Plagio,Norte,No,EPSILON,6
+R0346,Big Bang Theory,Genovia,Negocios,Prototipo,17/03/2023 00:00,A000076,Plagio,Norte,No,DSETA,2
+R0347,Big Bang Theory,Genovia,Ingeniería,Estudio,18/03/2023 00:00,A000077,Plagio,Norte,Sí,ETA,3
+R0348,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,19/03/2023 00:00,A000078,Copia en exámenes,Centro,No,ETA,4
+R0349,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,20/03/2023 00:00,A000079,Copia en exámenes,Centro,No,KAPPA,7
+R0350,La Secu,Genovia,Sociología,Estudio,21/03/2023 00:00,A000080,Plagio,Norte,Sí,LAMBDA,2
+R0351,Big Bang Theory,Genovia,Negocios,Examen nivelador,22/03/2023 00:00,A000081,Copia en exámenes,Norte,No,OMICRON,3
+R0352,La Secu,Ciudad Gótica,Sociología,Examen nivelador,23/03/2023 00:00,A000082,Copia en exámenes,Sur,No,PI,4
+R0353,Big Bang Theory,Genovia,Negocios,Examen nivelador,24/03/2023 00:00,A000083,Copia en exámenes,Norte,No,SIGMA,5
+R0354,Big Bang Theory,Genovia,Negocios,Examen nivelador,25/03/2023 00:00,A000084,Copia en exámenes,Norte,No,OMEGA,6
+R0355,Big Bang Theory,Genovia,Negocios,Estudio,26/03/2023 00:00,A000085,Plagio,Norte,Sí,JI,1
+R0356,Big Bang Theory,Genovia,Negocios,Examen nivelador,27/03/2023 00:00,A000086,Copia en exámenes,Norte,Sí,PHI,2
+R0357,Big Bang Theory,Genovia,Negocios,Experimento,28/03/2023 00:00,A000087,Copia en exámenes,Norte,No,ETA,3
+R0358,Big Bang Theory,Parque Jurásico,Arquitectura,Examen nivelador,29/03/2023 00:00,A000088,Copia en exámenes,Sur,Sí,KAPPA,4
+R0359,Big Bang Theory,Parque Jurásico,Arquitectura,Examen nivelador,30/03/2023 00:00,A000089,Distribución de exámenes,Sur,No,LAMBDA,7
+R0360,Big Bang Theory,Parque Jurásico,Arquitectura,Examen regulador,31/03/2023 00:00,A000090,Copia en exámenes,Sur,Sí,OMICRON,8
+R0361,Big Bang Theory,El País de Nunca Jamás,Arquitectura,Prototipo,01/04/2023 00:00,A000091,Plagio,Sur,No,PI,2
+R0362,La Secu,Ciudad Gótica,Sociología,Examen regulador,02/04/2023 00:00,A000092,Copia en exámenes,Sur,No,SIGMA,3
+R0363,Big Bang Theory,Genovia,Negocios,Examen regulador,03/04/2023 00:00,A000093,Distribución de exámenes,Norte,No,OMEGA,4
+R0364,La Secu,Ciudad Gótica,Sociología,Examen regulador,04/04/2023 00:00,A000094,Copia en exámenes,Sur,No,JI,5
+R0365,La Secu,Ciudad Gótica,Sociología,Examen regulador,05/04/2023 00:00,A000095,Copia en exámenes,Sur,No,PHI,5
+R0366,La Secu,Ciudad Gótica,Sociología,Examen regulador,06/04/2023 00:00,A000096,Copia en exámenes,Sur,Sí,ALPHA,6
+R0367,La Secu,"Muy, muy lejano",Sociología,Examen regulador,07/04/2023 00:00,A000097,Colusión,Norte,No,BETA,2
+R0368,La Secu,Ciudad Gótica,Sociología,Examen regulador,08/04/2023 00:00,A000098,Copia en exámenes,Sur,No,BETA,3
+R0369,La Secu,Wonderland,Sociología,Examen regulador,09/04/2023 00:00,A000099,Intercambio de tareas en línea,Centro,Sí,GAMMA,4
+R0370,Big Bang Theory,Parque Jurásico,Arquitectura,Examen regulador,10/04/2023 00:00,A000100,Copia en exámenes,Sur,No,DELTA,5
+R0371,La Secu,Wonderland,Sociología,Examen regulador,11/04/2023 00:00,A000101,Intercambio de tareas en línea,Centro,No,ETA,8
+R0372,La Secu,Springfield,Sociología,Experimento,12/04/2023 00:00,A000102,Plagio,Centro,No,KAPPA,6
+R0373,La Secu,Springfield,Sociología,Experimento,13/04/2023 00:00,A000103,Plagio,Centro,No,LAMBDA,2
+R0374,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,14/04/2023 00:00,A000104,Plagio,Sur,Sí,OMICRON,3
+R0375,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,15/04/2023 00:00,A000105,Otra,Sur,Sí,PI,4
+R0376,La Secu,Ciudad Gótica,Sociología,Examen regulador,16/04/2023 00:00,A000106,Copia en exámenes,Norte,No,SIGMA,5
+R0377,La Secu,Pandora,Sociología,Examen regulador,17/04/2023 00:00,A000107,Copia en exámenes,Norte,Sí,OMEGA,5
+R0378,Monster University,Genovia,Arquitectura,Examen regulador,18/04/2023 00:00,A000108,Copia en exámenes,Norte,No,JI,6
+R0379,Monster University,Genovia,Ingeniería,Examen regulador,19/04/2023 00:00,A000109,Copia en exámenes,Norte,Sí,PHI,2
+R0380,Monster University,Genovia,Diseños,Examen regulador,20/04/2023 00:00,A000110,Copia en exámenes,Norte,No,ETA,3
+R0381,Monster University,Genovia,Ingeniería,Examen regulador,21/04/2023 00:00,A000111,Copia en exámenes,Norte,No,KAPPA,4
+R0382,Monster University,Genovia,Educación,Examen regulador,22/04/2023 00:00,A000112,Copia en exámenes,Norte,No,LAMBDA,8
+R0383,Monster University,Genovia,Negocios,Examen regulador,23/04/2023 00:00,A000113,Copia en exámenes,Norte,No,OMICRON,8
+R0384,Monster University,Genovia,Arquitectura,Examen regulador,24/04/2023 00:00,A000114,Copia en exámenes,Norte,No,TAU,6
+R0385,Monster University,Genovia,Ingeniería,Examen regulador,25/04/2023 00:00,A000115,Copia en exámenes,Norte,Sí,PSI,2
+R0386,Monster University,Genovia,Negocios,Examen regulador,26/04/2023 00:00,A000116,Copia en exámenes,Norte,No,RHO,3
+R0387,Monster University,Genovia,Arquitectura,Examen regulador,27/04/2023 00:00,A000117,Copia en exámenes,Norte,No,PI,4
+R0388,Monster University,Genovia,Arquitectura,Examen regulador,28/04/2023 00:00,A000118,Copia en exámenes,Norte,Sí,MU,5
+R0389,Monster University,Genovia,Negocios,Examen regulador,29/04/2023 00:00,A000119,Copia en exámenes,Norte,No,IOTA,5
+R0390,Monster University,Genovia,Arquitectura,Examen regulador,30/04/2023 00:00,A000120,Copia en exámenes,Norte,No,TAU,5
+R0391,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,01/05/2023 00:00,A000121,Plagio,Sur,No,PSI,6
+R0392,Monster University,Genovia,Negocios,Examen regulador,02/05/2023 00:00,A000122,Copia en exámenes,Norte,No,RHO,2
+R0393,La Secu,Pandora,Sociología,Examen regulador,03/05/2023 00:00,A000123,Plagio,Norte,Sí,PI,3
+R0394,Monster University,Wonderland,Negocios,Estudio,04/05/2023 00:00,A000124,Plagio,Centro,Sí,MU,4
+R0395,Monster University,Wonderland,Negocios,Estudio,05/05/2023 00:00,A000125,Plagio,Centro,No,IOTA,5
+R0396,Monster University,Wonderland,Negocios,Estudio,06/05/2023 00:00,A000126,Plagio,Centro,Sí,ETA,4
+R0397,Monster University,Wonderland,Negocios,Estudio,07/05/2023 00:00,A000127,Plagio,Centro,No,KAPPA,5
+R0398,Monster University,Wonderland,Negocios,Prototipo,08/05/2023 00:00,A000128,Intercambio de tareas en línea,Centro,Sí,LAMBDA,6
+R0399,Monster University,Wonderland,Negocios,Prototipo,09/05/2023 00:00,A000129,Plagio,Centro,No,OMICRON,2
+R0400,Monster University,Wonderland,Negocios,Prototipo,10/05/2023 00:00,A000130,Plagio,Centro,No,TAU,3
+R0401,La Secu,Hogwarts,Sociología,Examen regulador,11/05/2023 00:00,A000131,Distribución de exámenes,Centro,No,PSI,4
+R0402,La Secu,Hogwarts,Sociología,Examen regulador,12/05/2023 00:00,A000132,Otra,Centro,No,RHO,8
+R0403,La Secu,Pandora,Sociología,Examen regulador,13/05/2023 00:00,A000133,Plagio,Norte,No,PI,8
+R0404,La Secu,Pandora,Sociología,Examen regulador,14/05/2023 00:00,A000134,Copia en exámenes,Norte,Sí,MU,8
+R0405,La Secu,Hogwarts,Sociología,Estudio,15/05/2023 00:00,A000135,Plagio,Centro,No,ALPHA,8
+R0406,Monster University,Empire,Arquitectura,Examen regulador,16/05/2023 00:00,A000136,Copia en exámenes,Centro,No,ALPHA,8
+R0407,Monster University,Parque Jurásico,Arquitectura,Examen regulador,17/05/2023 00:00,A000137,Copia en exámenes,Sur,Sí,ALPHA,4
+R0408,La Secu,"Muy, muy lejano",Sociología,Examen regulador,18/05/2023 00:00,A000138,Copia en exámenes,Norte,No,BETA,5
+R0409,La Secu,Wonderland,Sociología,Prototipo,19/05/2023 00:00,A000139,Plagio,Centro,No,BETA,4
+R0410,Monster University,Genovia,Negocios,Examen regulador,20/05/2023 00:00,A000140,Copia en exámenes,Norte,No,GAMMA,5
+R0411,La Secu,Hogwarts,Sociología,Estudio,21/05/2023 00:00,A000141,Plagio,Centro,No,DELTA,6
+R0412,La Secu,Hogwarts,Sociología,Estudio,22/05/2023 00:00,A000142,Plagio,Centro,Sí,EPSILON,2
+R0413,La Secu,Hogwarts,Sociología,Estudio,23/05/2023 00:00,A000143,Plagio,Centro,Sí,DSETA,3
+R0414,La Secu,Hogwarts,Sociología,Estudio,24/05/2023 00:00,A000144,Plagio,Centro,No,ETA,4
+R0415,La Secu,Hogwarts,Sociología,Estudio,25/05/2023 00:00,A000145,Plagio,Centro,Sí,ETA,5
+R0416,Monster University,Wonderland,Arquitectura,Examen regulador,26/05/2023 00:00,A000146,Distribución de exámenes,Centro,No,KAPPA,6
+R0417,La Secu,Parque Jurásico,Sociología,Experimento,27/05/2023 00:00,A000147,Colusión,Sur,Sí,LAMBDA,9
+R0418,La Secu,Parque Jurásico,Sociología,Experimento,28/05/2023 00:00,A000148,Colusión,Sur,No,OMICRON,2
+R0419,La Secu,Pizza Planeta,Sociología,Experimento,29/05/2023 00:00,A000149,Plagio,Sur,No,PI,3
+R0420,Monster University,Distrito 13,Diseños,Estudio,30/05/2023 00:00,A000150,Plagio,Centro,No,SIGMA,4
+R0421,La Secu,Distrito 13,Sociología,Examen regulador,31/05/2023 00:00,A000151,Otra,Centro,No,OMEGA,5
+R0422,Monster University,Genovia,Arquitectura,Experimento,01/06/2023 00:00,A000152,Compra-venta,Norte,No,JI,4
+R0423,La Secu,Pizza Planeta,Sociología,Examen regulador,02/06/2023 00:00,A000153,Copia en exámenes,Sur,Sí,PHI,5
+R0424,La Secu,Distrito 13,Sociología,Examen regulador,03/06/2023 00:00,A000154,Copia en exámenes,Centro,No,ETA,6
+R0425,La Secu,Distrito 13,Sociología,Experimento,04/06/2023 00:00,A000155,Plagio,Centro,No,KAPPA,2
+R0426,La Secu,Distrito 13,Sociología,Estudio,05/06/2023 00:00,A000156,Plagio,Centro,Sí,LAMBDA,3
+R0427,La Secu,Springfield,Sociología,Prototipo,06/06/2023 00:00,A000157,Plagio,Centro,No,OMICRON,4
+R0428,La Secu,Springfield,Sociología,Prototipo,07/06/2023 00:00,A000158,Plagio,Centro,No,PI,5
+R0429,La Secu,Springfield,Sociología,Prototipo,08/06/2023 00:00,A000159,Plagio,Centro,No,SIGMA,6
+R0430,La Secu,Springfield,Sociología,Prototipo,09/06/2023 00:00,A000160,Plagio,Centro,No,OMEGA,1
+R0431,La Secu,Springfield,Sociología,Prototipo,10/06/2023 00:00,A000161,Plagio,Centro,Sí,JI,2
+R0432,La Secu,Springfield,Sociología,Prototipo,11/06/2023 00:00,A000162,Plagio,Centro,Sí,PHI,3
+R0433,La Secu,Springfield,Sociología,Prototipo,12/06/2023 00:00,A000163,Plagio,Centro,No,ALPHA,4
+R0434,La Secu,Springfield,Sociología,Prototipo,13/06/2023 00:00,A000164,Plagio,Centro,Sí,BETA,5
+R0435,La Secu,Springfield,Sociología,Prototipo,14/06/2023 00:00,A000165,Plagio,Centro,No,BETA,4
+R0436,La Secu,Springfield,Sociología,Prototipo,15/06/2023 00:00,A000166,Plagio,Centro,Sí,GAMMA,5
+R0437,La Secu,Springfield,Sociología,Prototipo,16/06/2023 00:00,A000167,Plagio,Centro,No,DELTA,6
+R0438,La Secu,Springfield,Sociología,Prototipo,17/06/2023 00:00,A000168,Plagio,Centro,No,ETA,2
+R0439,La Secu,Distrito 13,Sociología,Examen diagnóstico,18/06/2023 00:00,A000169,Copia en exámenes,Centro,No,KAPPA,3
+R0440,La Secu,Distrito 13,Sociología,Examen diagnóstico,19/06/2023 00:00,A000170,Copia en exámenes,Centro,No,LAMBDA,9
+R0441,La Secu,El País de Nunca Jamás,Sociología,Examen diagnóstico,20/06/2023 00:00,A000171,Copia en exámenes,Norte,No,OMICRON,5
+R0442,Kindergardiano,Genovia,Negocios,Estudio,21/06/2023 00:00,A000172,Plagio,Norte,Sí,PI,6
+R0443,La Secu,Pandora,Sociología,Prototipo,22/06/2023 00:00,A000173,Plagio,Norte,No,SIGMA,1
+R0444,La Secu,Pandora,Sociología,Prototipo,23/06/2023 00:00,A000174,Plagio,Norte,No,OMEGA,2
+R0445,La Secu,Pandora,Sociología,Examen diagnóstico,24/06/2023 00:00,A000175,Falsificación,Norte,Sí,JI,3
+R0446,La Secu,Wonderland,Sociología,Prototipo,25/06/2023 00:00,A000176,Intercambio de tareas en línea,Centro,No,PHI,4
+R0447,La Secu,Pizza Planeta,Sociología,Experimento,26/06/2023 00:00,A000177,Fabricación,Sur,No,ETA,5
+R0448,Monster University,Genovia,Diseños,Examen diagnóstico,27/06/2023 00:00,A000178,Compra-venta,Norte,No,KAPPA,4
+R0449,La Secu,"Muy, muy lejano",Sociología,Examen diagnóstico,28/06/2023 00:00,A000179,Otra,Centro,No,LAMBDA,5
+R0450,La Secu,Parque Jurásico,Sociología,Examen diagnóstico,29/06/2023 00:00,A000180,Autoplagio,Norte,Sí,OMICRON,6
+R0451,La Secu,Distrito 13,Sociología,Examen diagnóstico,30/06/2023 00:00,A000181,Copia en exámenes,Centro,Sí,TAU,2
+R0452,Monster University,Pizza Planeta,Arquitectura,Prototipo,01/07/2023 00:00,A000182,Plagio,Sur,No,PSI,9
+R0453,High School Musical,Wonderland,Sociología,Examen diagnóstico,02/07/2023 00:00,A000183,Copia en exámenes,Centro,Sí,RHO,4
+R0454,High School Musical,El País de Nunca Jamás,Sociología,Examen diagnóstico,03/07/2023 00:00,A000184,Copia en exámenes,Sur,No,PI,5
+R0455,Monster University,Genovia,Arquitectura,Experimento,04/07/2023 00:00,A000185,Distribución de exámenes,Norte,Sí,MU,6
+R0456,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,05/07/2023 00:00,A000186,Copia en exámenes,Norte,No,IOTA,1
+R0457,High School Musical,Wonderland,Sociología,Experimento,06/07/2023 00:00,A000187,Intercambio de tareas en línea,Centro,No,TAU,2
+R0458,High School Musical,Springfield,Sociología,Estudio,07/07/2023 00:00,A000188,Plagio,Norte,No,PSI,3
+R0459,High School Musical,Springfield,Sociología,Estudio,08/07/2023 00:00,A000189,Plagio,Norte,No,RHO,4
+R0460,High School Musical,Springfield,Sociología,Estudio,09/07/2023 00:00,A000190,Plagio,Norte,No,PI,5
+R0461,Kindergardiano,Genovia,Educación,Prototipo,10/07/2023 00:00,A000191,Plagio,Norte,Sí,MU,4
+R0462,Kindergardiano,Genovia,Educación,Prototipo,11/07/2023 00:00,A000192,Plagio,Norte,No,IOTA,5
+R0463,High School Musical,Wonderland,Sociología,Examen diagnóstico,12/07/2023 00:00,A000193,Copia en exámenes,Centro,No,ETA,6
+R0464,High School Musical,Distrito 13,Sociología,Examen diagnóstico,13/07/2023 00:00,A000194,Copia en exámenes,Centro,Sí,KAPPA,2
+R0465,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,14/07/2023 00:00,A000195,Fabricación,Sur,No,LAMBDA,3
+R0466,Monster University,Pizza Planeta,Ingeniería,Estudio,15/07/2023 00:00,A000196,Colusión,Sur,No,OMICRON,9
+R0467,Monster University,Genovia,Bienestar,Estudio,16/07/2023 00:00,A000197,Intercambio de tareas en línea,Norte,No,TAU,5
+R0468,Monster University,Genovia,Bienestar,Estudio,17/07/2023 00:00,A000198,Intercambio de tareas en línea,Norte,No,PSI,6
+R0469,Monster University,Genovia,Bienestar,Estudio,18/07/2023 00:00,A000199,Intercambio de tareas en línea,Norte,Sí,RHO,1
+R0470,High School Musical,Distrito 13,Sociología,Examen diagnóstico,19/07/2023 00:00,A000200,Copia en exámenes,Centro,Sí,PI,2
+R0471,Monster University,Narnia,Diseños,Estudio,20/07/2023 00:00,A000201,Plagio,Centro,No,MU,3
+R0472,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,21/07/2023 00:00,A000202,Plagio,Sur,Sí,ALPHA,4
+R0473,Monster University,Wonderland,Bienestar,Experimento,22/07/2023 00:00,A000203,Plagio,Centro,No,ALPHA,5
+R0474,High School Musical,Wonderland,Sociología,Experimento,23/07/2023 00:00,A000204,Plagio,Centro,Sí,ALPHA,4
+R0475,Monster University,Wonderland,Bienestar,Experimento,24/07/2023 00:00,A000205,Plagio,Centro,No,BETA,5
+R0476,High School Musical,Wonderland,Sociología,Experimento,25/07/2023 00:00,A000206,Plagio,Centro,No,BETA,9
+R0477,Monster University,Wonderland,Bienestar,Experimento,26/07/2023 00:00,A000207,Plagio,Centro,No,GAMMA,9
+R0478,Monster University,Wonderland,Bienestar,Experimento,27/07/2023 00:00,A000208,Plagio,Centro,No,DELTA,3
+R0479,Monster University,Wonderland,Bienestar,Experimento,28/07/2023 00:00,A000209,Plagio,Centro,No,EPSILON,9
+R0480,Monster University,Wonderland,Bienestar,Experimento,29/07/2023 00:00,A000210,Plagio,Centro,Sí,DSETA,9
+R0481,High School Musical,Wonderland,Sociología,Experimento,30/07/2023 00:00,A000211,Plagio,Centro,No,ETA,9
+R0482,Monster University,Wonderland,Bienestar,Experimento,31/07/2023 00:00,A000212,Plagio,Centro,No,ETA,1
+R0483,Monster University,Distrito 13,Bienestar,Examen diagnóstico,01/08/2023 00:00,A000213,Copia en exámenes,Centro,Sí,KAPPA,2
+R0484,Monster University,Distrito 13,Bienestar,Examen diagnóstico,02/08/2023 00:00,A000214,Copia en exámenes,Centro,No,LAMBDA,3
+R0485,High School Musical,El País de Nunca Jamás,Sociología,Experimento,03/08/2023 00:00,A000215,Copia en exámenes,Sur,No,OMICRON,4
+R0486,Monster University,Distrito 13,Bienestar,Estudio,04/08/2023 00:00,A000216,Otra,Centro,No,PI,5
+R0487,High School Musical,Wonderland,Sociología,Examen diagnóstico,05/08/2023 00:00,A000217,Plagio,Centro,No,SIGMA,4
+R0488,High School Musical,Distrito 13,Sociología,Prototipo,06/08/2023 00:00,A000218,Plagio,Centro,Sí,OMEGA,5
+R0489,High School Musical,Distrito 13,Sociología,Examen diagnóstico,07/08/2023 00:00,A000219,Copia en exámenes,Centro,Sí,JI,6
+R0490,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,08/08/2023 00:00,A000220,Copia en exámenes,Centro,No,PHI,2
+R0491,Monster University,Genovia,Bienestar,Estudio,09/08/2023 00:00,A000221,Intercambio de tareas en línea,Norte,Sí,ETA,3
+R0492,High School Musical,Wonderland,Sociología,Examen diagnóstico,10/08/2023 00:00,A000222,Copia en exámenes,Centro,No,KAPPA,4
+R0493,High School Musical,Wonderland,Sociología,Examen diagnóstico,11/08/2023 00:00,A000223,Copia en exámenes,Centro,Sí,LAMBDA,5
+R0494,High School Musical,Wonderland,Sociología,Examen diagnóstico,12/08/2023 00:00,A000224,Copia en exámenes,Centro,No,OMICRON,6
+R0495,High School Musical,Wonderland,Sociología,Examen diagnóstico,13/08/2023 00:00,A000225,Copia en exámenes,Centro,No,PI,1
+R0496,High School Musical,Wonderland,Sociología,Examen diagnóstico,14/08/2023 00:00,A000226,Copia en exámenes,Centro,No,SIGMA,9
+R0497,High School Musical,Wonderland,Sociología,Examen diagnóstico,15/08/2023 00:00,A000227,Copia en exámenes,Centro,No,OMEGA,3
+R0498,High School Musical,Pandora,Sociología,Prototipo,16/08/2023 00:00,A000228,Plagio,Norte,No,JI,4
+R0499,High School Musical,Pandora,Sociología,Prototipo,17/08/2023 00:00,A000229,Plagio,Norte,Sí,PHI,5
+R0500,High School Musical,Pandora,Sociología,Prototipo,18/08/2023 00:00,A000230,Plagio,Norte,No,ALPHA,6
+R0501,High School Musical,Pandora,Sociología,Prototipo,19/08/2023 00:00,A000231,Plagio,Norte,No,BETA,1
+R0502,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,20/08/2023 00:00,A000232,Copia en exámenes,Centro,Sí,BETA,2
+R0503,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,21/08/2023 00:00,A000233,Copia en exámenes,Centro,No,GAMMA,3
+R0504,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,22/08/2023 00:00,A000234,Copia en exámenes,Centro,No,DELTA,4
+R0505,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,23/08/2023 00:00,A000235,Copia en exámenes,Centro,No,ETA,5
+R0506,Monster University,Wonderland,Arquitectura,Prototipo,24/08/2023 00:00,A000236,Plagio,Centro,No,KAPPA,4
+R0507,Monster University,Genovia,Ingeniería,Examen diagnóstico,25/08/2023 00:00,A000237,Copia en exámenes,Norte,Sí,LAMBDA,5
+R0508,Monster University,Wonderland,Ingeniería,Examen diagnóstico,26/08/2023 00:00,A000238,Copia en exámenes,Centro,Sí,OMICRON,6
+R0509,Monster University,Genovia,Arquitectura,Examen diagnóstico,27/08/2023 00:00,A000239,Copia en exámenes,Norte,No,PI,2
+R0510,Monster University,Wonderland,Ingeniería,Examen diagnóstico,28/08/2023 00:00,A000240,Copia en exámenes,Centro,Sí,SIGMA,3
+R0511,Monster University,Genovia,Ingeniería,Examen diagnóstico,29/08/2023 00:00,A000241,Copia en exámenes,Norte,No,OMEGA,4
+R0512,Monster University,Distrito 13,Bienestar,Estudio,30/08/2023 00:00,A000242,Colusión,Centro,Sí,JI,5
+R0513,Monster University,Distrito 13,Bienestar,Estudio,31/08/2023 00:00,A000243,Colusión,Centro,No,PHI,6
+R0514,High School Musical,El País de Nunca Jamás,Sociología,Estudio,01/09/2023 00:00,A000244,Plagio,Norte,No,ETA,1
+R0515,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,02/09/2023 00:00,A000245,Copia en exámenes,Sur,No,KAPPA,2
+R0516,High School Musical,Springfield,Sociología,Experimento,03/09/2023 00:00,A000246,Plagio,Centro,No,LAMBDA,3
+R0517,High School Musical,Springfield,Sociología,Estudio,04/09/2023 00:00,A000247,Plagio,Centro,No,OMICRON,4
+R0518,Monster University,Genovia,Arquitectura,Examen diagnóstico,05/09/2023 00:00,A000248,Distribución de exámenes,Norte,Sí,TAU,5
+R0519,Monster University,Genovia,Arquitectura,Examen diagnóstico,06/09/2023 00:00,A000249,Copia en exámenes,Norte,No,PSI,4
+R0520,High School Musical,Springfield,Sociología,Estudio,07/09/2023 00:00,A000250,Plagio,Norte,No,RHO,5
+R0521,High School Musical,Springfield,Sociología,Estudio,08/09/2023 00:00,A000251,Plagio,Norte,Sí,PI,6
+R0522,High School Musical,Springfield,Sociología,Prototipo,09/09/2023 00:00,A000252,Plagio,Centro,No,MU,2
+R0523,High School Musical,Springfield,Sociología,Prototipo,10/09/2023 00:00,A000253,Plagio,Centro,No,IOTA,3
+R0524,Monster University,Distrito 13,Bienestar,Prototipo,11/09/2023 00:00,A000254,Plagio,Centro,No,TAU,4
+R0525,High School Musical,Springfield,Sociología,Examen diagnóstico,12/09/2023 00:00,A000255,Copia en exámenes,Centro,No,PSI,5
+R0526,High School Musical,Springfield,Sociología,Examen diagnóstico,13/09/2023 00:00,A000256,Copia en exámenes,Centro,Sí,RHO,6
+R0527,High School Musical,Springfield,Sociología,Examen diagnóstico,14/09/2023 00:00,A000257,Copia en exámenes,Centro,Sí,PI,1
+R0528,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,15/09/2023 00:00,A000258,Copia en exámenes,Centro,No,MU,2
+R0529,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,16/09/2023 00:00,A000259,Copia en exámenes,Centro,Sí,IOTA,3
+R0530,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,17/09/2023 00:00,A000260,Copia en exámenes,Centro,No,ETA,4
+R0531,Monster University,El País de Nunca Jamás,Bienestar,Experimento,18/09/2023 00:00,A000261,Soborno,Sur,Sí,KAPPA,5
+R0532,Monster University,Hogwarts,Bienestar,Estudio,19/09/2023 00:00,A000262,Colusión,Centro,No,LAMBDA,4
+R0533,Monster University,Hogwarts,Bienestar,Estudio,20/09/2023 00:00,A000263,Colusión,Centro,No,OMICRON,5
+R0534,High School Musical,El País de Nunca Jamás,Sociología,Examen diagnóstico,21/09/2023 00:00,A000264,Copia en exámenes,Norte,No,TAU,6
+R0535,Monster University,Genovia,Arquitectura,Examen diagnóstico,22/09/2023 00:00,A000265,Colusión,Norte,No,PSI,2
+R0536,High School Musical,Pizza Planeta,Sociología,Experimento,23/09/2023 00:00,A000266,Copia en exámenes,Sur,No,RHO,3
+R0537,High School Musical,Pizza Planeta,Sociología,Experimento,24/09/2023 00:00,A000267,Copia en exámenes,Sur,Sí,PI,4
+R0538,High School Musical,Pizza Planeta,Sociología,Experimento,25/09/2023 00:00,A000268,Copia en exámenes,Sur,No,MU,5
+R0539,High School Musical,Pizza Planeta,Sociología,Experimento,26/09/2023 00:00,A000269,Copia en exámenes,Sur,No,MU,6
+R0540,High School Musical,Pizza Planeta,Sociología,Prototipo,27/09/2023 00:00,A000270,Plagio,Sur,Sí,MU,1
+R0541,Kindergardiano,Narnia,Sociología,Examen nivelador,01/01/2023 00:00,A000001,Copia en exámenes,Centro,Sí,ALPHA,1
+R0542,La Secu,Distrito 13,Sociología,Estudio,02/01/2023 00:00,A000002,Colusión,Centro,No,ALPHA,2
+R0543,La Secu,Narnia,Sociología,Examen nivelador,03/01/2023 00:00,A000003,Copia en exámenes,Centro,No,ALPHA,3
+R0544,La Secu,Narnia,Sociología,Examen nivelador,04/01/2023 00:00,A000004,Copia en exámenes,Centro,Sí,BETA,4
+R0545,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,05/01/2023 00:00,A000005,Copia en exámenes,Centro,No,BETA,5
+R0546,La Secu,Narnia,Sociología,Estudio,06/01/2023 00:00,A000006,Plagio,Centro,No,GAMMA,6
+R0547,Big Bang Theory,Pizza Planeta,Diseños,Prototipo,07/01/2023 00:00,A000007,Plagio,Sur,No,DELTA,1
+R0548,Kindergardiano,Pizza Planeta,Arquitectura,Examen nivelador,08/01/2023 00:00,A000008,Copia en exámenes,Sur,No,EPSILON,2
+R0549,Kindergardiano,Pizza Planeta,Arquitectura,Examen nivelador,09/01/2023 00:00,A000009,Copia en exámenes,Sur,Sí,DSETA,3
+R0550,Big Bang Theory,Pizza Planeta,Diseños,Estudio,10/01/2023 00:00,A000010,Otra,Sur,Sí,ETA,4
+R0551,Big Bang Theory,Narnia,Arquitectura,Experimento,11/01/2023 00:00,A000011,Suplantación de identidad,Centro,No,ETA,5
+R0552,La Secu,Pandora,Sociología,Experimento,12/01/2023 00:00,A000012,Otra,Norte,Sí,KAPPA,6
+R0553,Big Bang Theory,Pizza Planeta,Bienestar,Experimento,13/01/2023 00:00,A000013,Intercambio de tareas en línea,Sur,No,LAMBDA,1
+R0554,Big Bang Theory,Pizza Planeta,Bienestar,Examen nivelador,14/01/2023 00:00,A000014,Copia en exámenes,Sur,Sí,OMICRON,2
+R0555,Big Bang Theory,Pandora,Bienestar,Estudio,15/01/2023 00:00,A000015,Plagio,Norte,No,PI,3
+R0556,La Secu,Narnia,Sociología,Estudio,16/01/2023 00:00,A000016,Plagio,Centro,No,SIGMA,4
+R0557,La Secu,Pandora,Sociología,Experimento,17/01/2023 00:00,A000017,Copia en exámenes,Norte,No,OMEGA,5
+R0558,La Secu,Pandora,Sociología,Experimento,18/01/2023 00:00,A000018,Copia en exámenes,Norte,No,JI,7
+R0559,Big Bang Theory,Rarotonga,Bienestar,Examen nivelador,19/01/2023 00:00,A000019,Copia en exámenes,Norte,No,PHI,1
+R0560,Big Bang Theory,Rarotonga,Bienestar,Examen nivelador,20/01/2023 00:00,A000020,Copia en exámenes,Norte,Sí,ETA,2
+R0561,Big Bang Theory,Pizza Planeta,Bienestar,Estudio,21/01/2023 00:00,A000021,Copia en exámenes,Sur,No,KAPPA,3
+R0562,Big Bang Theory,Wonderland,Arquitectura,Estudio,22/01/2023 00:00,A000022,Plagio,Centro,No,LAMBDA,4
+R0563,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,23/01/2023 00:00,A000023,Copia en exámenes,Centro,Sí,OMICRON,7
+R0564,Big Bang Theory,Pizza Planeta,Arquitectura,Experimento,24/01/2023 00:00,A000024,Copia en exámenes,Sur,No,PI,6
+R0565,Big Bang Theory,Pizza Planeta,Arquitectura,Experimento,25/01/2023 00:00,A000025,Otra,Sur,No,SIGMA,1
+R0566,La Secu,Rarotonga,Sociología,Prototipo,26/01/2023 00:00,A000026,Plagio,Norte,No,OMEGA,2
+R0567,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,27/01/2023 00:00,A000027,Copia en exámenes,Centro,No,JI,3
+R0568,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,28/01/2023 00:00,A000028,Copia en exámenes,Centro,Sí,PHI,4
+R0569,La Secu,Wonderland,Sociología,Examen nivelador,29/01/2023 00:00,A000029,Copia en exámenes,Centro,Sí,ALPHA,7
+R0570,La Secu,Wonderland,Sociología,Examen nivelador,30/01/2023 00:00,A000030,Copia en exámenes,Centro,No,BETA,6
+R0571,La Secu,Wonderland,Sociología,Examen nivelador,31/01/2023 00:00,A000031,Copia en exámenes,Centro,Sí,BETA,1
+R0572,La Secu,Wonderland,Sociología,Examen nivelador,01/02/2023 00:00,A000032,Copia en exámenes,Centro,No,GAMMA,2
+R0573,La Secu,Wonderland,Sociología,Examen nivelador,02/02/2023 00:00,A000033,Copia en exámenes,Centro,Sí,DELTA,3
+R0574,La Secu,Wonderland,Sociología,Examen nivelador,03/02/2023 00:00,A000034,Copia en exámenes,Centro,No,ETA,7
+R0575,La Secu,Wonderland,Sociología,Examen nivelador,04/02/2023 00:00,A000035,Copia en exámenes,Centro,No,KAPPA,5
+R0576,Big Bang Theory,El País de Nunca Jamás,Bienestar,Estudio,05/02/2023 00:00,A000036,Plagio,Sur,No,LAMBDA,6
+R0577,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,06/02/2023 00:00,A000037,Copia en exámenes,Centro,No,OMICRON,1
+R0578,Big Bang Theory,"Muy, muy lejano",Arquitectura,Examen nivelador,07/02/2023 00:00,A000038,Copia en exámenes,Norte,No,PI,7
+R0579,Big Bang Theory,"Muy, muy lejano",Arquitectura,Examen nivelador,08/02/2023 00:00,A000039,Copia en exámenes,Norte,Sí,SIGMA,3
+R0580,La Secu,El País de Nunca Jamás,Sociología,Experimento,09/02/2023 00:00,A000040,Plagio,Sur,No,OMEGA,4
+R0581,La Secu,El País de Nunca Jamás,Sociología,Prototipo,10/02/2023 00:00,A000041,Plagio,Sur,No,JI,5
+R0582,Big Bang Theory,Wonderland,Diseños,Examen nivelador,11/02/2023 00:00,A000042,Otra,Centro,Sí,PHI,6
+R0583,La Secu,Pandora,Sociología,Estudio,12/02/2023 00:00,A000043,Plagio,Norte,No,ETA,2
+R0584,La Secu,Pandora,Sociología,Examen nivelador,13/02/2023 00:00,A000044,Otra,Norte,No,KAPPA,7
+R0585,La Secu,Hogwarts,Sociología,Prototipo,14/02/2023 00:00,A000045,Plagio,Centro,No,LAMBDA,4
+R0586,La Secu,Pandora,Sociología,Prototipo,15/02/2023 00:00,A000046,Plagio,Norte,No,OMICRON,5
+R0587,La Secu,Hogwarts,Sociología,Prototipo,16/02/2023 00:00,A000047,Plagio,Centro,Sí,TAU,6
+R0588,Big Bang Theory,Wonderland,Negocios,Estudio,17/02/2023 00:00,A000048,Plagio,Centro,Sí,PSI,1
+R0589,Big Bang Theory,Wonderland,Negocios,Estudio,18/02/2023 00:00,A000049,Plagio,Centro,No,RHO,2
+R0590,La Secu,Rarotonga,Sociología,Estudio,19/02/2023 00:00,A000050,Plagio,Norte,Sí,PI,7
+R0591,Big Bang Theory,Genovia,Arquitectura,Examen nivelador,20/02/2023 00:00,A000051,Colusión,Norte,No,MU,4
+R0592,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,21/02/2023 00:00,A000052,Copia en exámenes,Centro,Sí,IOTA,5
+R0593,Big Bang Theory,Narnia,Ingeniería,Estudio,22/02/2023 00:00,A000053,Plagio,Centro,No,TAU,6
+R0594,Big Bang Theory,Wonderland,Arquitectura,Prototipo,23/02/2023 00:00,A000054,Plagio,Centro,No,PSI,2
+R0595,La Secu,Rarotonga,Sociología,Prototipo,24/02/2023 00:00,A000055,Intercambio de tareas en línea,Norte,No,RHO,3
+R0596,La Secu,Rarotonga,Sociología,Prototipo,25/02/2023 00:00,A000056,Intercambio de tareas en línea,Norte,No,PI,7
+R0597,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,26/02/2023 00:00,A000057,Copia en exámenes,Centro,No,MU,5
+R0598,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,27/02/2023 00:00,A000058,Copia en exámenes,Centro,Sí,IOTA,6
+R0599,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,28/02/2023 00:00,A000059,Copia en exámenes,Centro,No,ETA,1
+R0600,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,01/03/2023 00:00,A000060,Copia en exámenes,Centro,No,KAPPA,2
+R0601,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,02/03/2023 00:00,A000061,Copia en exámenes,Centro,Sí,LAMBDA,7
+R0602,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,03/03/2023 00:00,A000062,Copia en exámenes,Centro,No,OMICRON,4
+R0603,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,04/03/2023 00:00,A000063,Copia en exámenes,Centro,No,TAU,5
+R0604,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,05/03/2023 00:00,A000064,Colusión,Norte,No,PSI,6
+R0605,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,06/03/2023 00:00,A000065,Copia en exámenes,Norte,No,RHO,2
+R0606,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,07/03/2023 00:00,A000066,Colusión,Norte,Sí,PI,3
+R0607,Big Bang Theory,Wonderland,Negocios,Estudio,08/03/2023 00:00,A000067,Plagio,Centro,Sí,MU,4
+R0608,Big Bang Theory,Narnia,Negocios,Estudio,09/03/2023 00:00,A000068,Colusión,Centro,No,ALPHA,7
+R0609,Big Bang Theory,Genovia,Ingeniería,Estudio,10/03/2023 00:00,A000069,Plagio,Norte,Sí,ALPHA,6
+R0610,Big Bang Theory,Genovia,Ingeniería,Estudio,11/03/2023 00:00,A000070,Plagio,Norte,No,ALPHA,1
+R0611,Big Bang Theory,Genovia,Ingeniería,Estudio,12/03/2023 00:00,A000071,Plagio,Norte,Sí,BETA,2
+R0612,Big Bang Theory,Genovia,Ingeniería,Estudio,13/03/2023 00:00,A000072,Plagio,Norte,No,BETA,3
+R0613,Big Bang Theory,Genovia,Diseños,Examen nivelador,14/03/2023 00:00,A000073,Copia en exámenes,Norte,No,GAMMA,4
+R0614,Big Bang Theory,El País de Nunca Jamás,Ingeniería,Examen nivelador,15/03/2023 00:00,A000074,Plagio,Sur,No,DELTA,7
+R0615,Big Bang Theory,Genovia,Negocios,Prototipo,16/03/2023 00:00,A000075,Plagio,Norte,No,EPSILON,6
+R0616,Big Bang Theory,Genovia,Negocios,Prototipo,17/03/2023 00:00,A000076,Plagio,Norte,No,DSETA,2
+R0617,Big Bang Theory,Genovia,Ingeniería,Estudio,18/03/2023 00:00,A000077,Plagio,Norte,Sí,ETA,3
+R0618,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,19/03/2023 00:00,A000078,Copia en exámenes,Centro,No,ETA,4
+R0619,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,20/03/2023 00:00,A000079,Copia en exámenes,Centro,No,KAPPA,7
+R0620,La Secu,Genovia,Sociología,Estudio,21/03/2023 00:00,A000080,Plagio,Norte,Sí,LAMBDA,2
+R0621,Big Bang Theory,Genovia,Negocios,Examen nivelador,22/03/2023 00:00,A000081,Copia en exámenes,Norte,No,OMICRON,3
+R0622,La Secu,Ciudad Gótica,Sociología,Examen nivelador,23/03/2023 00:00,A000082,Copia en exámenes,Sur,No,PI,4
+R0623,Big Bang Theory,Genovia,Negocios,Examen nivelador,24/03/2023 00:00,A000083,Copia en exámenes,Norte,No,SIGMA,5
+R0624,Big Bang Theory,Genovia,Negocios,Examen nivelador,25/03/2023 00:00,A000084,Copia en exámenes,Norte,No,OMEGA,6
+R0625,Big Bang Theory,Genovia,Negocios,Estudio,26/03/2023 00:00,A000085,Plagio,Norte,Sí,JI,1
+R0626,Big Bang Theory,Genovia,Negocios,Examen nivelador,27/03/2023 00:00,A000086,Copia en exámenes,Norte,Sí,PHI,2
+R0627,Big Bang Theory,Genovia,Negocios,Experimento,28/03/2023 00:00,A000087,Copia en exámenes,Norte,No,ETA,3
+R0628,Big Bang Theory,Parque Jurásico,Arquitectura,Examen nivelador,29/03/2023 00:00,A000088,Copia en exámenes,Sur,Sí,KAPPA,4
+R0629,Big Bang Theory,Parque Jurásico,Arquitectura,Examen nivelador,30/03/2023 00:00,A000089,Distribución de exámenes,Sur,No,LAMBDA,7
+R0630,Big Bang Theory,Parque Jurásico,Arquitectura,Examen regulador,31/03/2023 00:00,A000090,Copia en exámenes,Sur,Sí,OMICRON,8
+R0631,Big Bang Theory,El País de Nunca Jamás,Arquitectura,Prototipo,01/04/2023 00:00,A000091,Plagio,Sur,No,PI,2
+R0632,La Secu,Ciudad Gótica,Sociología,Examen regulador,02/04/2023 00:00,A000092,Copia en exámenes,Sur,No,SIGMA,3
+R0633,Big Bang Theory,Genovia,Negocios,Examen regulador,03/04/2023 00:00,A000093,Distribución de exámenes,Norte,No,OMEGA,4
+R0634,La Secu,Ciudad Gótica,Sociología,Examen regulador,04/04/2023 00:00,A000094,Copia en exámenes,Sur,No,JI,5
+R0635,La Secu,Ciudad Gótica,Sociología,Examen regulador,05/04/2023 00:00,A000095,Copia en exámenes,Sur,No,PHI,5
+R0636,La Secu,Ciudad Gótica,Sociología,Examen regulador,06/04/2023 00:00,A000096,Copia en exámenes,Sur,Sí,ALPHA,6
+R0637,La Secu,"Muy, muy lejano",Sociología,Examen regulador,07/04/2023 00:00,A000097,Colusión,Norte,No,BETA,2
+R0638,La Secu,Ciudad Gótica,Sociología,Examen regulador,08/04/2023 00:00,A000098,Copia en exámenes,Sur,No,BETA,3
+R0639,La Secu,Wonderland,Sociología,Examen regulador,09/04/2023 00:00,A000099,Intercambio de tareas en línea,Centro,Sí,GAMMA,4
+R0640,Big Bang Theory,Parque Jurásico,Arquitectura,Examen regulador,10/04/2023 00:00,A000100,Copia en exámenes,Sur,No,DELTA,5
+R0641,La Secu,Wonderland,Sociología,Examen regulador,11/04/2023 00:00,A000101,Intercambio de tareas en línea,Centro,No,ETA,8
+R0642,La Secu,Springfield,Sociología,Experimento,12/04/2023 00:00,A000102,Plagio,Centro,No,KAPPA,6
+R0643,La Secu,Springfield,Sociología,Experimento,13/04/2023 00:00,A000103,Plagio,Centro,No,LAMBDA,2
+R0644,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,14/04/2023 00:00,A000104,Plagio,Sur,Sí,OMICRON,3
+R0645,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,15/04/2023 00:00,A000105,Otra,Sur,Sí,PI,4
+R0646,La Secu,Ciudad Gótica,Sociología,Examen regulador,16/04/2023 00:00,A000106,Copia en exámenes,Norte,No,SIGMA,5
+R0647,La Secu,Pandora,Sociología,Examen regulador,17/04/2023 00:00,A000107,Copia en exámenes,Norte,Sí,OMEGA,5
+R0648,Monster University,Genovia,Arquitectura,Examen regulador,18/04/2023 00:00,A000108,Copia en exámenes,Norte,No,JI,6
+R0649,Monster University,Genovia,Ingeniería,Examen regulador,19/04/2023 00:00,A000109,Copia en exámenes,Norte,Sí,PHI,2
+R0650,Monster University,Genovia,Diseños,Examen regulador,20/04/2023 00:00,A000110,Copia en exámenes,Norte,No,ETA,3
+R0651,Monster University,Genovia,Ingeniería,Examen regulador,21/04/2023 00:00,A000111,Copia en exámenes,Norte,No,KAPPA,4
+R0652,Monster University,Genovia,Educación,Examen regulador,22/04/2023 00:00,A000112,Copia en exámenes,Norte,No,LAMBDA,8
+R0653,Monster University,Genovia,Negocios,Examen regulador,23/04/2023 00:00,A000113,Copia en exámenes,Norte,No,OMICRON,8
+R0654,Monster University,Genovia,Arquitectura,Examen regulador,24/04/2023 00:00,A000114,Copia en exámenes,Norte,No,TAU,6
+R0655,Monster University,Genovia,Ingeniería,Examen regulador,25/04/2023 00:00,A000115,Copia en exámenes,Norte,Sí,PSI,2
+R0656,Monster University,Genovia,Negocios,Examen regulador,26/04/2023 00:00,A000116,Copia en exámenes,Norte,No,RHO,3
+R0657,Monster University,Genovia,Arquitectura,Examen regulador,27/04/2023 00:00,A000117,Copia en exámenes,Norte,No,PI,4
+R0658,Monster University,Genovia,Arquitectura,Examen regulador,28/04/2023 00:00,A000118,Copia en exámenes,Norte,Sí,MU,5
+R0659,Monster University,Genovia,Negocios,Examen regulador,29/04/2023 00:00,A000119,Copia en exámenes,Norte,No,IOTA,5
+R0660,Monster University,Genovia,Arquitectura,Examen regulador,30/04/2023 00:00,A000120,Copia en exámenes,Norte,No,TAU,5
+R0661,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,01/05/2023 00:00,A000121,Plagio,Sur,No,PSI,6
+R0662,Monster University,Genovia,Negocios,Examen regulador,02/05/2023 00:00,A000122,Copia en exámenes,Norte,No,RHO,2
+R0663,La Secu,Pandora,Sociología,Examen regulador,03/05/2023 00:00,A000123,Plagio,Norte,Sí,PI,3
+R0664,Monster University,Wonderland,Negocios,Estudio,04/05/2023 00:00,A000124,Plagio,Centro,Sí,MU,4
+R0665,Monster University,Wonderland,Negocios,Estudio,05/05/2023 00:00,A000125,Plagio,Centro,No,IOTA,5
+R0666,Monster University,Wonderland,Negocios,Estudio,06/05/2023 00:00,A000126,Plagio,Centro,Sí,ETA,4
+R0667,Monster University,Wonderland,Negocios,Estudio,07/05/2023 00:00,A000127,Plagio,Centro,No,KAPPA,5
+R0668,Monster University,Wonderland,Negocios,Prototipo,08/05/2023 00:00,A000128,Intercambio de tareas en línea,Centro,Sí,LAMBDA,6
+R0669,Monster University,Wonderland,Negocios,Prototipo,09/05/2023 00:00,A000129,Plagio,Centro,No,OMICRON,2
+R0670,Monster University,Wonderland,Negocios,Prototipo,10/05/2023 00:00,A000130,Plagio,Centro,No,TAU,3
+R0671,La Secu,Hogwarts,Sociología,Examen regulador,11/05/2023 00:00,A000131,Distribución de exámenes,Centro,No,PSI,4
+R0672,La Secu,Hogwarts,Sociología,Examen regulador,12/05/2023 00:00,A000132,Otra,Centro,No,RHO,8
+R0673,La Secu,Pandora,Sociología,Examen regulador,13/05/2023 00:00,A000133,Plagio,Norte,No,PI,8
+R0674,La Secu,Pandora,Sociología,Examen regulador,14/05/2023 00:00,A000134,Copia en exámenes,Norte,Sí,MU,8
+R0675,La Secu,Hogwarts,Sociología,Estudio,15/05/2023 00:00,A000135,Plagio,Centro,No,ALPHA,8
+R0676,Monster University,Empire,Arquitectura,Examen regulador,16/05/2023 00:00,A000136,Copia en exámenes,Centro,No,ALPHA,8
+R0677,Monster University,Parque Jurásico,Arquitectura,Examen regulador,17/05/2023 00:00,A000137,Copia en exámenes,Sur,Sí,ALPHA,4
+R0678,La Secu,"Muy, muy lejano",Sociología,Examen regulador,18/05/2023 00:00,A000138,Copia en exámenes,Norte,No,BETA,5
+R0679,La Secu,Wonderland,Sociología,Prototipo,19/05/2023 00:00,A000139,Plagio,Centro,No,BETA,4
+R0680,Monster University,Genovia,Negocios,Examen regulador,20/05/2023 00:00,A000140,Copia en exámenes,Norte,No,GAMMA,5
+R0681,La Secu,Hogwarts,Sociología,Estudio,21/05/2023 00:00,A000141,Plagio,Centro,No,DELTA,6
+R0682,La Secu,Hogwarts,Sociología,Estudio,22/05/2023 00:00,A000142,Plagio,Centro,Sí,EPSILON,2
+R0683,La Secu,Hogwarts,Sociología,Estudio,23/05/2023 00:00,A000143,Plagio,Centro,Sí,DSETA,3
+R0684,La Secu,Hogwarts,Sociología,Estudio,24/05/2023 00:00,A000144,Plagio,Centro,No,ETA,4
+R0685,La Secu,Hogwarts,Sociología,Estudio,25/05/2023 00:00,A000145,Plagio,Centro,Sí,ETA,5
+R0686,Monster University,Wonderland,Arquitectura,Examen regulador,26/05/2023 00:00,A000146,Distribución de exámenes,Centro,No,KAPPA,6
+R0687,La Secu,Parque Jurásico,Sociología,Experimento,27/05/2023 00:00,A000147,Colusión,Sur,Sí,LAMBDA,9
+R0688,La Secu,Parque Jurásico,Sociología,Experimento,28/05/2023 00:00,A000148,Colusión,Sur,No,OMICRON,2
+R0689,La Secu,Pizza Planeta,Sociología,Experimento,29/05/2023 00:00,A000149,Plagio,Sur,No,PI,3
+R0690,Monster University,Distrito 13,Diseños,Estudio,30/05/2023 00:00,A000150,Plagio,Centro,No,SIGMA,4
+R0691,La Secu,Distrito 13,Sociología,Examen regulador,31/05/2023 00:00,A000151,Otra,Centro,No,OMEGA,5
+R0692,Monster University,Genovia,Arquitectura,Experimento,01/06/2023 00:00,A000152,Compra-venta,Norte,No,JI,4
+R0693,La Secu,Pizza Planeta,Sociología,Examen regulador,02/06/2023 00:00,A000153,Copia en exámenes,Sur,Sí,PHI,5
+R0694,La Secu,Distrito 13,Sociología,Examen regulador,03/06/2023 00:00,A000154,Copia en exámenes,Centro,No,ETA,6
+R0695,La Secu,Distrito 13,Sociología,Experimento,04/06/2023 00:00,A000155,Plagio,Centro,No,KAPPA,2
+R0696,La Secu,Distrito 13,Sociología,Estudio,05/06/2023 00:00,A000156,Plagio,Centro,Sí,LAMBDA,3
+R0697,La Secu,Springfield,Sociología,Prototipo,06/06/2023 00:00,A000157,Plagio,Centro,No,OMICRON,4
+R0698,La Secu,Springfield,Sociología,Prototipo,07/06/2023 00:00,A000158,Plagio,Centro,No,PI,5
+R0699,La Secu,Springfield,Sociología,Prototipo,08/06/2023 00:00,A000159,Plagio,Centro,No,SIGMA,6
+R0700,La Secu,Springfield,Sociología,Prototipo,09/06/2023 00:00,A000160,Plagio,Centro,No,OMEGA,1
+R0701,La Secu,Springfield,Sociología,Prototipo,10/06/2023 00:00,A000161,Plagio,Centro,Sí,JI,2
+R0702,La Secu,Springfield,Sociología,Prototipo,11/06/2023 00:00,A000162,Plagio,Centro,Sí,PHI,3
+R0703,La Secu,Springfield,Sociología,Prototipo,12/06/2023 00:00,A000163,Plagio,Centro,No,ALPHA,4
+R0704,La Secu,Springfield,Sociología,Prototipo,13/06/2023 00:00,A000164,Plagio,Centro,Sí,BETA,5
+R0705,La Secu,Springfield,Sociología,Prototipo,14/06/2023 00:00,A000165,Plagio,Centro,No,BETA,4
+R0706,La Secu,Springfield,Sociología,Prototipo,15/06/2023 00:00,A000166,Plagio,Centro,Sí,GAMMA,5
+R0707,La Secu,Springfield,Sociología,Prototipo,16/06/2023 00:00,A000167,Plagio,Centro,No,DELTA,6
+R0708,La Secu,Springfield,Sociología,Prototipo,17/06/2023 00:00,A000168,Plagio,Centro,No,ETA,2
+R0709,La Secu,Distrito 13,Sociología,Examen diagnóstico,18/06/2023 00:00,A000169,Copia en exámenes,Centro,No,KAPPA,3
+R0710,La Secu,Distrito 13,Sociología,Examen diagnóstico,19/06/2023 00:00,A000170,Copia en exámenes,Centro,No,LAMBDA,9
+R0711,La Secu,El País de Nunca Jamás,Sociología,Examen diagnóstico,20/06/2023 00:00,A000171,Copia en exámenes,Norte,No,OMICRON,5
+R0712,Kindergardiano,Genovia,Negocios,Estudio,21/06/2023 00:00,A000172,Plagio,Norte,Sí,PI,6
+R0713,La Secu,Pandora,Sociología,Prototipo,22/06/2023 00:00,A000173,Plagio,Norte,No,SIGMA,1
+R0714,La Secu,Pandora,Sociología,Prototipo,23/06/2023 00:00,A000174,Plagio,Norte,No,OMEGA,2
+R0715,La Secu,Pandora,Sociología,Examen diagnóstico,24/06/2023 00:00,A000175,Falsificación,Norte,Sí,JI,3
+R0716,La Secu,Wonderland,Sociología,Prototipo,25/06/2023 00:00,A000176,Intercambio de tareas en línea,Centro,No,PHI,4
+R0717,La Secu,Pizza Planeta,Sociología,Experimento,26/06/2023 00:00,A000177,Fabricación,Sur,No,ETA,5
+R0718,Monster University,Genovia,Diseños,Examen diagnóstico,27/06/2023 00:00,A000178,Compra-venta,Norte,No,KAPPA,4
+R0719,La Secu,"Muy, muy lejano",Sociología,Examen diagnóstico,28/06/2023 00:00,A000179,Otra,Centro,No,LAMBDA,5
+R0720,La Secu,Parque Jurásico,Sociología,Examen diagnóstico,29/06/2023 00:00,A000180,Autoplagio,Norte,Sí,OMICRON,6
+R0721,La Secu,Distrito 13,Sociología,Examen diagnóstico,30/06/2023 00:00,A000181,Copia en exámenes,Centro,Sí,TAU,2
+R0722,Monster University,Pizza Planeta,Arquitectura,Prototipo,01/07/2023 00:00,A000182,Plagio,Sur,No,PSI,9
+R0723,High School Musical,Wonderland,Sociología,Examen diagnóstico,02/07/2023 00:00,A000183,Copia en exámenes,Centro,Sí,RHO,4
+R0724,High School Musical,El País de Nunca Jamás,Sociología,Examen diagnóstico,03/07/2023 00:00,A000184,Copia en exámenes,Sur,No,PI,5
+R0725,Monster University,Genovia,Arquitectura,Experimento,04/07/2023 00:00,A000185,Distribución de exámenes,Norte,Sí,MU,6
+R0726,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,05/07/2023 00:00,A000186,Copia en exámenes,Norte,No,IOTA,1
+R0727,High School Musical,Wonderland,Sociología,Experimento,06/07/2023 00:00,A000187,Intercambio de tareas en línea,Centro,No,TAU,2
+R0728,High School Musical,Springfield,Sociología,Estudio,07/07/2023 00:00,A000188,Plagio,Norte,No,PSI,3
+R0729,High School Musical,Springfield,Sociología,Estudio,08/07/2023 00:00,A000189,Plagio,Norte,No,RHO,4
+R0730,High School Musical,Springfield,Sociología,Estudio,09/07/2023 00:00,A000190,Plagio,Norte,No,PI,5
+R0731,Kindergardiano,Genovia,Educación,Prototipo,10/07/2023 00:00,A000191,Plagio,Norte,Sí,MU,4
+R0732,Kindergardiano,Genovia,Educación,Prototipo,11/07/2023 00:00,A000192,Plagio,Norte,No,IOTA,5
+R0733,High School Musical,Wonderland,Sociología,Examen diagnóstico,12/07/2023 00:00,A000193,Copia en exámenes,Centro,No,ETA,6
+R0734,High School Musical,Distrito 13,Sociología,Examen diagnóstico,13/07/2023 00:00,A000194,Copia en exámenes,Centro,Sí,KAPPA,2
+R0735,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,14/07/2023 00:00,A000195,Fabricación,Sur,No,LAMBDA,3
+R0736,Monster University,Pizza Planeta,Ingeniería,Estudio,15/07/2023 00:00,A000196,Colusión,Sur,No,OMICRON,9
+R0737,Monster University,Genovia,Bienestar,Estudio,16/07/2023 00:00,A000197,Intercambio de tareas en línea,Norte,No,TAU,5
+R0738,Monster University,Genovia,Bienestar,Estudio,17/07/2023 00:00,A000198,Intercambio de tareas en línea,Norte,No,PSI,6
+R0739,Monster University,Genovia,Bienestar,Estudio,18/07/2023 00:00,A000199,Intercambio de tareas en línea,Norte,Sí,RHO,1
+R0740,High School Musical,Distrito 13,Sociología,Examen diagnóstico,19/07/2023 00:00,A000200,Copia en exámenes,Centro,Sí,PI,2
+R0741,Monster University,Narnia,Diseños,Estudio,20/07/2023 00:00,A000201,Plagio,Centro,No,MU,3
+R0742,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,21/07/2023 00:00,A000202,Plagio,Sur,Sí,ALPHA,4
+R0743,Monster University,Wonderland,Bienestar,Experimento,22/07/2023 00:00,A000203,Plagio,Centro,No,ALPHA,5
+R0744,High School Musical,Wonderland,Sociología,Experimento,23/07/2023 00:00,A000204,Plagio,Centro,Sí,ALPHA,4
+R0745,Monster University,Wonderland,Bienestar,Experimento,24/07/2023 00:00,A000205,Plagio,Centro,No,BETA,5
+R0746,High School Musical,Wonderland,Sociología,Experimento,25/07/2023 00:00,A000206,Plagio,Centro,No,BETA,9
+R0747,Monster University,Wonderland,Bienestar,Experimento,26/07/2023 00:00,A000207,Plagio,Centro,No,GAMMA,9
+R0748,Monster University,Wonderland,Bienestar,Experimento,27/07/2023 00:00,A000208,Plagio,Centro,No,DELTA,3
+R0749,Monster University,Wonderland,Bienestar,Experimento,28/07/2023 00:00,A000209,Plagio,Centro,No,EPSILON,9
+R0750,Monster University,Wonderland,Bienestar,Experimento,29/07/2023 00:00,A000210,Plagio,Centro,Sí,DSETA,9
+R0751,High School Musical,Wonderland,Sociología,Experimento,30/07/2023 00:00,A000211,Plagio,Centro,No,ETA,9
+R0752,Monster University,Wonderland,Bienestar,Experimento,31/07/2023 00:00,A000212,Plagio,Centro,No,ETA,1
+R0753,Monster University,Distrito 13,Bienestar,Examen diagnóstico,01/08/2023 00:00,A000213,Copia en exámenes,Centro,Sí,KAPPA,2
+R0754,Monster University,Distrito 13,Bienestar,Examen diagnóstico,02/08/2023 00:00,A000214,Copia en exámenes,Centro,No,LAMBDA,3
+R0755,High School Musical,El País de Nunca Jamás,Sociología,Experimento,03/08/2023 00:00,A000215,Copia en exámenes,Sur,No,OMICRON,4
+R0756,Monster University,Distrito 13,Bienestar,Estudio,04/08/2023 00:00,A000216,Otra,Centro,No,PI,5
+R0757,High School Musical,Wonderland,Sociología,Examen diagnóstico,05/08/2023 00:00,A000217,Plagio,Centro,No,SIGMA,4
+R0758,High School Musical,Distrito 13,Sociología,Prototipo,06/08/2023 00:00,A000218,Plagio,Centro,Sí,OMEGA,5
+R0759,High School Musical,Distrito 13,Sociología,Examen diagnóstico,07/08/2023 00:00,A000219,Copia en exámenes,Centro,Sí,JI,6
+R0760,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,08/08/2023 00:00,A000220,Copia en exámenes,Centro,No,PHI,2
+R0761,Monster University,Genovia,Bienestar,Estudio,09/08/2023 00:00,A000221,Intercambio de tareas en línea,Norte,Sí,ETA,3
+R0762,High School Musical,Wonderland,Sociología,Examen diagnóstico,10/08/2023 00:00,A000222,Copia en exámenes,Centro,No,KAPPA,4
+R0763,High School Musical,Wonderland,Sociología,Examen diagnóstico,11/08/2023 00:00,A000223,Copia en exámenes,Centro,Sí,LAMBDA,5
+R0764,High School Musical,Wonderland,Sociología,Examen diagnóstico,12/08/2023 00:00,A000224,Copia en exámenes,Centro,No,OMICRON,6
+R0765,High School Musical,Wonderland,Sociología,Examen diagnóstico,13/08/2023 00:00,A000225,Copia en exámenes,Centro,No,PI,1
+R0766,High School Musical,Wonderland,Sociología,Examen diagnóstico,14/08/2023 00:00,A000226,Copia en exámenes,Centro,No,SIGMA,9
+R0767,High School Musical,Wonderland,Sociología,Examen diagnóstico,15/08/2023 00:00,A000227,Copia en exámenes,Centro,No,OMEGA,3
+R0768,High School Musical,Pandora,Sociología,Prototipo,16/08/2023 00:00,A000228,Plagio,Norte,No,JI,4
+R0769,High School Musical,Pandora,Sociología,Prototipo,17/08/2023 00:00,A000229,Plagio,Norte,Sí,PHI,5
+R0770,High School Musical,Pandora,Sociología,Prototipo,18/08/2023 00:00,A000230,Plagio,Norte,No,ALPHA,6
+R0771,High School Musical,Pandora,Sociología,Prototipo,19/08/2023 00:00,A000231,Plagio,Norte,No,BETA,1
+R0772,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,20/08/2023 00:00,A000232,Copia en exámenes,Centro,Sí,BETA,2
+R0773,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,21/08/2023 00:00,A000233,Copia en exámenes,Centro,No,GAMMA,3
+R0774,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,22/08/2023 00:00,A000234,Copia en exámenes,Centro,No,DELTA,4
+R0775,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,23/08/2023 00:00,A000235,Copia en exámenes,Centro,No,ETA,5
+R0776,Monster University,Wonderland,Arquitectura,Prototipo,24/08/2023 00:00,A000236,Plagio,Centro,No,KAPPA,4
+R0777,Monster University,Genovia,Ingeniería,Examen diagnóstico,25/08/2023 00:00,A000237,Copia en exámenes,Norte,Sí,LAMBDA,5
+R0778,Monster University,Wonderland,Ingeniería,Examen diagnóstico,26/08/2023 00:00,A000238,Copia en exámenes,Centro,Sí,OMICRON,6
+R0779,Monster University,Genovia,Arquitectura,Examen diagnóstico,27/08/2023 00:00,A000239,Copia en exámenes,Norte,No,PI,2
+R0780,Monster University,Wonderland,Ingeniería,Examen diagnóstico,28/08/2023 00:00,A000240,Copia en exámenes,Centro,Sí,SIGMA,3
+R0781,Monster University,Genovia,Ingeniería,Examen diagnóstico,29/08/2023 00:00,A000241,Copia en exámenes,Norte,No,OMEGA,4
+R0782,Monster University,Distrito 13,Bienestar,Estudio,30/08/2023 00:00,A000242,Colusión,Centro,Sí,JI,5
+R0783,Monster University,Distrito 13,Bienestar,Estudio,31/08/2023 00:00,A000243,Colusión,Centro,No,PHI,6
+R0784,High School Musical,El País de Nunca Jamás,Sociología,Estudio,01/09/2023 00:00,A000244,Plagio,Norte,No,ETA,1
+R0785,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,02/09/2023 00:00,A000245,Copia en exámenes,Sur,No,KAPPA,2
+R0786,High School Musical,Springfield,Sociología,Experimento,03/09/2023 00:00,A000246,Plagio,Centro,No,LAMBDA,3
+R0787,High School Musical,Springfield,Sociología,Estudio,04/09/2023 00:00,A000247,Plagio,Centro,No,OMICRON,4
+R0788,Monster University,Genovia,Arquitectura,Examen diagnóstico,05/09/2023 00:00,A000248,Distribución de exámenes,Norte,Sí,TAU,5
+R0789,Monster University,Genovia,Arquitectura,Examen diagnóstico,06/09/2023 00:00,A000249,Copia en exámenes,Norte,No,PSI,4
+R0790,High School Musical,Springfield,Sociología,Estudio,07/09/2023 00:00,A000250,Plagio,Norte,No,RHO,5
+R0791,High School Musical,Springfield,Sociología,Estudio,08/09/2023 00:00,A000251,Plagio,Norte,Sí,PI,6
+R0792,High School Musical,Springfield,Sociología,Prototipo,09/09/2023 00:00,A000252,Plagio,Centro,No,MU,2
+R0793,High School Musical,Springfield,Sociología,Prototipo,10/09/2023 00:00,A000253,Plagio,Centro,No,IOTA,3
+R0794,Monster University,Distrito 13,Bienestar,Prototipo,11/09/2023 00:00,A000254,Plagio,Centro,No,TAU,4
+R0795,High School Musical,Springfield,Sociología,Examen diagnóstico,12/09/2023 00:00,A000255,Copia en exámenes,Centro,No,PSI,5
+R0796,High School Musical,Springfield,Sociología,Examen diagnóstico,13/09/2023 00:00,A000256,Copia en exámenes,Centro,Sí,RHO,6
+R0797,High School Musical,Springfield,Sociología,Examen diagnóstico,14/09/2023 00:00,A000257,Copia en exámenes,Centro,Sí,PI,1
+R0798,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,15/09/2023 00:00,A000258,Copia en exámenes,Centro,No,MU,2
+R0799,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,16/09/2023 00:00,A000259,Copia en exámenes,Centro,Sí,IOTA,3
+R0800,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,17/09/2023 00:00,A000260,Copia en exámenes,Centro,No,ETA,4
+R0801,Monster University,El País de Nunca Jamás,Bienestar,Experimento,18/09/2023 00:00,A000261,Soborno,Sur,Sí,KAPPA,5
+R0802,Monster University,Hogwarts,Bienestar,Estudio,19/09/2023 00:00,A000262,Colusión,Centro,No,LAMBDA,4
+R0803,Monster University,Hogwarts,Bienestar,Estudio,20/09/2023 00:00,A000263,Colusión,Centro,No,OMICRON,5
+R0804,High School Musical,El País de Nunca Jamás,Sociología,Examen diagnóstico,21/09/2023 00:00,A000264,Copia en exámenes,Norte,No,TAU,6
+R0805,Monster University,Genovia,Arquitectura,Examen diagnóstico,22/09/2023 00:00,A000265,Colusión,Norte,No,PSI,2
+R0806,High School Musical,Pizza Planeta,Sociología,Experimento,23/09/2023 00:00,A000266,Copia en exámenes,Sur,No,RHO,3
+R0807,High School Musical,Pizza Planeta,Sociología,Experimento,24/09/2023 00:00,A000267,Copia en exámenes,Sur,Sí,PI,4
+R0808,High School Musical,Pizza Planeta,Sociología,Experimento,25/09/2023 00:00,A000268,Copia en exámenes,Sur,No,MU,5
+R0809,High School Musical,Pizza Planeta,Sociología,Experimento,26/09/2023 00:00,A000269,Copia en exámenes,Sur,No,MU,6
+R0810,High School Musical,Pizza Planeta,Sociología,Prototipo,27/09/2023 00:00,A000270,Plagio,Sur,Sí,MU,1
+R0811,Kindergardiano,Narnia,Sociología,Examen nivelador,01/01/2023 00:00,A000001,Copia en exámenes,Centro,Sí,ALPHA,1
+R0812,La Secu,Distrito 13,Sociología,Estudio,02/01/2023 00:00,A000002,Colusión,Centro,No,ALPHA,2
+R0813,La Secu,Narnia,Sociología,Examen nivelador,03/01/2023 00:00,A000003,Copia en exámenes,Centro,No,ALPHA,3
+R0814,La Secu,Narnia,Sociología,Examen nivelador,04/01/2023 00:00,A000004,Copia en exámenes,Centro,Sí,BETA,4
+R0815,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,05/01/2023 00:00,A000005,Copia en exámenes,Centro,No,BETA,5
+R0816,La Secu,Narnia,Sociología,Estudio,06/01/2023 00:00,A000006,Plagio,Centro,No,GAMMA,6
+R0817,Big Bang Theory,Pizza Planeta,Diseños,Prototipo,07/01/2023 00:00,A000007,Plagio,Sur,No,DELTA,1
+R0818,Kindergardiano,Pizza Planeta,Arquitectura,Examen nivelador,08/01/2023 00:00,A000008,Copia en exámenes,Sur,No,EPSILON,2
+R0819,Kindergardiano,Pizza Planeta,Arquitectura,Examen nivelador,09/01/2023 00:00,A000009,Copia en exámenes,Sur,Sí,DSETA,3
+R0820,Big Bang Theory,Pizza Planeta,Diseños,Estudio,10/01/2023 00:00,A000010,Otra,Sur,Sí,ETA,4
+R0821,Big Bang Theory,Narnia,Arquitectura,Experimento,11/01/2023 00:00,A000011,Suplantación de identidad,Centro,No,ETA,5
+R0822,La Secu,Pandora,Sociología,Experimento,12/01/2023 00:00,A000012,Otra,Norte,Sí,KAPPA,6
+R0823,Big Bang Theory,Pizza Planeta,Bienestar,Experimento,13/01/2023 00:00,A000013,Intercambio de tareas en línea,Sur,No,LAMBDA,1
+R0824,Big Bang Theory,Pizza Planeta,Bienestar,Examen nivelador,14/01/2023 00:00,A000014,Copia en exámenes,Sur,Sí,OMICRON,2
+R0825,Big Bang Theory,Pandora,Bienestar,Estudio,15/01/2023 00:00,A000015,Plagio,Norte,No,PI,3
+R0826,La Secu,Narnia,Sociología,Estudio,16/01/2023 00:00,A000016,Plagio,Centro,No,SIGMA,4
+R0827,La Secu,Pandora,Sociología,Experimento,17/01/2023 00:00,A000017,Copia en exámenes,Norte,No,OMEGA,5
+R0828,La Secu,Pandora,Sociología,Experimento,18/01/2023 00:00,A000018,Copia en exámenes,Norte,No,JI,7
+R0829,Big Bang Theory,Rarotonga,Bienestar,Examen nivelador,19/01/2023 00:00,A000019,Copia en exámenes,Norte,No,PHI,1
+R0830,Big Bang Theory,Rarotonga,Bienestar,Examen nivelador,20/01/2023 00:00,A000020,Copia en exámenes,Norte,Sí,ETA,2
+R0831,Big Bang Theory,Pizza Planeta,Bienestar,Estudio,21/01/2023 00:00,A000021,Copia en exámenes,Sur,No,KAPPA,3
+R0832,Big Bang Theory,Wonderland,Arquitectura,Estudio,22/01/2023 00:00,A000022,Plagio,Centro,No,LAMBDA,4
+R0833,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,23/01/2023 00:00,A000023,Copia en exámenes,Centro,Sí,OMICRON,7
+R0834,Big Bang Theory,Pizza Planeta,Arquitectura,Experimento,24/01/2023 00:00,A000024,Copia en exámenes,Sur,No,PI,6
+R0835,Big Bang Theory,Pizza Planeta,Arquitectura,Experimento,25/01/2023 00:00,A000025,Otra,Sur,No,SIGMA,1
+R0836,La Secu,Rarotonga,Sociología,Prototipo,26/01/2023 00:00,A000026,Plagio,Norte,No,OMEGA,2
+R0837,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,27/01/2023 00:00,A000027,Copia en exámenes,Centro,No,JI,3
+R0838,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,28/01/2023 00:00,A000028,Copia en exámenes,Centro,Sí,PHI,4
+R0839,La Secu,Wonderland,Sociología,Examen nivelador,29/01/2023 00:00,A000029,Copia en exámenes,Centro,Sí,ALPHA,7
+R0840,La Secu,Wonderland,Sociología,Examen nivelador,30/01/2023 00:00,A000030,Copia en exámenes,Centro,No,BETA,6
+R0841,La Secu,Wonderland,Sociología,Examen nivelador,31/01/2023 00:00,A000031,Copia en exámenes,Centro,Sí,BETA,1
+R0842,La Secu,Wonderland,Sociología,Examen nivelador,01/02/2023 00:00,A000032,Copia en exámenes,Centro,No,GAMMA,2
+R0843,La Secu,Wonderland,Sociología,Examen nivelador,02/02/2023 00:00,A000033,Copia en exámenes,Centro,Sí,DELTA,3
+R0844,La Secu,Wonderland,Sociología,Examen nivelador,03/02/2023 00:00,A000034,Copia en exámenes,Centro,No,ETA,7
+R0845,La Secu,Wonderland,Sociología,Examen nivelador,04/02/2023 00:00,A000035,Copia en exámenes,Centro,No,KAPPA,5
+R0846,Big Bang Theory,El País de Nunca Jamás,Bienestar,Estudio,05/02/2023 00:00,A000036,Plagio,Sur,No,LAMBDA,6
+R0847,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,06/02/2023 00:00,A000037,Copia en exámenes,Centro,No,OMICRON,1
+R0848,Big Bang Theory,"Muy, muy lejano",Arquitectura,Examen nivelador,07/02/2023 00:00,A000038,Copia en exámenes,Norte,No,PI,7
+R0849,Big Bang Theory,"Muy, muy lejano",Arquitectura,Examen nivelador,08/02/2023 00:00,A000039,Copia en exámenes,Norte,Sí,SIGMA,3
+R0850,La Secu,El País de Nunca Jamás,Sociología,Experimento,09/02/2023 00:00,A000040,Plagio,Sur,No,OMEGA,4
+R0851,La Secu,El País de Nunca Jamás,Sociología,Prototipo,10/02/2023 00:00,A000041,Plagio,Sur,No,JI,5
+R0852,Big Bang Theory,Wonderland,Diseños,Examen nivelador,11/02/2023 00:00,A000042,Otra,Centro,Sí,PHI,6
+R0853,La Secu,Pandora,Sociología,Estudio,12/02/2023 00:00,A000043,Plagio,Norte,No,ETA,2
+R0854,La Secu,Pandora,Sociología,Examen nivelador,13/02/2023 00:00,A000044,Otra,Norte,No,KAPPA,7
+R0855,La Secu,Hogwarts,Sociología,Prototipo,14/02/2023 00:00,A000045,Plagio,Centro,No,LAMBDA,4
+R0856,La Secu,Pandora,Sociología,Prototipo,15/02/2023 00:00,A000046,Plagio,Norte,No,OMICRON,5
+R0857,La Secu,Hogwarts,Sociología,Prototipo,16/02/2023 00:00,A000047,Plagio,Centro,Sí,TAU,6
+R0858,Big Bang Theory,Wonderland,Negocios,Estudio,17/02/2023 00:00,A000048,Plagio,Centro,Sí,PSI,1
+R0859,Big Bang Theory,Wonderland,Negocios,Estudio,18/02/2023 00:00,A000049,Plagio,Centro,No,RHO,2
+R0860,La Secu,Rarotonga,Sociología,Estudio,19/02/2023 00:00,A000050,Plagio,Norte,Sí,PI,7
+R0861,Big Bang Theory,Genovia,Arquitectura,Examen nivelador,20/02/2023 00:00,A000051,Colusión,Norte,No,MU,4
+R0862,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,21/02/2023 00:00,A000052,Copia en exámenes,Centro,Sí,IOTA,5
+R0863,Big Bang Theory,Narnia,Ingeniería,Estudio,22/02/2023 00:00,A000053,Plagio,Centro,No,TAU,6
+R0864,Big Bang Theory,Wonderland,Arquitectura,Prototipo,23/02/2023 00:00,A000054,Plagio,Centro,No,PSI,2
+R0865,La Secu,Rarotonga,Sociología,Prototipo,24/02/2023 00:00,A000055,Intercambio de tareas en línea,Norte,No,RHO,3
+R0866,La Secu,Rarotonga,Sociología,Prototipo,25/02/2023 00:00,A000056,Intercambio de tareas en línea,Norte,No,PI,7
+R0867,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,26/02/2023 00:00,A000057,Copia en exámenes,Centro,No,MU,5
+R0868,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,27/02/2023 00:00,A000058,Copia en exámenes,Centro,Sí,IOTA,6
+R0869,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,28/02/2023 00:00,A000059,Copia en exámenes,Centro,No,ETA,1
+R0870,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,01/03/2023 00:00,A000060,Copia en exámenes,Centro,No,KAPPA,2
+R0871,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,02/03/2023 00:00,A000061,Copia en exámenes,Centro,Sí,LAMBDA,7
+R0872,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,03/03/2023 00:00,A000062,Copia en exámenes,Centro,No,OMICRON,4
+R0873,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,04/03/2023 00:00,A000063,Copia en exámenes,Centro,No,TAU,5
+R0874,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,05/03/2023 00:00,A000064,Colusión,Norte,No,PSI,6
+R0875,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,06/03/2023 00:00,A000065,Copia en exámenes,Norte,No,RHO,2
+R0876,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,07/03/2023 00:00,A000066,Colusión,Norte,Sí,PI,3
+R0877,Big Bang Theory,Wonderland,Negocios,Estudio,08/03/2023 00:00,A000067,Plagio,Centro,Sí,MU,4
+R0878,Big Bang Theory,Narnia,Negocios,Estudio,09/03/2023 00:00,A000068,Colusión,Centro,No,ALPHA,7
+R0879,Big Bang Theory,Genovia,Ingeniería,Estudio,10/03/2023 00:00,A000069,Plagio,Norte,Sí,ALPHA,6
+R0880,Big Bang Theory,Genovia,Ingeniería,Estudio,11/03/2023 00:00,A000070,Plagio,Norte,No,ALPHA,1
+R0881,Big Bang Theory,Genovia,Ingeniería,Estudio,12/03/2023 00:00,A000071,Plagio,Norte,Sí,BETA,2
+R0882,Big Bang Theory,Genovia,Ingeniería,Estudio,13/03/2023 00:00,A000072,Plagio,Norte,No,BETA,3
+R0883,Big Bang Theory,Genovia,Diseños,Examen nivelador,14/03/2023 00:00,A000073,Copia en exámenes,Norte,No,GAMMA,4
+R0884,Big Bang Theory,El País de Nunca Jamás,Ingeniería,Examen nivelador,15/03/2023 00:00,A000074,Plagio,Sur,No,DELTA,7
+R0885,Big Bang Theory,Genovia,Negocios,Prototipo,16/03/2023 00:00,A000075,Plagio,Norte,No,EPSILON,6
+R0886,Big Bang Theory,Genovia,Negocios,Prototipo,17/03/2023 00:00,A000076,Plagio,Norte,No,DSETA,2
+R0887,Big Bang Theory,Genovia,Ingeniería,Estudio,18/03/2023 00:00,A000077,Plagio,Norte,Sí,ETA,3
+R0888,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,19/03/2023 00:00,A000078,Copia en exámenes,Centro,No,ETA,4
+R0889,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,20/03/2023 00:00,A000079,Copia en exámenes,Centro,No,KAPPA,7
+R0890,La Secu,Genovia,Sociología,Estudio,21/03/2023 00:00,A000080,Plagio,Norte,Sí,LAMBDA,2
+R0891,Big Bang Theory,Genovia,Negocios,Examen nivelador,22/03/2023 00:00,A000081,Copia en exámenes,Norte,No,OMICRON,3
+R0892,La Secu,Ciudad Gótica,Sociología,Examen nivelador,23/03/2023 00:00,A000082,Copia en exámenes,Sur,No,PI,4
+R0893,Big Bang Theory,Genovia,Negocios,Examen nivelador,24/03/2023 00:00,A000083,Copia en exámenes,Norte,No,SIGMA,5
+R0894,Big Bang Theory,Genovia,Negocios,Examen nivelador,25/03/2023 00:00,A000084,Copia en exámenes,Norte,No,OMEGA,6
+R0895,Big Bang Theory,Genovia,Negocios,Estudio,26/03/2023 00:00,A000085,Plagio,Norte,Sí,JI,1
+R0896,Big Bang Theory,Genovia,Negocios,Examen nivelador,27/03/2023 00:00,A000086,Copia en exámenes,Norte,Sí,PHI,2
+R0897,Big Bang Theory,Genovia,Negocios,Experimento,28/03/2023 00:00,A000087,Copia en exámenes,Norte,No,ETA,3
+R0898,Big Bang Theory,Parque Jurásico,Arquitectura,Examen nivelador,29/03/2023 00:00,A000088,Copia en exámenes,Sur,Sí,KAPPA,4
+R0899,Big Bang Theory,Parque Jurásico,Arquitectura,Examen nivelador,30/03/2023 00:00,A000089,Distribución de exámenes,Sur,No,LAMBDA,7
+R0900,Big Bang Theory,Parque Jurásico,Arquitectura,Examen regulador,31/03/2023 00:00,A000090,Copia en exámenes,Sur,Sí,OMICRON,8
+R0901,Big Bang Theory,El País de Nunca Jamás,Arquitectura,Prototipo,01/04/2023 00:00,A000091,Plagio,Sur,No,PI,2
+R0902,La Secu,Ciudad Gótica,Sociología,Examen regulador,02/04/2023 00:00,A000092,Copia en exámenes,Sur,No,SIGMA,3
+R0903,Big Bang Theory,Genovia,Negocios,Examen regulador,03/04/2023 00:00,A000093,Distribución de exámenes,Norte,No,OMEGA,4
+R0904,La Secu,Ciudad Gótica,Sociología,Examen regulador,04/04/2023 00:00,A000094,Copia en exámenes,Sur,No,JI,5
+R0905,La Secu,Ciudad Gótica,Sociología,Examen regulador,05/04/2023 00:00,A000095,Copia en exámenes,Sur,No,PHI,5
+R0906,La Secu,Ciudad Gótica,Sociología,Examen regulador,06/04/2023 00:00,A000096,Copia en exámenes,Sur,Sí,ALPHA,6
+R0907,La Secu,"Muy, muy lejano",Sociología,Examen regulador,07/04/2023 00:00,A000097,Colusión,Norte,No,BETA,2
+R0908,La Secu,Ciudad Gótica,Sociología,Examen regulador,08/04/2023 00:00,A000098,Copia en exámenes,Sur,No,BETA,3
+R0909,La Secu,Wonderland,Sociología,Examen regulador,09/04/2023 00:00,A000099,Intercambio de tareas en línea,Centro,Sí,GAMMA,4
+R0910,Big Bang Theory,Parque Jurásico,Arquitectura,Examen regulador,10/04/2023 00:00,A000100,Copia en exámenes,Sur,No,DELTA,5
+R0911,La Secu,Wonderland,Sociología,Examen regulador,11/04/2023 00:00,A000101,Intercambio de tareas en línea,Centro,No,ETA,8
+R0912,La Secu,Springfield,Sociología,Experimento,12/04/2023 00:00,A000102,Plagio,Centro,No,KAPPA,6
+R0913,La Secu,Springfield,Sociología,Experimento,13/04/2023 00:00,A000103,Plagio,Centro,No,LAMBDA,2
+R0914,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,14/04/2023 00:00,A000104,Plagio,Sur,Sí,OMICRON,3
+R0915,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,15/04/2023 00:00,A000105,Otra,Sur,Sí,PI,4
+R0916,La Secu,Ciudad Gótica,Sociología,Examen regulador,16/04/2023 00:00,A000106,Copia en exámenes,Norte,No,SIGMA,5
+R0917,La Secu,Pandora,Sociología,Examen regulador,17/04/2023 00:00,A000107,Copia en exámenes,Norte,Sí,OMEGA,5
+R0918,Monster University,Genovia,Arquitectura,Examen regulador,18/04/2023 00:00,A000108,Copia en exámenes,Norte,No,JI,6
+R0919,Monster University,Genovia,Ingeniería,Examen regulador,19/04/2023 00:00,A000109,Copia en exámenes,Norte,Sí,PHI,2
+R0920,Monster University,Genovia,Diseños,Examen regulador,20/04/2023 00:00,A000110,Copia en exámenes,Norte,No,ETA,3
+R0921,Monster University,Genovia,Ingeniería,Examen regulador,21/04/2023 00:00,A000111,Copia en exámenes,Norte,No,KAPPA,4
+R0922,Monster University,Genovia,Educación,Examen regulador,22/04/2023 00:00,A000112,Copia en exámenes,Norte,No,LAMBDA,8
+R0923,Monster University,Genovia,Negocios,Examen regulador,23/04/2023 00:00,A000113,Copia en exámenes,Norte,No,OMICRON,8
+R0924,Monster University,Genovia,Arquitectura,Examen regulador,24/04/2023 00:00,A000114,Copia en exámenes,Norte,No,TAU,6
+R0925,Monster University,Genovia,Ingeniería,Examen regulador,25/04/2023 00:00,A000115,Copia en exámenes,Norte,Sí,PSI,2
+R0926,Monster University,Genovia,Negocios,Examen regulador,26/04/2023 00:00,A000116,Copia en exámenes,Norte,No,RHO,3
+R0927,Monster University,Genovia,Arquitectura,Examen regulador,27/04/2023 00:00,A000117,Copia en exámenes,Norte,No,PI,4
+R0928,Monster University,Genovia,Arquitectura,Examen regulador,28/04/2023 00:00,A000118,Copia en exámenes,Norte,Sí,MU,5
+R0929,Monster University,Genovia,Negocios,Examen regulador,29/04/2023 00:00,A000119,Copia en exámenes,Norte,No,IOTA,5
+R0930,Monster University,Genovia,Arquitectura,Examen regulador,30/04/2023 00:00,A000120,Copia en exámenes,Norte,No,TAU,5
+R0931,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,01/05/2023 00:00,A000121,Plagio,Sur,No,PSI,6
+R0932,Monster University,Genovia,Negocios,Examen regulador,02/05/2023 00:00,A000122,Copia en exámenes,Norte,No,RHO,2
+R0933,La Secu,Pandora,Sociología,Examen regulador,03/05/2023 00:00,A000123,Plagio,Norte,Sí,PI,3
+R0934,Monster University,Wonderland,Negocios,Estudio,04/05/2023 00:00,A000124,Plagio,Centro,Sí,MU,4
+R0935,Monster University,Wonderland,Negocios,Estudio,05/05/2023 00:00,A000125,Plagio,Centro,No,IOTA,5
+R0936,Monster University,Wonderland,Negocios,Estudio,06/05/2023 00:00,A000126,Plagio,Centro,Sí,ETA,4
+R0937,Monster University,Wonderland,Negocios,Estudio,07/05/2023 00:00,A000127,Plagio,Centro,No,KAPPA,5
+R0938,Monster University,Wonderland,Negocios,Prototipo,08/05/2023 00:00,A000128,Intercambio de tareas en línea,Centro,Sí,LAMBDA,6
+R0939,Monster University,Wonderland,Negocios,Prototipo,09/05/2023 00:00,A000129,Plagio,Centro,No,OMICRON,2
+R0940,Monster University,Wonderland,Negocios,Prototipo,10/05/2023 00:00,A000130,Plagio,Centro,No,TAU,3
+R0941,La Secu,Hogwarts,Sociología,Examen regulador,11/05/2023 00:00,A000131,Distribución de exámenes,Centro,No,PSI,4
+R0942,La Secu,Hogwarts,Sociología,Examen regulador,12/05/2023 00:00,A000132,Otra,Centro,No,RHO,8
+R0943,La Secu,Pandora,Sociología,Examen regulador,13/05/2023 00:00,A000133,Plagio,Norte,No,PI,8
+R0944,La Secu,Pandora,Sociología,Examen regulador,14/05/2023 00:00,A000134,Copia en exámenes,Norte,Sí,MU,8
+R0945,La Secu,Hogwarts,Sociología,Estudio,15/05/2023 00:00,A000135,Plagio,Centro,No,ALPHA,8
+R0946,Monster University,Empire,Arquitectura,Examen regulador,16/05/2023 00:00,A000136,Copia en exámenes,Centro,No,ALPHA,8
+R0947,Monster University,Parque Jurásico,Arquitectura,Examen regulador,17/05/2023 00:00,A000137,Copia en exámenes,Sur,Sí,ALPHA,4
+R0948,La Secu,"Muy, muy lejano",Sociología,Examen regulador,18/05/2023 00:00,A000138,Copia en exámenes,Norte,No,BETA,5
+R0949,La Secu,Wonderland,Sociología,Prototipo,19/05/2023 00:00,A000139,Plagio,Centro,No,BETA,4
+R0950,Monster University,Genovia,Negocios,Examen regulador,20/05/2023 00:00,A000140,Copia en exámenes,Norte,No,GAMMA,5
+R0951,La Secu,Hogwarts,Sociología,Estudio,21/05/2023 00:00,A000141,Plagio,Centro,No,DELTA,6
+R0952,La Secu,Hogwarts,Sociología,Estudio,22/05/2023 00:00,A000142,Plagio,Centro,Sí,EPSILON,2
+R0953,La Secu,Hogwarts,Sociología,Estudio,23/05/2023 00:00,A000143,Plagio,Centro,Sí,DSETA,3
+R0954,La Secu,Hogwarts,Sociología,Estudio,24/05/2023 00:00,A000144,Plagio,Centro,No,ETA,4
+R0955,La Secu,Hogwarts,Sociología,Estudio,25/05/2023 00:00,A000145,Plagio,Centro,Sí,ETA,5
+R0956,Monster University,Wonderland,Arquitectura,Examen regulador,26/05/2023 00:00,A000146,Distribución de exámenes,Centro,No,KAPPA,6
+R0957,La Secu,Parque Jurásico,Sociología,Experimento,27/05/2023 00:00,A000147,Colusión,Sur,Sí,LAMBDA,9
+R0958,La Secu,Parque Jurásico,Sociología,Experimento,28/05/2023 00:00,A000148,Colusión,Sur,No,OMICRON,2
+R0959,La Secu,Pizza Planeta,Sociología,Experimento,29/05/2023 00:00,A000149,Plagio,Sur,No,PI,3
+R0960,Monster University,Distrito 13,Diseños,Estudio,30/05/2023 00:00,A000150,Plagio,Centro,No,SIGMA,4
+R0961,La Secu,Distrito 13,Sociología,Examen regulador,31/05/2023 00:00,A000151,Otra,Centro,No,OMEGA,5
+R0962,Monster University,Genovia,Arquitectura,Experimento,01/06/2023 00:00,A000152,Compra-venta,Norte,No,JI,4
+R0963,La Secu,Pizza Planeta,Sociología,Examen regulador,02/06/2023 00:00,A000153,Copia en exámenes,Sur,Sí,PHI,5
+R0964,La Secu,Distrito 13,Sociología,Examen regulador,03/06/2023 00:00,A000154,Copia en exámenes,Centro,No,ETA,6
+R0965,La Secu,Distrito 13,Sociología,Experimento,04/06/2023 00:00,A000155,Plagio,Centro,No,KAPPA,2
+R0966,La Secu,Distrito 13,Sociología,Estudio,05/06/2023 00:00,A000156,Plagio,Centro,Sí,LAMBDA,3
+R0967,La Secu,Springfield,Sociología,Prototipo,06/06/2023 00:00,A000157,Plagio,Centro,No,OMICRON,4
+R0968,La Secu,Springfield,Sociología,Prototipo,07/06/2023 00:00,A000158,Plagio,Centro,No,PI,5
+R0969,La Secu,Springfield,Sociología,Prototipo,08/06/2023 00:00,A000159,Plagio,Centro,No,SIGMA,6
+R0970,La Secu,Springfield,Sociología,Prototipo,09/06/2023 00:00,A000160,Plagio,Centro,No,OMEGA,1
+R0971,La Secu,Springfield,Sociología,Prototipo,10/06/2023 00:00,A000161,Plagio,Centro,Sí,JI,2
+R0972,La Secu,Springfield,Sociología,Prototipo,11/06/2023 00:00,A000162,Plagio,Centro,Sí,PHI,3
+R0973,La Secu,Springfield,Sociología,Prototipo,12/06/2023 00:00,A000163,Plagio,Centro,No,ALPHA,4
+R0974,La Secu,Springfield,Sociología,Prototipo,13/06/2023 00:00,A000164,Plagio,Centro,Sí,BETA,5
+R0975,La Secu,Springfield,Sociología,Prototipo,14/06/2023 00:00,A000165,Plagio,Centro,No,BETA,4
+R0976,La Secu,Springfield,Sociología,Prototipo,15/06/2023 00:00,A000166,Plagio,Centro,Sí,GAMMA,5
+R0977,La Secu,Springfield,Sociología,Prototipo,16/06/2023 00:00,A000167,Plagio,Centro,No,DELTA,6
+R0978,La Secu,Springfield,Sociología,Prototipo,17/06/2023 00:00,A000168,Plagio,Centro,No,ETA,2
+R0979,La Secu,Distrito 13,Sociología,Examen diagnóstico,18/06/2023 00:00,A000169,Copia en exámenes,Centro,No,KAPPA,3
+R0980,La Secu,Distrito 13,Sociología,Examen diagnóstico,19/06/2023 00:00,A000170,Copia en exámenes,Centro,No,LAMBDA,9
+R0981,La Secu,El País de Nunca Jamás,Sociología,Examen diagnóstico,20/06/2023 00:00,A000171,Copia en exámenes,Norte,No,OMICRON,5
+R0982,Kindergardiano,Genovia,Negocios,Estudio,21/06/2023 00:00,A000172,Plagio,Norte,Sí,PI,6
+R0983,La Secu,Pandora,Sociología,Prototipo,22/06/2023 00:00,A000173,Plagio,Norte,No,SIGMA,1
+R0984,La Secu,Pandora,Sociología,Prototipo,23/06/2023 00:00,A000174,Plagio,Norte,No,OMEGA,2
+R0985,La Secu,Pandora,Sociología,Examen diagnóstico,24/06/2023 00:00,A000175,Falsificación,Norte,Sí,JI,3
+R0986,La Secu,Wonderland,Sociología,Prototipo,25/06/2023 00:00,A000176,Intercambio de tareas en línea,Centro,No,PHI,4
+R0987,La Secu,Pizza Planeta,Sociología,Experimento,26/06/2023 00:00,A000177,Fabricación,Sur,No,ETA,5
+R0988,Monster University,Genovia,Diseños,Examen diagnóstico,27/06/2023 00:00,A000178,Compra-venta,Norte,No,KAPPA,4
+R0989,La Secu,"Muy, muy lejano",Sociología,Examen diagnóstico,28/06/2023 00:00,A000179,Otra,Centro,No,LAMBDA,5
+R0990,La Secu,Parque Jurásico,Sociología,Examen diagnóstico,29/06/2023 00:00,A000180,Autoplagio,Norte,Sí,OMICRON,6
+R0991,La Secu,Distrito 13,Sociología,Examen diagnóstico,30/06/2023 00:00,A000181,Copia en exámenes,Centro,Sí,TAU,2
+R0992,Monster University,Pizza Planeta,Arquitectura,Prototipo,01/07/2023 00:00,A000182,Plagio,Sur,No,PSI,9
+R0993,High School Musical,Wonderland,Sociología,Examen diagnóstico,02/07/2023 00:00,A000183,Copia en exámenes,Centro,Sí,RHO,4
+R0994,High School Musical,El País de Nunca Jamás,Sociología,Examen diagnóstico,03/07/2023 00:00,A000184,Copia en exámenes,Sur,No,PI,5
+R0995,Monster University,Genovia,Arquitectura,Experimento,04/07/2023 00:00,A000185,Distribución de exámenes,Norte,Sí,MU,6
+R0996,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,05/07/2023 00:00,A000186,Copia en exámenes,Norte,No,IOTA,1
+R0997,High School Musical,Wonderland,Sociología,Experimento,06/07/2023 00:00,A000187,Intercambio de tareas en línea,Centro,No,TAU,2
+R0998,High School Musical,Springfield,Sociología,Estudio,07/07/2023 00:00,A000188,Plagio,Norte,No,PSI,3
+R0999,High School Musical,Springfield,Sociología,Estudio,08/07/2023 00:00,A000189,Plagio,Norte,No,RHO,4
+R1000,High School Musical,Springfield,Sociología,Estudio,09/07/2023 00:00,A000190,Plagio,Norte,No,PI,5
+R1001,Kindergardiano,Genovia,Educación,Prototipo,10/07/2023 00:00,A000191,Plagio,Norte,Sí,MU,4
+R1002,Kindergardiano,Genovia,Educación,Prototipo,11/07/2023 00:00,A000192,Plagio,Norte,No,IOTA,5
+R1003,High School Musical,Wonderland,Sociología,Examen diagnóstico,12/07/2023 00:00,A000193,Copia en exámenes,Centro,No,ETA,6
+R1004,High School Musical,Distrito 13,Sociología,Examen diagnóstico,13/07/2023 00:00,A000194,Copia en exámenes,Centro,Sí,KAPPA,2
+R1005,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,14/07/2023 00:00,A000195,Fabricación,Sur,No,LAMBDA,3
+R1006,Monster University,Pizza Planeta,Ingeniería,Estudio,15/07/2023 00:00,A000196,Colusión,Sur,No,OMICRON,9
+R1007,Monster University,Genovia,Bienestar,Estudio,16/07/2023 00:00,A000197,Intercambio de tareas en línea,Norte,No,TAU,5
+R1008,Monster University,Genovia,Bienestar,Estudio,17/07/2023 00:00,A000198,Intercambio de tareas en línea,Norte,No,PSI,6
+R1009,Monster University,Genovia,Bienestar,Estudio,18/07/2023 00:00,A000199,Intercambio de tareas en línea,Norte,Sí,RHO,1
+R1010,High School Musical,Distrito 13,Sociología,Examen diagnóstico,19/07/2023 00:00,A000200,Copia en exámenes,Centro,Sí,PI,2
+R1011,Monster University,Narnia,Diseños,Estudio,20/07/2023 00:00,A000201,Plagio,Centro,No,MU,3
+R1012,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,21/07/2023 00:00,A000202,Plagio,Sur,Sí,ALPHA,4
+R1013,Monster University,Wonderland,Bienestar,Experimento,22/07/2023 00:00,A000203,Plagio,Centro,No,ALPHA,5
+R1014,High School Musical,Wonderland,Sociología,Experimento,23/07/2023 00:00,A000204,Plagio,Centro,Sí,ALPHA,4
+R1015,Monster University,Wonderland,Bienestar,Experimento,24/07/2023 00:00,A000205,Plagio,Centro,No,BETA,5
+R1016,High School Musical,Wonderland,Sociología,Experimento,25/07/2023 00:00,A000206,Plagio,Centro,No,BETA,9
+R1017,Monster University,Wonderland,Bienestar,Experimento,26/07/2023 00:00,A000207,Plagio,Centro,No,GAMMA,9
+R1018,Monster University,Wonderland,Bienestar,Experimento,27/07/2023 00:00,A000208,Plagio,Centro,No,DELTA,3
+R1019,Monster University,Wonderland,Bienestar,Experimento,28/07/2023 00:00,A000209,Plagio,Centro,No,EPSILON,9
+R1020,Monster University,Wonderland,Bienestar,Experimento,29/07/2023 00:00,A000210,Plagio,Centro,Sí,DSETA,9
+R1021,High School Musical,Wonderland,Sociología,Experimento,30/07/2023 00:00,A000211,Plagio,Centro,No,ETA,9
+R1022,Monster University,Wonderland,Bienestar,Experimento,31/07/2023 00:00,A000212,Plagio,Centro,No,ETA,1
+R1023,Monster University,Distrito 13,Bienestar,Examen diagnóstico,01/08/2023 00:00,A000213,Copia en exámenes,Centro,Sí,KAPPA,2
+R1024,Monster University,Distrito 13,Bienestar,Examen diagnóstico,02/08/2023 00:00,A000214,Copia en exámenes,Centro,No,LAMBDA,3
+R1025,High School Musical,El País de Nunca Jamás,Sociología,Experimento,03/08/2023 00:00,A000215,Copia en exámenes,Sur,No,OMICRON,4
+R1026,Monster University,Distrito 13,Bienestar,Estudio,04/08/2023 00:00,A000216,Otra,Centro,No,PI,5
+R1027,High School Musical,Wonderland,Sociología,Examen diagnóstico,05/08/2023 00:00,A000217,Plagio,Centro,No,SIGMA,4
+R1028,High School Musical,Distrito 13,Sociología,Prototipo,06/08/2023 00:00,A000218,Plagio,Centro,Sí,OMEGA,5
+R1029,High School Musical,Distrito 13,Sociología,Examen diagnóstico,07/08/2023 00:00,A000219,Copia en exámenes,Centro,Sí,JI,6
+R1030,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,08/08/2023 00:00,A000220,Copia en exámenes,Centro,No,PHI,2
+R1031,Monster University,Genovia,Bienestar,Estudio,09/08/2023 00:00,A000221,Intercambio de tareas en línea,Norte,Sí,ETA,3
+R1032,High School Musical,Wonderland,Sociología,Examen diagnóstico,10/08/2023 00:00,A000222,Copia en exámenes,Centro,No,KAPPA,4
+R1033,High School Musical,Wonderland,Sociología,Examen diagnóstico,11/08/2023 00:00,A000223,Copia en exámenes,Centro,Sí,LAMBDA,5
+R1034,High School Musical,Wonderland,Sociología,Examen diagnóstico,12/08/2023 00:00,A000224,Copia en exámenes,Centro,No,OMICRON,6
+R1035,High School Musical,Wonderland,Sociología,Examen diagnóstico,13/08/2023 00:00,A000225,Copia en exámenes,Centro,No,PI,1
+R1036,High School Musical,Wonderland,Sociología,Examen diagnóstico,14/08/2023 00:00,A000226,Copia en exámenes,Centro,No,SIGMA,9
+R1037,High School Musical,Wonderland,Sociología,Examen diagnóstico,15/08/2023 00:00,A000227,Copia en exámenes,Centro,No,OMEGA,3
+R1038,High School Musical,Pandora,Sociología,Prototipo,16/08/2023 00:00,A000228,Plagio,Norte,No,JI,4
+R1039,High School Musical,Pandora,Sociología,Prototipo,17/08/2023 00:00,A000229,Plagio,Norte,Sí,PHI,5
+R1040,High School Musical,Pandora,Sociología,Prototipo,18/08/2023 00:00,A000230,Plagio,Norte,No,ALPHA,6
+R1041,High School Musical,Pandora,Sociología,Prototipo,19/08/2023 00:00,A000231,Plagio,Norte,No,BETA,1
+R1042,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,20/08/2023 00:00,A000232,Copia en exámenes,Centro,Sí,BETA,2
+R1043,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,21/08/2023 00:00,A000233,Copia en exámenes,Centro,No,GAMMA,3
+R1044,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,22/08/2023 00:00,A000234,Copia en exámenes,Centro,No,DELTA,4
+R1045,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,23/08/2023 00:00,A000235,Copia en exámenes,Centro,No,ETA,5
+R1046,Monster University,Wonderland,Arquitectura,Prototipo,24/08/2023 00:00,A000236,Plagio,Centro,No,KAPPA,4
+R1047,Monster University,Genovia,Ingeniería,Examen diagnóstico,25/08/2023 00:00,A000237,Copia en exámenes,Norte,Sí,LAMBDA,5
+R1048,Monster University,Wonderland,Ingeniería,Examen diagnóstico,26/08/2023 00:00,A000238,Copia en exámenes,Centro,Sí,OMICRON,6
+R1049,Monster University,Genovia,Arquitectura,Examen diagnóstico,27/08/2023 00:00,A000239,Copia en exámenes,Norte,No,PI,2
+R1050,Monster University,Wonderland,Ingeniería,Examen diagnóstico,28/08/2023 00:00,A000240,Copia en exámenes,Centro,Sí,SIGMA,3
+R1051,Monster University,Genovia,Ingeniería,Examen diagnóstico,29/08/2023 00:00,A000241,Copia en exámenes,Norte,No,OMEGA,4
+R1052,Monster University,Distrito 13,Bienestar,Estudio,30/08/2023 00:00,A000242,Colusión,Centro,Sí,JI,5
+R1053,Monster University,Distrito 13,Bienestar,Estudio,31/08/2023 00:00,A000243,Colusión,Centro,No,PHI,6
+R1054,High School Musical,El País de Nunca Jamás,Sociología,Estudio,01/09/2023 00:00,A000244,Plagio,Norte,No,ETA,1
+R1055,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,02/09/2023 00:00,A000245,Copia en exámenes,Sur,No,KAPPA,2
+R1056,High School Musical,Springfield,Sociología,Experimento,03/09/2023 00:00,A000246,Plagio,Centro,No,LAMBDA,3
+R1057,High School Musical,Springfield,Sociología,Estudio,04/09/2023 00:00,A000247,Plagio,Centro,No,OMICRON,4
+R1058,Monster University,Genovia,Arquitectura,Examen diagnóstico,05/09/2023 00:00,A000248,Distribución de exámenes,Norte,Sí,TAU,5
+R1059,Monster University,Genovia,Arquitectura,Examen diagnóstico,06/09/2023 00:00,A000249,Copia en exámenes,Norte,No,PSI,4
+R1060,High School Musical,Springfield,Sociología,Estudio,07/09/2023 00:00,A000250,Plagio,Norte,No,RHO,5
+R1061,High School Musical,Springfield,Sociología,Estudio,08/09/2023 00:00,A000251,Plagio,Norte,Sí,PI,6
+R1062,High School Musical,Springfield,Sociología,Prototipo,09/09/2023 00:00,A000252,Plagio,Centro,No,MU,2
+R1063,High School Musical,Springfield,Sociología,Prototipo,10/09/2023 00:00,A000253,Plagio,Centro,No,IOTA,3
+R1064,Monster University,Distrito 13,Bienestar,Prototipo,11/09/2023 00:00,A000254,Plagio,Centro,No,TAU,4
+R1065,High School Musical,Springfield,Sociología,Examen diagnóstico,12/09/2023 00:00,A000255,Copia en exámenes,Centro,No,PSI,5
+R1066,High School Musical,Springfield,Sociología,Examen diagnóstico,13/09/2023 00:00,A000256,Copia en exámenes,Centro,Sí,RHO,6
+R1067,High School Musical,Springfield,Sociología,Examen diagnóstico,14/09/2023 00:00,A000257,Copia en exámenes,Centro,Sí,PI,1
+R1068,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,15/09/2023 00:00,A000258,Copia en exámenes,Centro,No,MU,2
+R1069,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,16/09/2023 00:00,A000259,Copia en exámenes,Centro,Sí,IOTA,3
+R1070,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,17/09/2023 00:00,A000260,Copia en exámenes,Centro,No,ETA,4
+R1071,Monster University,El País de Nunca Jamás,Bienestar,Experimento,18/09/2023 00:00,A000261,Soborno,Sur,Sí,KAPPA,5
+R1072,Monster University,Hogwarts,Bienestar,Estudio,19/09/2023 00:00,A000262,Colusión,Centro,No,LAMBDA,4
+R1073,Monster University,Hogwarts,Bienestar,Estudio,20/09/2023 00:00,A000263,Colusión,Centro,No,OMICRON,5
+R1074,High School Musical,El País de Nunca Jamás,Sociología,Examen diagnóstico,21/09/2023 00:00,A000264,Copia en exámenes,Norte,No,TAU,6
+R1075,Monster University,Genovia,Arquitectura,Examen diagnóstico,22/09/2023 00:00,A000265,Colusión,Norte,No,PSI,2
+R1076,High School Musical,Pizza Planeta,Sociología,Experimento,23/09/2023 00:00,A000266,Copia en exámenes,Sur,No,RHO,3
+R1077,High School Musical,Pizza Planeta,Sociología,Experimento,24/09/2023 00:00,A000267,Copia en exámenes,Sur,Sí,PI,4
+R1078,High School Musical,Pizza Planeta,Sociología,Experimento,25/09/2023 00:00,A000268,Copia en exámenes,Sur,No,MU,5
+R1079,High School Musical,Pizza Planeta,Sociología,Experimento,26/09/2023 00:00,A000269,Copia en exámenes,Sur,No,MU,6
+R1080,High School Musical,Pizza Planeta,Sociología,Prototipo,27/09/2023 00:00,A000270,Plagio,Sur,Sí,MU,1
+R1081,Kindergardiano,Narnia,Sociología,Examen nivelador,01/01/2023 00:00,A000001,Copia en exámenes,Centro,Sí,ALPHA,1
+R1082,La Secu,Distrito 13,Sociología,Estudio,02/01/2023 00:00,A000002,Colusión,Centro,No,ALPHA,2
+R1083,La Secu,Narnia,Sociología,Examen nivelador,03/01/2023 00:00,A000003,Copia en exámenes,Centro,No,ALPHA,3
+R1084,La Secu,Narnia,Sociología,Examen nivelador,04/01/2023 00:00,A000004,Copia en exámenes,Centro,Sí,BETA,4
+R1085,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,05/01/2023 00:00,A000005,Copia en exámenes,Centro,No,BETA,5
+R1086,La Secu,Narnia,Sociología,Estudio,06/01/2023 00:00,A000006,Plagio,Centro,No,GAMMA,6
+R1087,Big Bang Theory,Pizza Planeta,Diseños,Prototipo,07/01/2023 00:00,A000007,Plagio,Sur,No,DELTA,1
+R1088,Kindergardiano,Pizza Planeta,Arquitectura,Examen nivelador,08/01/2023 00:00,A000008,Copia en exámenes,Sur,No,EPSILON,2
+R1089,Kindergardiano,Pizza Planeta,Arquitectura,Examen nivelador,09/01/2023 00:00,A000009,Copia en exámenes,Sur,Sí,DSETA,3
+R1090,Big Bang Theory,Pizza Planeta,Diseños,Estudio,10/01/2023 00:00,A000010,Otra,Sur,Sí,ETA,4
+R1091,Big Bang Theory,Narnia,Arquitectura,Experimento,11/01/2023 00:00,A000011,Suplantación de identidad,Centro,No,ETA,5
+R1092,La Secu,Pandora,Sociología,Experimento,12/01/2023 00:00,A000012,Otra,Norte,Sí,KAPPA,6
+R1093,Big Bang Theory,Pizza Planeta,Bienestar,Experimento,13/01/2023 00:00,A000013,Intercambio de tareas en línea,Sur,No,LAMBDA,1
+R1094,Big Bang Theory,Pizza Planeta,Bienestar,Examen nivelador,14/01/2023 00:00,A000014,Copia en exámenes,Sur,Sí,OMICRON,2
+R1095,Big Bang Theory,Pandora,Bienestar,Estudio,15/01/2023 00:00,A000015,Plagio,Norte,No,PI,3
+R1096,La Secu,Narnia,Sociología,Estudio,16/01/2023 00:00,A000016,Plagio,Centro,No,SIGMA,4
+R1097,La Secu,Pandora,Sociología,Experimento,17/01/2023 00:00,A000017,Copia en exámenes,Norte,No,OMEGA,5
+R1098,La Secu,Pandora,Sociología,Experimento,18/01/2023 00:00,A000018,Copia en exámenes,Norte,No,JI,7
+R1099,Big Bang Theory,Rarotonga,Bienestar,Examen nivelador,19/01/2023 00:00,A000019,Copia en exámenes,Norte,No,PHI,1
+R1100,Big Bang Theory,Rarotonga,Bienestar,Examen nivelador,20/01/2023 00:00,A000020,Copia en exámenes,Norte,Sí,ETA,2
+R1101,Big Bang Theory,Pizza Planeta,Bienestar,Estudio,21/01/2023 00:00,A000021,Copia en exámenes,Sur,No,KAPPA,3
+R1102,Big Bang Theory,Wonderland,Arquitectura,Estudio,22/01/2023 00:00,A000022,Plagio,Centro,No,LAMBDA,4
+R1103,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,23/01/2023 00:00,A000023,Copia en exámenes,Centro,Sí,OMICRON,7
+R1104,Big Bang Theory,Pizza Planeta,Arquitectura,Experimento,24/01/2023 00:00,A000024,Copia en exámenes,Sur,No,PI,6
+R1105,Big Bang Theory,Pizza Planeta,Arquitectura,Experimento,25/01/2023 00:00,A000025,Otra,Sur,No,SIGMA,1
+R1106,La Secu,Rarotonga,Sociología,Prototipo,26/01/2023 00:00,A000026,Plagio,Norte,No,OMEGA,2
+R1107,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,27/01/2023 00:00,A000027,Copia en exámenes,Centro,No,JI,3
+R1108,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,28/01/2023 00:00,A000028,Copia en exámenes,Centro,Sí,PHI,4
+R1109,La Secu,Wonderland,Sociología,Examen nivelador,29/01/2023 00:00,A000029,Copia en exámenes,Centro,Sí,ALPHA,7
+R1110,La Secu,Wonderland,Sociología,Examen nivelador,30/01/2023 00:00,A000030,Copia en exámenes,Centro,No,BETA,6
+R1111,La Secu,Wonderland,Sociología,Examen nivelador,31/01/2023 00:00,A000031,Copia en exámenes,Centro,Sí,BETA,1
+R1112,La Secu,Wonderland,Sociología,Examen nivelador,01/02/2023 00:00,A000032,Copia en exámenes,Centro,No,GAMMA,2
+R1113,La Secu,Wonderland,Sociología,Examen nivelador,02/02/2023 00:00,A000033,Copia en exámenes,Centro,Sí,DELTA,3
+R1114,La Secu,Wonderland,Sociología,Examen nivelador,03/02/2023 00:00,A000034,Copia en exámenes,Centro,No,ETA,7
+R1115,La Secu,Wonderland,Sociología,Examen nivelador,04/02/2023 00:00,A000035,Copia en exámenes,Centro,No,KAPPA,5
+R1116,Big Bang Theory,El País de Nunca Jamás,Bienestar,Estudio,05/02/2023 00:00,A000036,Plagio,Sur,No,LAMBDA,6
+R1117,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,06/02/2023 00:00,A000037,Copia en exámenes,Centro,No,OMICRON,1
+R1118,Big Bang Theory,"Muy, muy lejano",Arquitectura,Examen nivelador,07/02/2023 00:00,A000038,Copia en exámenes,Norte,No,PI,7
+R1119,Big Bang Theory,"Muy, muy lejano",Arquitectura,Examen nivelador,08/02/2023 00:00,A000039,Copia en exámenes,Norte,Sí,SIGMA,3
+R1120,La Secu,El País de Nunca Jamás,Sociología,Experimento,09/02/2023 00:00,A000040,Plagio,Sur,No,OMEGA,4
+R1121,La Secu,El País de Nunca Jamás,Sociología,Prototipo,10/02/2023 00:00,A000041,Plagio,Sur,No,JI,5
+R1122,Big Bang Theory,Wonderland,Diseños,Examen nivelador,11/02/2023 00:00,A000042,Otra,Centro,Sí,PHI,6
+R1123,La Secu,Pandora,Sociología,Estudio,12/02/2023 00:00,A000043,Plagio,Norte,No,ETA,2
+R1124,La Secu,Pandora,Sociología,Examen nivelador,13/02/2023 00:00,A000044,Otra,Norte,No,KAPPA,7
+R1125,La Secu,Hogwarts,Sociología,Prototipo,14/02/2023 00:00,A000045,Plagio,Centro,No,LAMBDA,4
+R1126,La Secu,Pandora,Sociología,Prototipo,15/02/2023 00:00,A000046,Plagio,Norte,No,OMICRON,5
+R1127,La Secu,Hogwarts,Sociología,Prototipo,16/02/2023 00:00,A000047,Plagio,Centro,Sí,TAU,6
+R1128,Big Bang Theory,Wonderland,Negocios,Estudio,17/02/2023 00:00,A000048,Plagio,Centro,Sí,PSI,1
+R1129,Big Bang Theory,Wonderland,Negocios,Estudio,18/02/2023 00:00,A000049,Plagio,Centro,No,RHO,2
+R1130,La Secu,Rarotonga,Sociología,Estudio,19/02/2023 00:00,A000050,Plagio,Norte,Sí,PI,7
+R1131,Big Bang Theory,Genovia,Arquitectura,Examen nivelador,20/02/2023 00:00,A000051,Colusión,Norte,No,MU,4
+R1132,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,21/02/2023 00:00,A000052,Copia en exámenes,Centro,Sí,IOTA,5
+R1133,Big Bang Theory,Narnia,Ingeniería,Estudio,22/02/2023 00:00,A000053,Plagio,Centro,No,TAU,6
+R1134,Big Bang Theory,Wonderland,Arquitectura,Prototipo,23/02/2023 00:00,A000054,Plagio,Centro,No,PSI,2
+R1135,La Secu,Rarotonga,Sociología,Prototipo,24/02/2023 00:00,A000055,Intercambio de tareas en línea,Norte,No,RHO,3
+R1136,La Secu,Rarotonga,Sociología,Prototipo,25/02/2023 00:00,A000056,Intercambio de tareas en línea,Norte,No,PI,7
+R1137,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,26/02/2023 00:00,A000057,Copia en exámenes,Centro,No,MU,5
+R1138,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,27/02/2023 00:00,A000058,Copia en exámenes,Centro,Sí,IOTA,6
+R1139,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,28/02/2023 00:00,A000059,Copia en exámenes,Centro,No,ETA,1
+R1140,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,01/03/2023 00:00,A000060,Copia en exámenes,Centro,No,KAPPA,2
+R1141,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,02/03/2023 00:00,A000061,Copia en exámenes,Centro,Sí,LAMBDA,7
+R1142,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,03/03/2023 00:00,A000062,Copia en exámenes,Centro,No,OMICRON,4
+R1143,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,04/03/2023 00:00,A000063,Copia en exámenes,Centro,No,TAU,5
+R1144,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,05/03/2023 00:00,A000064,Colusión,Norte,No,PSI,6
+R1145,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,06/03/2023 00:00,A000065,Copia en exámenes,Norte,No,RHO,2
+R1146,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,07/03/2023 00:00,A000066,Colusión,Norte,Sí,PI,3
+R1147,Big Bang Theory,Wonderland,Negocios,Estudio,08/03/2023 00:00,A000067,Plagio,Centro,Sí,MU,4
+R1148,Big Bang Theory,Narnia,Negocios,Estudio,09/03/2023 00:00,A000068,Colusión,Centro,No,ALPHA,7
+R1149,Big Bang Theory,Genovia,Ingeniería,Estudio,10/03/2023 00:00,A000069,Plagio,Norte,Sí,ALPHA,6
+R1150,Big Bang Theory,Genovia,Ingeniería,Estudio,11/03/2023 00:00,A000070,Plagio,Norte,No,ALPHA,1
+R1151,Big Bang Theory,Genovia,Ingeniería,Estudio,12/03/2023 00:00,A000071,Plagio,Norte,Sí,BETA,2
+R1152,Big Bang Theory,Genovia,Ingeniería,Estudio,13/03/2023 00:00,A000072,Plagio,Norte,No,BETA,3
+R1153,Big Bang Theory,Genovia,Diseños,Examen nivelador,14/03/2023 00:00,A000073,Copia en exámenes,Norte,No,GAMMA,4
+R1154,Big Bang Theory,El País de Nunca Jamás,Ingeniería,Examen nivelador,15/03/2023 00:00,A000074,Plagio,Sur,No,DELTA,7
+R1155,Big Bang Theory,Genovia,Negocios,Prototipo,16/03/2023 00:00,A000075,Plagio,Norte,No,EPSILON,6
+R1156,Big Bang Theory,Genovia,Negocios,Prototipo,17/03/2023 00:00,A000076,Plagio,Norte,No,DSETA,2
+R1157,Big Bang Theory,Genovia,Ingeniería,Estudio,18/03/2023 00:00,A000077,Plagio,Norte,Sí,ETA,3
+R1158,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,19/03/2023 00:00,A000078,Copia en exámenes,Centro,No,ETA,4
+R1159,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,20/03/2023 00:00,A000079,Copia en exámenes,Centro,No,KAPPA,7
+R1160,La Secu,Genovia,Sociología,Estudio,21/03/2023 00:00,A000080,Plagio,Norte,Sí,LAMBDA,2
+R1161,Big Bang Theory,Genovia,Negocios,Examen nivelador,22/03/2023 00:00,A000081,Copia en exámenes,Norte,No,OMICRON,3
+R1162,La Secu,Ciudad Gótica,Sociología,Examen nivelador,23/03/2023 00:00,A000082,Copia en exámenes,Sur,No,PI,4
+R1163,Big Bang Theory,Genovia,Negocios,Examen nivelador,24/03/2023 00:00,A000083,Copia en exámenes,Norte,No,SIGMA,5
+R1164,Big Bang Theory,Genovia,Negocios,Examen nivelador,25/03/2023 00:00,A000084,Copia en exámenes,Norte,No,OMEGA,6
+R1165,Big Bang Theory,Genovia,Negocios,Estudio,26/03/2023 00:00,A000085,Plagio,Norte,Sí,JI,1
+R1166,Big Bang Theory,Genovia,Negocios,Examen nivelador,27/03/2023 00:00,A000086,Copia en exámenes,Norte,Sí,PHI,2
+R1167,Big Bang Theory,Genovia,Negocios,Experimento,28/03/2023 00:00,A000087,Copia en exámenes,Norte,No,ETA,3
+R1168,Big Bang Theory,Parque Jurásico,Arquitectura,Examen nivelador,29/03/2023 00:00,A000088,Copia en exámenes,Sur,Sí,KAPPA,4
+R1169,Big Bang Theory,Parque Jurásico,Arquitectura,Examen nivelador,30/03/2023 00:00,A000089,Distribución de exámenes,Sur,No,LAMBDA,7
+R1170,Big Bang Theory,Parque Jurásico,Arquitectura,Examen regulador,31/03/2023 00:00,A000090,Copia en exámenes,Sur,Sí,OMICRON,8
+R1171,Big Bang Theory,El País de Nunca Jamás,Arquitectura,Prototipo,01/04/2023 00:00,A000091,Plagio,Sur,No,PI,2
+R1172,La Secu,Ciudad Gótica,Sociología,Examen regulador,02/04/2023 00:00,A000092,Copia en exámenes,Sur,No,SIGMA,3
+R1173,Big Bang Theory,Genovia,Negocios,Examen regulador,03/04/2023 00:00,A000093,Distribución de exámenes,Norte,No,OMEGA,4
+R1174,La Secu,Ciudad Gótica,Sociología,Examen regulador,04/04/2023 00:00,A000094,Copia en exámenes,Sur,No,JI,5
+R1175,La Secu,Ciudad Gótica,Sociología,Examen regulador,05/04/2023 00:00,A000095,Copia en exámenes,Sur,No,PHI,5
+R1176,La Secu,Ciudad Gótica,Sociología,Examen regulador,06/04/2023 00:00,A000096,Copia en exámenes,Sur,Sí,ALPHA,6
+R1177,La Secu,"Muy, muy lejano",Sociología,Examen regulador,07/04/2023 00:00,A000097,Colusión,Norte,No,BETA,2
+R1178,La Secu,Ciudad Gótica,Sociología,Examen regulador,08/04/2023 00:00,A000098,Copia en exámenes,Sur,No,BETA,3
+R1179,La Secu,Wonderland,Sociología,Examen regulador,09/04/2023 00:00,A000099,Intercambio de tareas en línea,Centro,Sí,GAMMA,4
+R1180,Big Bang Theory,Parque Jurásico,Arquitectura,Examen regulador,10/04/2023 00:00,A000100,Copia en exámenes,Sur,No,DELTA,5
+R1181,La Secu,Wonderland,Sociología,Examen regulador,11/04/2023 00:00,A000101,Intercambio de tareas en línea,Centro,No,ETA,8
+R1182,La Secu,Springfield,Sociología,Experimento,12/04/2023 00:00,A000102,Plagio,Centro,No,KAPPA,6
+R1183,La Secu,Springfield,Sociología,Experimento,13/04/2023 00:00,A000103,Plagio,Centro,No,LAMBDA,2
+R1184,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,14/04/2023 00:00,A000104,Plagio,Sur,Sí,OMICRON,3
+R1185,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,15/04/2023 00:00,A000105,Otra,Sur,Sí,PI,4
+R1186,La Secu,Ciudad Gótica,Sociología,Examen regulador,16/04/2023 00:00,A000106,Copia en exámenes,Norte,No,SIGMA,5
+R1187,La Secu,Pandora,Sociología,Examen regulador,17/04/2023 00:00,A000107,Copia en exámenes,Norte,Sí,OMEGA,5
+R1188,Monster University,Genovia,Arquitectura,Examen regulador,18/04/2023 00:00,A000108,Copia en exámenes,Norte,No,JI,6
+R1189,Monster University,Genovia,Ingeniería,Examen regulador,19/04/2023 00:00,A000109,Copia en exámenes,Norte,Sí,PHI,2
+R1190,Monster University,Genovia,Diseños,Examen regulador,20/04/2023 00:00,A000110,Copia en exámenes,Norte,No,ETA,3
+R1191,Monster University,Genovia,Ingeniería,Examen regulador,21/04/2023 00:00,A000111,Copia en exámenes,Norte,No,KAPPA,4
+R1192,Monster University,Genovia,Educación,Examen regulador,22/04/2023 00:00,A000112,Copia en exámenes,Norte,No,LAMBDA,8
+R1193,Monster University,Genovia,Negocios,Examen regulador,23/04/2023 00:00,A000113,Copia en exámenes,Norte,No,OMICRON,8
+R1194,Monster University,Genovia,Arquitectura,Examen regulador,24/04/2023 00:00,A000114,Copia en exámenes,Norte,No,TAU,6
+R1195,Monster University,Genovia,Ingeniería,Examen regulador,25/04/2023 00:00,A000115,Copia en exámenes,Norte,Sí,PSI,2
+R1196,Monster University,Genovia,Negocios,Examen regulador,26/04/2023 00:00,A000116,Copia en exámenes,Norte,No,RHO,3
+R1197,Monster University,Genovia,Arquitectura,Examen regulador,27/04/2023 00:00,A000117,Copia en exámenes,Norte,No,PI,4
+R1198,Monster University,Genovia,Arquitectura,Examen regulador,28/04/2023 00:00,A000118,Copia en exámenes,Norte,Sí,MU,5
+R1199,Monster University,Genovia,Negocios,Examen regulador,29/04/2023 00:00,A000119,Copia en exámenes,Norte,No,IOTA,5
+R1200,Monster University,Genovia,Arquitectura,Examen regulador,30/04/2023 00:00,A000120,Copia en exámenes,Norte,No,TAU,5
+R1201,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,01/05/2023 00:00,A000121,Plagio,Sur,No,PSI,6
+R1202,Monster University,Genovia,Negocios,Examen regulador,02/05/2023 00:00,A000122,Copia en exámenes,Norte,No,RHO,2
+R1203,La Secu,Pandora,Sociología,Examen regulador,03/05/2023 00:00,A000123,Plagio,Norte,Sí,PI,3
+R1204,Monster University,Wonderland,Negocios,Estudio,04/05/2023 00:00,A000124,Plagio,Centro,Sí,MU,4
+R1205,Monster University,Wonderland,Negocios,Estudio,05/05/2023 00:00,A000125,Plagio,Centro,No,IOTA,5
+R1206,Monster University,Wonderland,Negocios,Estudio,06/05/2023 00:00,A000126,Plagio,Centro,Sí,ETA,4
+R1207,Monster University,Wonderland,Negocios,Estudio,07/05/2023 00:00,A000127,Plagio,Centro,No,KAPPA,5
+R1208,Monster University,Wonderland,Negocios,Prototipo,08/05/2023 00:00,A000128,Intercambio de tareas en línea,Centro,Sí,LAMBDA,6
+R1209,Monster University,Wonderland,Negocios,Prototipo,09/05/2023 00:00,A000129,Plagio,Centro,No,OMICRON,2
+R1210,Monster University,Wonderland,Negocios,Prototipo,10/05/2023 00:00,A000130,Plagio,Centro,No,TAU,3
+R1211,La Secu,Hogwarts,Sociología,Examen regulador,11/05/2023 00:00,A000131,Distribución de exámenes,Centro,No,PSI,4
+R1212,La Secu,Hogwarts,Sociología,Examen regulador,12/05/2023 00:00,A000132,Otra,Centro,No,RHO,8
+R1213,La Secu,Pandora,Sociología,Examen regulador,13/05/2023 00:00,A000133,Plagio,Norte,No,PI,8
+R1214,La Secu,Pandora,Sociología,Examen regulador,14/05/2023 00:00,A000134,Copia en exámenes,Norte,Sí,MU,8
+R1215,La Secu,Hogwarts,Sociología,Estudio,15/05/2023 00:00,A000135,Plagio,Centro,No,ALPHA,8
+R1216,Monster University,Empire,Arquitectura,Examen regulador,16/05/2023 00:00,A000136,Copia en exámenes,Centro,No,ALPHA,8
+R1217,Monster University,Parque Jurásico,Arquitectura,Examen regulador,17/05/2023 00:00,A000137,Copia en exámenes,Sur,Sí,ALPHA,4
+R1218,La Secu,"Muy, muy lejano",Sociología,Examen regulador,18/05/2023 00:00,A000138,Copia en exámenes,Norte,No,BETA,5
+R1219,La Secu,Wonderland,Sociología,Prototipo,19/05/2023 00:00,A000139,Plagio,Centro,No,BETA,4
+R1220,Monster University,Genovia,Negocios,Examen regulador,20/05/2023 00:00,A000140,Copia en exámenes,Norte,No,GAMMA,5
+R1221,La Secu,Hogwarts,Sociología,Estudio,21/05/2023 00:00,A000141,Plagio,Centro,No,DELTA,6
+R1222,La Secu,Hogwarts,Sociología,Estudio,22/05/2023 00:00,A000142,Plagio,Centro,Sí,EPSILON,2
+R1223,La Secu,Hogwarts,Sociología,Estudio,23/05/2023 00:00,A000143,Plagio,Centro,Sí,DSETA,3
+R1224,La Secu,Hogwarts,Sociología,Estudio,24/05/2023 00:00,A000144,Plagio,Centro,No,ETA,4
+R1225,La Secu,Hogwarts,Sociología,Estudio,25/05/2023 00:00,A000145,Plagio,Centro,Sí,ETA,5
+R1226,Monster University,Wonderland,Arquitectura,Examen regulador,26/05/2023 00:00,A000146,Distribución de exámenes,Centro,No,KAPPA,6
+R1227,La Secu,Parque Jurásico,Sociología,Experimento,27/05/2023 00:00,A000147,Colusión,Sur,Sí,LAMBDA,9
+R1228,La Secu,Parque Jurásico,Sociología,Experimento,28/05/2023 00:00,A000148,Colusión,Sur,No,OMICRON,2
+R1229,La Secu,Pizza Planeta,Sociología,Experimento,29/05/2023 00:00,A000149,Plagio,Sur,No,PI,3
+R1230,Monster University,Distrito 13,Diseños,Estudio,30/05/2023 00:00,A000150,Plagio,Centro,No,SIGMA,4
+R1231,La Secu,Distrito 13,Sociología,Examen regulador,31/05/2023 00:00,A000151,Otra,Centro,No,OMEGA,5
+R1232,Monster University,Genovia,Arquitectura,Experimento,01/06/2023 00:00,A000152,Compra-venta,Norte,No,JI,4
+R1233,La Secu,Pizza Planeta,Sociología,Examen regulador,02/06/2023 00:00,A000153,Copia en exámenes,Sur,Sí,PHI,5
+R1234,La Secu,Distrito 13,Sociología,Examen regulador,03/06/2023 00:00,A000154,Copia en exámenes,Centro,No,ETA,6
+R1235,La Secu,Distrito 13,Sociología,Experimento,04/06/2023 00:00,A000155,Plagio,Centro,No,KAPPA,2
+R1236,La Secu,Distrito 13,Sociología,Estudio,05/06/2023 00:00,A000156,Plagio,Centro,Sí,LAMBDA,3
+R1237,La Secu,Springfield,Sociología,Prototipo,06/06/2023 00:00,A000157,Plagio,Centro,No,OMICRON,4
+R1238,La Secu,Springfield,Sociología,Prototipo,07/06/2023 00:00,A000158,Plagio,Centro,No,PI,5
+R1239,La Secu,Springfield,Sociología,Prototipo,08/06/2023 00:00,A000159,Plagio,Centro,No,SIGMA,6
+R1240,La Secu,Springfield,Sociología,Prototipo,09/06/2023 00:00,A000160,Plagio,Centro,No,OMEGA,1
+R1241,La Secu,Springfield,Sociología,Prototipo,10/06/2023 00:00,A000161,Plagio,Centro,Sí,JI,2
+R1242,La Secu,Springfield,Sociología,Prototipo,11/06/2023 00:00,A000162,Plagio,Centro,Sí,PHI,3
+R1243,La Secu,Springfield,Sociología,Prototipo,12/06/2023 00:00,A000163,Plagio,Centro,No,ALPHA,4
+R1244,La Secu,Springfield,Sociología,Prototipo,13/06/2023 00:00,A000164,Plagio,Centro,Sí,BETA,5
+R1245,La Secu,Springfield,Sociología,Prototipo,14/06/2023 00:00,A000165,Plagio,Centro,No,BETA,4
+R1246,La Secu,Springfield,Sociología,Prototipo,15/06/2023 00:00,A000166,Plagio,Centro,Sí,GAMMA,5
+R1247,La Secu,Springfield,Sociología,Prototipo,16/06/2023 00:00,A000167,Plagio,Centro,No,DELTA,6
+R1248,La Secu,Springfield,Sociología,Prototipo,17/06/2023 00:00,A000168,Plagio,Centro,No,ETA,2
+R1249,La Secu,Distrito 13,Sociología,Examen diagnóstico,18/06/2023 00:00,A000169,Copia en exámenes,Centro,No,KAPPA,3
+R1250,La Secu,Distrito 13,Sociología,Examen diagnóstico,19/06/2023 00:00,A000170,Copia en exámenes,Centro,No,LAMBDA,9
+R1251,La Secu,El País de Nunca Jamás,Sociología,Examen diagnóstico,20/06/2023 00:00,A000171,Copia en exámenes,Norte,No,OMICRON,5
+R1252,Kindergardiano,Genovia,Negocios,Estudio,21/06/2023 00:00,A000172,Plagio,Norte,Sí,PI,6
+R1253,La Secu,Pandora,Sociología,Prototipo,22/06/2023 00:00,A000173,Plagio,Norte,No,SIGMA,1
+R1254,La Secu,Pandora,Sociología,Prototipo,23/06/2023 00:00,A000174,Plagio,Norte,No,OMEGA,2
+R1255,La Secu,Pandora,Sociología,Examen diagnóstico,24/06/2023 00:00,A000175,Falsificación,Norte,Sí,JI,3
+R1256,La Secu,Wonderland,Sociología,Prototipo,25/06/2023 00:00,A000176,Intercambio de tareas en línea,Centro,No,PHI,4
+R1257,La Secu,Pizza Planeta,Sociología,Experimento,26/06/2023 00:00,A000177,Fabricación,Sur,No,ETA,5
+R1258,Monster University,Genovia,Diseños,Examen diagnóstico,27/06/2023 00:00,A000178,Compra-venta,Norte,No,KAPPA,4
+R1259,La Secu,"Muy, muy lejano",Sociología,Examen diagnóstico,28/06/2023 00:00,A000179,Otra,Centro,No,LAMBDA,5
+R1260,La Secu,Parque Jurásico,Sociología,Examen diagnóstico,29/06/2023 00:00,A000180,Autoplagio,Norte,Sí,OMICRON,6
+R1261,La Secu,Distrito 13,Sociología,Examen diagnóstico,30/06/2023 00:00,A000181,Copia en exámenes,Centro,Sí,TAU,2
+R1262,Monster University,Pizza Planeta,Arquitectura,Prototipo,01/07/2023 00:00,A000182,Plagio,Sur,No,PSI,9
+R1263,High School Musical,Wonderland,Sociología,Examen diagnóstico,02/07/2023 00:00,A000183,Copia en exámenes,Centro,Sí,RHO,4
+R1264,High School Musical,El País de Nunca Jamás,Sociología,Examen diagnóstico,03/07/2023 00:00,A000184,Copia en exámenes,Sur,No,PI,5
+R1265,Monster University,Genovia,Arquitectura,Experimento,04/07/2023 00:00,A000185,Distribución de exámenes,Norte,Sí,MU,6
+R1266,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,05/07/2023 00:00,A000186,Copia en exámenes,Norte,No,IOTA,1
+R1267,High School Musical,Wonderland,Sociología,Experimento,06/07/2023 00:00,A000187,Intercambio de tareas en línea,Centro,No,TAU,2
+R1268,High School Musical,Springfield,Sociología,Estudio,07/07/2023 00:00,A000188,Plagio,Norte,No,PSI,3
+R1269,High School Musical,Springfield,Sociología,Estudio,08/07/2023 00:00,A000189,Plagio,Norte,No,RHO,4
+R1270,High School Musical,Springfield,Sociología,Estudio,09/07/2023 00:00,A000190,Plagio,Norte,No,PI,5
+R1271,Kindergardiano,Genovia,Educación,Prototipo,10/07/2023 00:00,A000191,Plagio,Norte,Sí,MU,4
+R1272,Kindergardiano,Genovia,Educación,Prototipo,11/07/2023 00:00,A000192,Plagio,Norte,No,IOTA,5
+R1273,High School Musical,Wonderland,Sociología,Examen diagnóstico,12/07/2023 00:00,A000193,Copia en exámenes,Centro,No,ETA,6
+R1274,High School Musical,Distrito 13,Sociología,Examen diagnóstico,13/07/2023 00:00,A000194,Copia en exámenes,Centro,Sí,KAPPA,2
+R1275,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,14/07/2023 00:00,A000195,Fabricación,Sur,No,LAMBDA,3
+R1276,Monster University,Pizza Planeta,Ingeniería,Estudio,15/07/2023 00:00,A000196,Colusión,Sur,No,OMICRON,9
+R1277,Monster University,Genovia,Bienestar,Estudio,16/07/2023 00:00,A000197,Intercambio de tareas en línea,Norte,No,TAU,5
+R1278,Monster University,Genovia,Bienestar,Estudio,17/07/2023 00:00,A000198,Intercambio de tareas en línea,Norte,No,PSI,6
+R1279,Monster University,Genovia,Bienestar,Estudio,18/07/2023 00:00,A000199,Intercambio de tareas en línea,Norte,Sí,RHO,1
+R1280,High School Musical,Distrito 13,Sociología,Examen diagnóstico,19/07/2023 00:00,A000200,Copia en exámenes,Centro,Sí,PI,2
+R1281,Monster University,Narnia,Diseños,Estudio,20/07/2023 00:00,A000201,Plagio,Centro,No,MU,3
+R1282,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,21/07/2023 00:00,A000202,Plagio,Sur,Sí,ALPHA,4
+R1283,Monster University,Wonderland,Bienestar,Experimento,22/07/2023 00:00,A000203,Plagio,Centro,No,ALPHA,5
+R1284,High School Musical,Wonderland,Sociología,Experimento,23/07/2023 00:00,A000204,Plagio,Centro,Sí,ALPHA,4
+R1285,Monster University,Wonderland,Bienestar,Experimento,24/07/2023 00:00,A000205,Plagio,Centro,No,BETA,5
+R1286,High School Musical,Wonderland,Sociología,Experimento,25/07/2023 00:00,A000206,Plagio,Centro,No,BETA,9
+R1287,Monster University,Wonderland,Bienestar,Experimento,26/07/2023 00:00,A000207,Plagio,Centro,No,GAMMA,9
+R1288,Monster University,Wonderland,Bienestar,Experimento,27/07/2023 00:00,A000208,Plagio,Centro,No,DELTA,3
+R1289,Monster University,Wonderland,Bienestar,Experimento,28/07/2023 00:00,A000209,Plagio,Centro,No,EPSILON,9
+R1290,Monster University,Wonderland,Bienestar,Experimento,29/07/2023 00:00,A000210,Plagio,Centro,Sí,DSETA,9
+R1291,High School Musical,Wonderland,Sociología,Experimento,30/07/2023 00:00,A000211,Plagio,Centro,No,ETA,9
+R1292,Monster University,Wonderland,Bienestar,Experimento,31/07/2023 00:00,A000212,Plagio,Centro,No,ETA,1
+R1293,Monster University,Distrito 13,Bienestar,Examen diagnóstico,01/08/2023 00:00,A000213,Copia en exámenes,Centro,Sí,KAPPA,2
+R1294,Monster University,Distrito 13,Bienestar,Examen diagnóstico,02/08/2023 00:00,A000214,Copia en exámenes,Centro,No,LAMBDA,3
+R1295,High School Musical,El País de Nunca Jamás,Sociología,Experimento,03/08/2023 00:00,A000215,Copia en exámenes,Sur,No,OMICRON,4
+R1296,Monster University,Distrito 13,Bienestar,Estudio,04/08/2023 00:00,A000216,Otra,Centro,No,PI,5
+R1297,High School Musical,Wonderland,Sociología,Examen diagnóstico,05/08/2023 00:00,A000217,Plagio,Centro,No,SIGMA,4
+R1298,High School Musical,Distrito 13,Sociología,Prototipo,06/08/2023 00:00,A000218,Plagio,Centro,Sí,OMEGA,5
+R1299,High School Musical,Distrito 13,Sociología,Examen diagnóstico,07/08/2023 00:00,A000219,Copia en exámenes,Centro,Sí,JI,6
+R1300,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,08/08/2023 00:00,A000220,Copia en exámenes,Centro,No,PHI,2
+R1301,Monster University,Genovia,Bienestar,Estudio,09/08/2023 00:00,A000221,Intercambio de tareas en línea,Norte,Sí,ETA,3
+R1302,High School Musical,Wonderland,Sociología,Examen diagnóstico,10/08/2023 00:00,A000222,Copia en exámenes,Centro,No,KAPPA,4
+R1303,High School Musical,Wonderland,Sociología,Examen diagnóstico,11/08/2023 00:00,A000223,Copia en exámenes,Centro,Sí,LAMBDA,5
+R1304,High School Musical,Wonderland,Sociología,Examen diagnóstico,12/08/2023 00:00,A000224,Copia en exámenes,Centro,No,OMICRON,6
+R1305,High School Musical,Wonderland,Sociología,Examen diagnóstico,13/08/2023 00:00,A000225,Copia en exámenes,Centro,No,PI,1
+R1306,High School Musical,Wonderland,Sociología,Examen diagnóstico,14/08/2023 00:00,A000226,Copia en exámenes,Centro,No,SIGMA,9
+R1307,High School Musical,Wonderland,Sociología,Examen diagnóstico,15/08/2023 00:00,A000227,Copia en exámenes,Centro,No,OMEGA,3
+R1308,High School Musical,Pandora,Sociología,Prototipo,16/08/2023 00:00,A000228,Plagio,Norte,No,JI,4
+R1309,High School Musical,Pandora,Sociología,Prototipo,17/08/2023 00:00,A000229,Plagio,Norte,Sí,PHI,5
+R1310,High School Musical,Pandora,Sociología,Prototipo,18/08/2023 00:00,A000230,Plagio,Norte,No,ALPHA,6
+R1311,High School Musical,Pandora,Sociología,Prototipo,19/08/2023 00:00,A000231,Plagio,Norte,No,BETA,1
+R1312,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,20/08/2023 00:00,A000232,Copia en exámenes,Centro,Sí,BETA,2
+R1313,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,21/08/2023 00:00,A000233,Copia en exámenes,Centro,No,GAMMA,3
+R1314,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,22/08/2023 00:00,A000234,Copia en exámenes,Centro,No,DELTA,4
+R1315,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,23/08/2023 00:00,A000235,Copia en exámenes,Centro,No,ETA,5
+R1316,Monster University,Wonderland,Arquitectura,Prototipo,24/08/2023 00:00,A000236,Plagio,Centro,No,KAPPA,4
+R1317,Monster University,Genovia,Ingeniería,Examen diagnóstico,25/08/2023 00:00,A000237,Copia en exámenes,Norte,Sí,LAMBDA,5
+R1318,Monster University,Wonderland,Ingeniería,Examen diagnóstico,26/08/2023 00:00,A000238,Copia en exámenes,Centro,Sí,OMICRON,6
+R1319,Monster University,Genovia,Arquitectura,Examen diagnóstico,27/08/2023 00:00,A000239,Copia en exámenes,Norte,No,PI,2
+R1320,Monster University,Wonderland,Ingeniería,Examen diagnóstico,28/08/2023 00:00,A000240,Copia en exámenes,Centro,Sí,SIGMA,3
+R1321,Monster University,Genovia,Ingeniería,Examen diagnóstico,29/08/2023 00:00,A000241,Copia en exámenes,Norte,No,OMEGA,4
+R1322,Monster University,Distrito 13,Bienestar,Estudio,30/08/2023 00:00,A000242,Colusión,Centro,Sí,JI,5
+R1323,Monster University,Distrito 13,Bienestar,Estudio,31/08/2023 00:00,A000243,Colusión,Centro,No,PHI,6
+R1324,High School Musical,El País de Nunca Jamás,Sociología,Estudio,01/09/2023 00:00,A000244,Plagio,Norte,No,ETA,1
+R1325,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,02/09/2023 00:00,A000245,Copia en exámenes,Sur,No,KAPPA,2
+R1326,High School Musical,Springfield,Sociología,Experimento,03/09/2023 00:00,A000246,Plagio,Centro,No,LAMBDA,3
+R1327,High School Musical,Springfield,Sociología,Estudio,04/09/2023 00:00,A000247,Plagio,Centro,No,OMICRON,4
+R1328,Monster University,Genovia,Arquitectura,Examen diagnóstico,05/09/2023 00:00,A000248,Distribución de exámenes,Norte,Sí,TAU,5
+R1329,Monster University,Genovia,Arquitectura,Examen diagnóstico,06/09/2023 00:00,A000249,Copia en exámenes,Norte,No,PSI,4
+R1330,High School Musical,Springfield,Sociología,Estudio,07/09/2023 00:00,A000250,Plagio,Norte,No,RHO,5
+R1331,High School Musical,Springfield,Sociología,Estudio,08/09/2023 00:00,A000251,Plagio,Norte,Sí,PI,6
+R1332,High School Musical,Springfield,Sociología,Prototipo,09/09/2023 00:00,A000252,Plagio,Centro,No,MU,2
+R1333,High School Musical,Springfield,Sociología,Prototipo,10/09/2023 00:00,A000253,Plagio,Centro,No,IOTA,3
+R1334,Monster University,Distrito 13,Bienestar,Prototipo,11/09/2023 00:00,A000254,Plagio,Centro,No,TAU,4
+R1335,High School Musical,Springfield,Sociología,Examen diagnóstico,12/09/2023 00:00,A000255,Copia en exámenes,Centro,No,PSI,5
+R1336,High School Musical,Springfield,Sociología,Examen diagnóstico,13/09/2023 00:00,A000256,Copia en exámenes,Centro,Sí,RHO,6
+R1337,High School Musical,Springfield,Sociología,Examen diagnóstico,14/09/2023 00:00,A000257,Copia en exámenes,Centro,Sí,PI,1
+R1338,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,15/09/2023 00:00,A000258,Copia en exámenes,Centro,No,MU,2
+R1339,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,16/09/2023 00:00,A000259,Copia en exámenes,Centro,Sí,IOTA,3
+R1340,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,17/09/2023 00:00,A000260,Copia en exámenes,Centro,No,ETA,4
+R1341,Monster University,El País de Nunca Jamás,Bienestar,Experimento,18/09/2023 00:00,A000261,Soborno,Sur,Sí,KAPPA,5
+R1342,Monster University,Hogwarts,Bienestar,Estudio,19/09/2023 00:00,A000262,Colusión,Centro,No,LAMBDA,4
+R1343,Monster University,Hogwarts,Bienestar,Estudio,20/09/2023 00:00,A000263,Colusión,Centro,No,OMICRON,5
+R1344,High School Musical,El País de Nunca Jamás,Sociología,Examen diagnóstico,21/09/2023 00:00,A000264,Copia en exámenes,Norte,No,TAU,6
+R1345,Monster University,Genovia,Arquitectura,Examen diagnóstico,22/09/2023 00:00,A000265,Colusión,Norte,No,PSI,2
+R1346,High School Musical,Pizza Planeta,Sociología,Experimento,23/09/2023 00:00,A000266,Copia en exámenes,Sur,No,RHO,3
+R1347,High School Musical,Pizza Planeta,Sociología,Experimento,24/09/2023 00:00,A000267,Copia en exámenes,Sur,Sí,PI,4
+R1348,High School Musical,Pizza Planeta,Sociología,Experimento,25/09/2023 00:00,A000268,Copia en exámenes,Sur,No,MU,5
+R1349,High School Musical,Pizza Planeta,Sociología,Experimento,26/09/2023 00:00,A000269,Copia en exámenes,Sur,No,MU,6
+R1350,High School Musical,Pizza Planeta,Sociología,Prototipo,27/09/2023 00:00,A000270,Plagio,Sur,Sí,MU,1
+R1351,Kindergardiano,Narnia,Sociología,Examen nivelador,01/01/2023 00:00,A000001,Copia en exámenes,Centro,Sí,ALPHA,1
+R1352,La Secu,Distrito 13,Sociología,Estudio,02/01/2023 00:00,A000002,Colusión,Centro,No,ALPHA,2
+R1353,La Secu,Narnia,Sociología,Examen nivelador,03/01/2023 00:00,A000003,Copia en exámenes,Centro,No,ALPHA,3
+R1354,La Secu,Narnia,Sociología,Examen nivelador,04/01/2023 00:00,A000004,Copia en exámenes,Centro,Sí,BETA,4
+R1355,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,05/01/2023 00:00,A000005,Copia en exámenes,Centro,No,BETA,5
+R1356,La Secu,Narnia,Sociología,Estudio,06/01/2023 00:00,A000006,Plagio,Centro,No,GAMMA,6
+R1357,Big Bang Theory,Pizza Planeta,Diseños,Prototipo,07/01/2023 00:00,A000007,Plagio,Sur,No,DELTA,1
+R1358,Kindergardiano,Pizza Planeta,Arquitectura,Examen nivelador,08/01/2023 00:00,A000008,Copia en exámenes,Sur,No,EPSILON,2
+R1359,Kindergardiano,Pizza Planeta,Arquitectura,Examen nivelador,09/01/2023 00:00,A000009,Copia en exámenes,Sur,Sí,DSETA,3
+R1360,Big Bang Theory,Pizza Planeta,Diseños,Estudio,10/01/2023 00:00,A000010,Otra,Sur,Sí,ETA,4
+R1361,Big Bang Theory,Narnia,Arquitectura,Experimento,11/01/2023 00:00,A000011,Suplantación de identidad,Centro,No,ETA,5
+R1362,La Secu,Pandora,Sociología,Experimento,12/01/2023 00:00,A000012,Otra,Norte,Sí,KAPPA,6
+R1363,Big Bang Theory,Pizza Planeta,Bienestar,Experimento,13/01/2023 00:00,A000013,Intercambio de tareas en línea,Sur,No,LAMBDA,1
+R1364,Big Bang Theory,Pizza Planeta,Bienestar,Examen nivelador,14/01/2023 00:00,A000014,Copia en exámenes,Sur,Sí,OMICRON,2
+R1365,Big Bang Theory,Pandora,Bienestar,Estudio,15/01/2023 00:00,A000015,Plagio,Norte,No,PI,3
+R1366,La Secu,Narnia,Sociología,Estudio,16/01/2023 00:00,A000016,Plagio,Centro,No,SIGMA,4
+R1367,La Secu,Pandora,Sociología,Experimento,17/01/2023 00:00,A000017,Copia en exámenes,Norte,No,OMEGA,5
+R1368,La Secu,Pandora,Sociología,Experimento,18/01/2023 00:00,A000018,Copia en exámenes,Norte,No,JI,7
+R1369,Big Bang Theory,Rarotonga,Bienestar,Examen nivelador,19/01/2023 00:00,A000019,Copia en exámenes,Norte,No,PHI,1
+R1370,Big Bang Theory,Rarotonga,Bienestar,Examen nivelador,20/01/2023 00:00,A000020,Copia en exámenes,Norte,Sí,ETA,2
+R1371,Big Bang Theory,Pizza Planeta,Bienestar,Estudio,21/01/2023 00:00,A000021,Copia en exámenes,Sur,No,KAPPA,3
+R1372,Big Bang Theory,Wonderland,Arquitectura,Estudio,22/01/2023 00:00,A000022,Plagio,Centro,No,LAMBDA,4
+R1373,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,23/01/2023 00:00,A000023,Copia en exámenes,Centro,Sí,OMICRON,7
+R1374,Big Bang Theory,Pizza Planeta,Arquitectura,Experimento,24/01/2023 00:00,A000024,Copia en exámenes,Sur,No,PI,6
+R1375,Big Bang Theory,Pizza Planeta,Arquitectura,Experimento,25/01/2023 00:00,A000025,Otra,Sur,No,SIGMA,1
+R1376,La Secu,Rarotonga,Sociología,Prototipo,26/01/2023 00:00,A000026,Plagio,Norte,No,OMEGA,2
+R1377,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,27/01/2023 00:00,A000027,Copia en exámenes,Centro,No,JI,3
+R1378,Big Bang Theory,Narnia,Arquitectura,Examen nivelador,28/01/2023 00:00,A000028,Copia en exámenes,Centro,Sí,PHI,4
+R1379,La Secu,Wonderland,Sociología,Examen nivelador,29/01/2023 00:00,A000029,Copia en exámenes,Centro,Sí,ALPHA,7
+R1380,La Secu,Wonderland,Sociología,Examen nivelador,30/01/2023 00:00,A000030,Copia en exámenes,Centro,No,BETA,6
+R1381,La Secu,Wonderland,Sociología,Examen nivelador,31/01/2023 00:00,A000031,Copia en exámenes,Centro,Sí,BETA,1
+R1382,La Secu,Wonderland,Sociología,Examen nivelador,01/02/2023 00:00,A000032,Copia en exámenes,Centro,No,GAMMA,2
+R1383,La Secu,Wonderland,Sociología,Examen nivelador,02/02/2023 00:00,A000033,Copia en exámenes,Centro,Sí,DELTA,3
+R1384,La Secu,Wonderland,Sociología,Examen nivelador,03/02/2023 00:00,A000034,Copia en exámenes,Centro,No,ETA,7
+R1385,La Secu,Wonderland,Sociología,Examen nivelador,04/02/2023 00:00,A000035,Copia en exámenes,Centro,No,KAPPA,5
+R1386,Big Bang Theory,El País de Nunca Jamás,Bienestar,Estudio,05/02/2023 00:00,A000036,Plagio,Sur,No,LAMBDA,6
+R1387,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,06/02/2023 00:00,A000037,Copia en exámenes,Centro,No,OMICRON,1
+R1388,Big Bang Theory,"Muy, muy lejano",Arquitectura,Examen nivelador,07/02/2023 00:00,A000038,Copia en exámenes,Norte,No,PI,7
+R1389,Big Bang Theory,"Muy, muy lejano",Arquitectura,Examen nivelador,08/02/2023 00:00,A000039,Copia en exámenes,Norte,Sí,SIGMA,3
+R1390,La Secu,El País de Nunca Jamás,Sociología,Experimento,09/02/2023 00:00,A000040,Plagio,Sur,No,OMEGA,4
+R1391,La Secu,El País de Nunca Jamás,Sociología,Prototipo,10/02/2023 00:00,A000041,Plagio,Sur,No,JI,5
+R1392,Big Bang Theory,Wonderland,Diseños,Examen nivelador,11/02/2023 00:00,A000042,Otra,Centro,Sí,PHI,6
+R1393,La Secu,Pandora,Sociología,Estudio,12/02/2023 00:00,A000043,Plagio,Norte,No,ETA,2
+R1394,La Secu,Pandora,Sociología,Examen nivelador,13/02/2023 00:00,A000044,Otra,Norte,No,KAPPA,7
+R1395,La Secu,Hogwarts,Sociología,Prototipo,14/02/2023 00:00,A000045,Plagio,Centro,No,LAMBDA,4
+R1396,La Secu,Pandora,Sociología,Prototipo,15/02/2023 00:00,A000046,Plagio,Norte,No,OMICRON,5
+R1397,La Secu,Hogwarts,Sociología,Prototipo,16/02/2023 00:00,A000047,Plagio,Centro,Sí,TAU,6
+R1398,Big Bang Theory,Wonderland,Negocios,Estudio,17/02/2023 00:00,A000048,Plagio,Centro,Sí,PSI,1
+R1399,Big Bang Theory,Wonderland,Negocios,Estudio,18/02/2023 00:00,A000049,Plagio,Centro,No,RHO,2
+R1400,La Secu,Rarotonga,Sociología,Estudio,19/02/2023 00:00,A000050,Plagio,Norte,Sí,PI,7
+R1401,Big Bang Theory,Genovia,Arquitectura,Examen nivelador,20/02/2023 00:00,A000051,Colusión,Norte,No,MU,4
+R1402,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,21/02/2023 00:00,A000052,Copia en exámenes,Centro,Sí,IOTA,5
+R1403,Big Bang Theory,Narnia,Ingeniería,Estudio,22/02/2023 00:00,A000053,Plagio,Centro,No,TAU,6
+R1404,Big Bang Theory,Wonderland,Arquitectura,Prototipo,23/02/2023 00:00,A000054,Plagio,Centro,No,PSI,2
+R1405,La Secu,Rarotonga,Sociología,Prototipo,24/02/2023 00:00,A000055,Intercambio de tareas en línea,Norte,No,RHO,3
+R1406,La Secu,Rarotonga,Sociología,Prototipo,25/02/2023 00:00,A000056,Intercambio de tareas en línea,Norte,No,PI,7
+R1407,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,26/02/2023 00:00,A000057,Copia en exámenes,Centro,No,MU,5
+R1408,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,27/02/2023 00:00,A000058,Copia en exámenes,Centro,Sí,IOTA,6
+R1409,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,28/02/2023 00:00,A000059,Copia en exámenes,Centro,No,ETA,1
+R1410,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,01/03/2023 00:00,A000060,Copia en exámenes,Centro,No,KAPPA,2
+R1411,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,02/03/2023 00:00,A000061,Copia en exámenes,Centro,Sí,LAMBDA,7
+R1412,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,03/03/2023 00:00,A000062,Copia en exámenes,Centro,No,OMICRON,4
+R1413,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,04/03/2023 00:00,A000063,Copia en exámenes,Centro,No,TAU,5
+R1414,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,05/03/2023 00:00,A000064,Colusión,Norte,No,PSI,6
+R1415,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,06/03/2023 00:00,A000065,Copia en exámenes,Norte,No,RHO,2
+R1416,Big Bang Theory,"Muy, muy lejano",Negocios,Estudio,07/03/2023 00:00,A000066,Colusión,Norte,Sí,PI,3
+R1417,Big Bang Theory,Wonderland,Negocios,Estudio,08/03/2023 00:00,A000067,Plagio,Centro,Sí,MU,4
+R1418,Big Bang Theory,Narnia,Negocios,Estudio,09/03/2023 00:00,A000068,Colusión,Centro,No,ALPHA,7
+R1419,Big Bang Theory,Genovia,Ingeniería,Estudio,10/03/2023 00:00,A000069,Plagio,Norte,Sí,ALPHA,6
+R1420,Big Bang Theory,Genovia,Ingeniería,Estudio,11/03/2023 00:00,A000070,Plagio,Norte,No,ALPHA,1
+R1421,Big Bang Theory,Genovia,Ingeniería,Estudio,12/03/2023 00:00,A000071,Plagio,Norte,Sí,BETA,2
+R1422,Big Bang Theory,Genovia,Ingeniería,Estudio,13/03/2023 00:00,A000072,Plagio,Norte,No,BETA,3
+R1423,Big Bang Theory,Genovia,Diseños,Examen nivelador,14/03/2023 00:00,A000073,Copia en exámenes,Norte,No,GAMMA,4
+R1424,Big Bang Theory,El País de Nunca Jamás,Ingeniería,Examen nivelador,15/03/2023 00:00,A000074,Plagio,Sur,No,DELTA,7
+R1425,Big Bang Theory,Genovia,Negocios,Prototipo,16/03/2023 00:00,A000075,Plagio,Norte,No,EPSILON,6
+R1426,Big Bang Theory,Genovia,Negocios,Prototipo,17/03/2023 00:00,A000076,Plagio,Norte,No,DSETA,2
+R1427,Big Bang Theory,Genovia,Ingeniería,Estudio,18/03/2023 00:00,A000077,Plagio,Norte,Sí,ETA,3
+R1428,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,19/03/2023 00:00,A000078,Copia en exámenes,Centro,No,ETA,4
+R1429,Big Bang Theory,Wonderland,Arquitectura,Examen nivelador,20/03/2023 00:00,A000079,Copia en exámenes,Centro,No,KAPPA,7
+R1430,La Secu,Genovia,Sociología,Estudio,21/03/2023 00:00,A000080,Plagio,Norte,Sí,LAMBDA,2
+R1431,Big Bang Theory,Genovia,Negocios,Examen nivelador,22/03/2023 00:00,A000081,Copia en exámenes,Norte,No,OMICRON,3
+R1432,La Secu,Ciudad Gótica,Sociología,Examen nivelador,23/03/2023 00:00,A000082,Copia en exámenes,Sur,No,PI,4
+R1433,Big Bang Theory,Genovia,Negocios,Examen nivelador,24/03/2023 00:00,A000083,Copia en exámenes,Norte,No,SIGMA,5
+R1434,Big Bang Theory,Genovia,Negocios,Examen nivelador,25/03/2023 00:00,A000084,Copia en exámenes,Norte,No,OMEGA,6
+R1435,Big Bang Theory,Genovia,Negocios,Estudio,26/03/2023 00:00,A000085,Plagio,Norte,Sí,JI,1
+R1436,Big Bang Theory,Genovia,Negocios,Examen nivelador,27/03/2023 00:00,A000086,Copia en exámenes,Norte,Sí,PHI,2
+R1437,Big Bang Theory,Genovia,Negocios,Experimento,28/03/2023 00:00,A000087,Copia en exámenes,Norte,No,ETA,3
+R1438,Big Bang Theory,Parque Jurásico,Arquitectura,Examen nivelador,29/03/2023 00:00,A000088,Copia en exámenes,Sur,Sí,KAPPA,4
+R1439,Big Bang Theory,Parque Jurásico,Arquitectura,Examen nivelador,30/03/2023 00:00,A000089,Distribución de exámenes,Sur,No,LAMBDA,7
+R1440,Big Bang Theory,Parque Jurásico,Arquitectura,Examen regulador,31/03/2023 00:00,A000090,Copia en exámenes,Sur,Sí,OMICRON,8
+R1441,Big Bang Theory,El País de Nunca Jamás,Arquitectura,Prototipo,01/04/2023 00:00,A000091,Plagio,Sur,No,PI,2
+R1442,La Secu,Ciudad Gótica,Sociología,Examen regulador,02/04/2023 00:00,A000092,Copia en exámenes,Sur,No,SIGMA,3
+R1443,Big Bang Theory,Genovia,Negocios,Examen regulador,03/04/2023 00:00,A000093,Distribución de exámenes,Norte,No,OMEGA,4
+R1444,La Secu,Ciudad Gótica,Sociología,Examen regulador,04/04/2023 00:00,A000094,Copia en exámenes,Sur,No,JI,5
+R1445,La Secu,Ciudad Gótica,Sociología,Examen regulador,05/04/2023 00:00,A000095,Copia en exámenes,Sur,No,PHI,5
+R1446,La Secu,Ciudad Gótica,Sociología,Examen regulador,06/04/2023 00:00,A000096,Copia en exámenes,Sur,Sí,ALPHA,6
+R1447,La Secu,"Muy, muy lejano",Sociología,Examen regulador,07/04/2023 00:00,A000097,Colusión,Norte,No,BETA,2
+R1448,La Secu,Ciudad Gótica,Sociología,Examen regulador,08/04/2023 00:00,A000098,Copia en exámenes,Sur,No,BETA,3
+R1449,La Secu,Wonderland,Sociología,Examen regulador,09/04/2023 00:00,A000099,Intercambio de tareas en línea,Centro,Sí,GAMMA,4
+R1450,Big Bang Theory,Parque Jurásico,Arquitectura,Examen regulador,10/04/2023 00:00,A000100,Copia en exámenes,Sur,No,DELTA,5
+R1451,La Secu,Wonderland,Sociología,Examen regulador,11/04/2023 00:00,A000101,Intercambio de tareas en línea,Centro,No,ETA,8
+R1452,La Secu,Springfield,Sociología,Experimento,12/04/2023 00:00,A000102,Plagio,Centro,No,KAPPA,6
+R1453,La Secu,Springfield,Sociología,Experimento,13/04/2023 00:00,A000103,Plagio,Centro,No,LAMBDA,2
+R1454,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,14/04/2023 00:00,A000104,Plagio,Sur,Sí,OMICRON,3
+R1455,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,15/04/2023 00:00,A000105,Otra,Sur,Sí,PI,4
+R1456,La Secu,Ciudad Gótica,Sociología,Examen regulador,16/04/2023 00:00,A000106,Copia en exámenes,Norte,No,SIGMA,5
+R1457,La Secu,Pandora,Sociología,Examen regulador,17/04/2023 00:00,A000107,Copia en exámenes,Norte,Sí,OMEGA,5
+R1458,Monster University,Genovia,Arquitectura,Examen regulador,18/04/2023 00:00,A000108,Copia en exámenes,Norte,No,JI,6
+R1459,Monster University,Genovia,Ingeniería,Examen regulador,19/04/2023 00:00,A000109,Copia en exámenes,Norte,Sí,PHI,2
+R1460,Monster University,Genovia,Diseños,Examen regulador,20/04/2023 00:00,A000110,Copia en exámenes,Norte,No,ETA,3
+R1461,Monster University,Genovia,Ingeniería,Examen regulador,21/04/2023 00:00,A000111,Copia en exámenes,Norte,No,KAPPA,4
+R1462,Monster University,Genovia,Educación,Examen regulador,22/04/2023 00:00,A000112,Copia en exámenes,Norte,No,LAMBDA,8
+R1463,Monster University,Genovia,Negocios,Examen regulador,23/04/2023 00:00,A000113,Copia en exámenes,Norte,No,OMICRON,8
+R1464,Monster University,Genovia,Arquitectura,Examen regulador,24/04/2023 00:00,A000114,Copia en exámenes,Norte,No,TAU,6
+R1465,Monster University,Genovia,Ingeniería,Examen regulador,25/04/2023 00:00,A000115,Copia en exámenes,Norte,Sí,PSI,2
+R1466,Monster University,Genovia,Negocios,Examen regulador,26/04/2023 00:00,A000116,Copia en exámenes,Norte,No,RHO,3
+R1467,Monster University,Genovia,Arquitectura,Examen regulador,27/04/2023 00:00,A000117,Copia en exámenes,Norte,No,PI,4
+R1468,Monster University,Genovia,Arquitectura,Examen regulador,28/04/2023 00:00,A000118,Copia en exámenes,Norte,Sí,MU,5
+R1469,Monster University,Genovia,Negocios,Examen regulador,29/04/2023 00:00,A000119,Copia en exámenes,Norte,No,IOTA,5
+R1470,Monster University,Genovia,Arquitectura,Examen regulador,30/04/2023 00:00,A000120,Copia en exámenes,Norte,No,TAU,5
+R1471,Monster University,El País de Nunca Jamás,Arquitectura,Experimento,01/05/2023 00:00,A000121,Plagio,Sur,No,PSI,6
+R1472,Monster University,Genovia,Negocios,Examen regulador,02/05/2023 00:00,A000122,Copia en exámenes,Norte,No,RHO,2
+R1473,La Secu,Pandora,Sociología,Examen regulador,03/05/2023 00:00,A000123,Plagio,Norte,Sí,PI,3
+R1474,Monster University,Wonderland,Negocios,Estudio,04/05/2023 00:00,A000124,Plagio,Centro,Sí,MU,4
+R1475,Monster University,Wonderland,Negocios,Estudio,05/05/2023 00:00,A000125,Plagio,Centro,No,IOTA,5
+R1476,Monster University,Wonderland,Negocios,Estudio,06/05/2023 00:00,A000126,Plagio,Centro,Sí,ETA,4
+R1477,Monster University,Wonderland,Negocios,Estudio,07/05/2023 00:00,A000127,Plagio,Centro,No,KAPPA,5
+R1478,Monster University,Wonderland,Negocios,Prototipo,08/05/2023 00:00,A000128,Intercambio de tareas en línea,Centro,Sí,LAMBDA,6
+R1479,Monster University,Wonderland,Negocios,Prototipo,09/05/2023 00:00,A000129,Plagio,Centro,No,OMICRON,2
+R1480,Monster University,Wonderland,Negocios,Prototipo,10/05/2023 00:00,A000130,Plagio,Centro,No,TAU,3
+R1481,La Secu,Hogwarts,Sociología,Examen regulador,11/05/2023 00:00,A000131,Distribución de exámenes,Centro,No,PSI,4
+R1482,La Secu,Hogwarts,Sociología,Examen regulador,12/05/2023 00:00,A000132,Otra,Centro,No,RHO,8
+R1483,La Secu,Pandora,Sociología,Examen regulador,13/05/2023 00:00,A000133,Plagio,Norte,No,PI,8
+R1484,La Secu,Pandora,Sociología,Examen regulador,14/05/2023 00:00,A000134,Copia en exámenes,Norte,Sí,MU,8
+R1485,La Secu,Hogwarts,Sociología,Estudio,15/05/2023 00:00,A000135,Plagio,Centro,No,ALPHA,8
+R1486,Monster University,Empire,Arquitectura,Examen regulador,16/05/2023 00:00,A000136,Copia en exámenes,Centro,No,ALPHA,8
+R1487,Monster University,Parque Jurásico,Arquitectura,Examen regulador,17/05/2023 00:00,A000137,Copia en exámenes,Sur,Sí,ALPHA,4
+R1488,La Secu,"Muy, muy lejano",Sociología,Examen regulador,18/05/2023 00:00,A000138,Copia en exámenes,Norte,No,BETA,5
+R1489,La Secu,Wonderland,Sociología,Prototipo,19/05/2023 00:00,A000139,Plagio,Centro,No,BETA,4
+R1490,Monster University,Genovia,Negocios,Examen regulador,20/05/2023 00:00,A000140,Copia en exámenes,Norte,No,GAMMA,5
+R1491,La Secu,Hogwarts,Sociología,Estudio,21/05/2023 00:00,A000141,Plagio,Centro,No,DELTA,6
+R1492,La Secu,Hogwarts,Sociología,Estudio,22/05/2023 00:00,A000142,Plagio,Centro,Sí,EPSILON,2
+R1493,La Secu,Hogwarts,Sociología,Estudio,23/05/2023 00:00,A000143,Plagio,Centro,Sí,DSETA,3
+R1494,La Secu,Hogwarts,Sociología,Estudio,24/05/2023 00:00,A000144,Plagio,Centro,No,ETA,4
+R1495,La Secu,Hogwarts,Sociología,Estudio,25/05/2023 00:00,A000145,Plagio,Centro,Sí,ETA,5
+R1496,Monster University,Wonderland,Arquitectura,Examen regulador,26/05/2023 00:00,A000146,Distribución de exámenes,Centro,No,KAPPA,6
+R1497,La Secu,Parque Jurásico,Sociología,Experimento,27/05/2023 00:00,A000147,Colusión,Sur,Sí,LAMBDA,9
+R1498,La Secu,Parque Jurásico,Sociología,Experimento,28/05/2023 00:00,A000148,Colusión,Sur,No,OMICRON,2
+R1499,La Secu,Pizza Planeta,Sociología,Experimento,29/05/2023 00:00,A000149,Plagio,Sur,No,PI,3
+R1500,Monster University,Distrito 13,Diseños,Estudio,30/05/2023 00:00,A000150,Plagio,Centro,No,SIGMA,4
+R1501,La Secu,Distrito 13,Sociología,Examen regulador,31/05/2023 00:00,A000151,Otra,Centro,No,OMEGA,5
+R1502,Monster University,Genovia,Arquitectura,Experimento,01/06/2023 00:00,A000152,Compra-venta,Norte,No,JI,4
+R1503,La Secu,Pizza Planeta,Sociología,Examen regulador,02/06/2023 00:00,A000153,Copia en exámenes,Sur,Sí,PHI,5
+R1504,La Secu,Distrito 13,Sociología,Examen regulador,03/06/2023 00:00,A000154,Copia en exámenes,Centro,No,ETA,6
+R1505,La Secu,Distrito 13,Sociología,Experimento,04/06/2023 00:00,A000155,Plagio,Centro,No,KAPPA,2
+R1506,La Secu,Distrito 13,Sociología,Estudio,05/06/2023 00:00,A000156,Plagio,Centro,Sí,LAMBDA,3
+R1507,La Secu,Springfield,Sociología,Prototipo,06/06/2023 00:00,A000157,Plagio,Centro,No,OMICRON,4
+R1508,La Secu,Springfield,Sociología,Prototipo,07/06/2023 00:00,A000158,Plagio,Centro,No,PI,5
+R1509,La Secu,Springfield,Sociología,Prototipo,08/06/2023 00:00,A000159,Plagio,Centro,No,SIGMA,6
+R1510,La Secu,Springfield,Sociología,Prototipo,09/06/2023 00:00,A000160,Plagio,Centro,No,OMEGA,1
+R1511,La Secu,Springfield,Sociología,Prototipo,10/06/2023 00:00,A000161,Plagio,Centro,Sí,JI,2
+R1512,La Secu,Springfield,Sociología,Prototipo,11/06/2023 00:00,A000162,Plagio,Centro,Sí,PHI,3
+R1513,La Secu,Springfield,Sociología,Prototipo,12/06/2023 00:00,A000163,Plagio,Centro,No,ALPHA,4
+R1514,La Secu,Springfield,Sociología,Prototipo,13/06/2023 00:00,A000164,Plagio,Centro,Sí,BETA,5
+R1515,La Secu,Springfield,Sociología,Prototipo,14/06/2023 00:00,A000165,Plagio,Centro,No,BETA,4
+R1516,La Secu,Springfield,Sociología,Prototipo,15/06/2023 00:00,A000166,Plagio,Centro,Sí,GAMMA,5
+R1517,La Secu,Springfield,Sociología,Prototipo,16/06/2023 00:00,A000167,Plagio,Centro,No,DELTA,6
+R1518,La Secu,Springfield,Sociología,Prototipo,17/06/2023 00:00,A000168,Plagio,Centro,No,ETA,2
+R1519,La Secu,Distrito 13,Sociología,Examen diagnóstico,18/06/2023 00:00,A000169,Copia en exámenes,Centro,No,KAPPA,3
+R1520,La Secu,Distrito 13,Sociología,Examen diagnóstico,19/06/2023 00:00,A000170,Copia en exámenes,Centro,No,LAMBDA,9
+R1521,La Secu,El País de Nunca Jamás,Sociología,Examen diagnóstico,20/06/2023 00:00,A000171,Copia en exámenes,Norte,No,OMICRON,5
+R1522,Kindergardiano,Genovia,Negocios,Estudio,21/06/2023 00:00,A000172,Plagio,Norte,Sí,PI,6
+R1523,La Secu,Pandora,Sociología,Prototipo,22/06/2023 00:00,A000173,Plagio,Norte,No,SIGMA,1
+R1524,La Secu,Pandora,Sociología,Prototipo,23/06/2023 00:00,A000174,Plagio,Norte,No,OMEGA,2
+R1525,La Secu,Pandora,Sociología,Examen diagnóstico,24/06/2023 00:00,A000175,Falsificación,Norte,Sí,JI,3
+R1526,La Secu,Wonderland,Sociología,Prototipo,25/06/2023 00:00,A000176,Intercambio de tareas en línea,Centro,No,PHI,4
+R1527,La Secu,Pizza Planeta,Sociología,Experimento,26/06/2023 00:00,A000177,Fabricación,Sur,No,ETA,5
+R1528,Monster University,Genovia,Diseños,Examen diagnóstico,27/06/2023 00:00,A000178,Compra-venta,Norte,No,KAPPA,4
+R1529,La Secu,"Muy, muy lejano",Sociología,Examen diagnóstico,28/06/2023 00:00,A000179,Otra,Centro,No,LAMBDA,5
+R1530,La Secu,Parque Jurásico,Sociología,Examen diagnóstico,29/06/2023 00:00,A000180,Autoplagio,Norte,Sí,OMICRON,6
+R1531,La Secu,Distrito 13,Sociología,Examen diagnóstico,30/06/2023 00:00,A000181,Copia en exámenes,Centro,Sí,TAU,2
+R1532,Monster University,Pizza Planeta,Arquitectura,Prototipo,01/07/2023 00:00,A000182,Plagio,Sur,No,PSI,9
+R1533,High School Musical,Wonderland,Sociología,Examen diagnóstico,02/07/2023 00:00,A000183,Copia en exámenes,Centro,Sí,RHO,4
+R1534,High School Musical,El País de Nunca Jamás,Sociología,Examen diagnóstico,03/07/2023 00:00,A000184,Copia en exámenes,Sur,No,PI,5
+R1535,Monster University,Genovia,Arquitectura,Experimento,04/07/2023 00:00,A000185,Distribución de exámenes,Norte,Sí,MU,6
+R1536,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,05/07/2023 00:00,A000186,Copia en exámenes,Norte,No,IOTA,1
+R1537,High School Musical,Wonderland,Sociología,Experimento,06/07/2023 00:00,A000187,Intercambio de tareas en línea,Centro,No,TAU,2
+R1538,High School Musical,Springfield,Sociología,Estudio,07/07/2023 00:00,A000188,Plagio,Norte,No,PSI,3
+R1539,High School Musical,Springfield,Sociología,Estudio,08/07/2023 00:00,A000189,Plagio,Norte,No,RHO,4
+R1540,High School Musical,Springfield,Sociología,Estudio,09/07/2023 00:00,A000190,Plagio,Norte,No,PI,5
+R1541,Kindergardiano,Genovia,Educación,Prototipo,10/07/2023 00:00,A000191,Plagio,Norte,Sí,MU,4
+R1542,Kindergardiano,Genovia,Educación,Prototipo,11/07/2023 00:00,A000192,Plagio,Norte,No,IOTA,5
+R1543,High School Musical,Wonderland,Sociología,Examen diagnóstico,12/07/2023 00:00,A000193,Copia en exámenes,Centro,No,ETA,6
+R1544,High School Musical,Distrito 13,Sociología,Examen diagnóstico,13/07/2023 00:00,A000194,Copia en exámenes,Centro,Sí,KAPPA,2
+R1545,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,14/07/2023 00:00,A000195,Fabricación,Sur,No,LAMBDA,3
+R1546,Monster University,Pizza Planeta,Ingeniería,Estudio,15/07/2023 00:00,A000196,Colusión,Sur,No,OMICRON,9
+R1547,Monster University,Genovia,Bienestar,Estudio,16/07/2023 00:00,A000197,Intercambio de tareas en línea,Norte,No,TAU,5
+R1548,Monster University,Genovia,Bienestar,Estudio,17/07/2023 00:00,A000198,Intercambio de tareas en línea,Norte,No,PSI,6
+R1549,Monster University,Genovia,Bienestar,Estudio,18/07/2023 00:00,A000199,Intercambio de tareas en línea,Norte,Sí,RHO,1
+R1550,High School Musical,Distrito 13,Sociología,Examen diagnóstico,19/07/2023 00:00,A000200,Copia en exámenes,Centro,Sí,PI,2
+R1551,Monster University,Narnia,Diseños,Estudio,20/07/2023 00:00,A000201,Plagio,Centro,No,MU,3
+R1552,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,21/07/2023 00:00,A000202,Plagio,Sur,Sí,ALPHA,4
+R1553,Monster University,Wonderland,Bienestar,Experimento,22/07/2023 00:00,A000203,Plagio,Centro,No,ALPHA,5
+R1554,High School Musical,Wonderland,Sociología,Experimento,23/07/2023 00:00,A000204,Plagio,Centro,Sí,ALPHA,4
+R1555,Monster University,Wonderland,Bienestar,Experimento,24/07/2023 00:00,A000205,Plagio,Centro,No,BETA,5
+R1556,High School Musical,Wonderland,Sociología,Experimento,25/07/2023 00:00,A000206,Plagio,Centro,No,BETA,9
+R1557,Monster University,Wonderland,Bienestar,Experimento,26/07/2023 00:00,A000207,Plagio,Centro,No,GAMMA,9
+R1558,Monster University,Wonderland,Bienestar,Experimento,27/07/2023 00:00,A000208,Plagio,Centro,No,DELTA,3
+R1559,Monster University,Wonderland,Bienestar,Experimento,28/07/2023 00:00,A000209,Plagio,Centro,No,EPSILON,9
+R1560,Monster University,Wonderland,Bienestar,Experimento,29/07/2023 00:00,A000210,Plagio,Centro,Sí,DSETA,9
+R1561,High School Musical,Wonderland,Sociología,Experimento,30/07/2023 00:00,A000211,Plagio,Centro,No,ETA,9
+R1562,Monster University,Wonderland,Bienestar,Experimento,31/07/2023 00:00,A000212,Plagio,Centro,No,ETA,1
+R1563,Monster University,Distrito 13,Bienestar,Examen diagnóstico,01/08/2023 00:00,A000213,Copia en exámenes,Centro,Sí,KAPPA,2
+R1564,Monster University,Distrito 13,Bienestar,Examen diagnóstico,02/08/2023 00:00,A000214,Copia en exámenes,Centro,No,LAMBDA,3
+R1565,High School Musical,El País de Nunca Jamás,Sociología,Experimento,03/08/2023 00:00,A000215,Copia en exámenes,Sur,No,OMICRON,4
+R1566,Monster University,Distrito 13,Bienestar,Estudio,04/08/2023 00:00,A000216,Otra,Centro,No,PI,5
+R1567,High School Musical,Wonderland,Sociología,Examen diagnóstico,05/08/2023 00:00,A000217,Plagio,Centro,No,SIGMA,4
+R1568,High School Musical,Distrito 13,Sociología,Prototipo,06/08/2023 00:00,A000218,Plagio,Centro,Sí,OMEGA,5
+R1569,High School Musical,Distrito 13,Sociología,Examen diagnóstico,07/08/2023 00:00,A000219,Copia en exámenes,Centro,Sí,JI,6
+R1570,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,08/08/2023 00:00,A000220,Copia en exámenes,Centro,No,PHI,2
+R1571,Monster University,Genovia,Bienestar,Estudio,09/08/2023 00:00,A000221,Intercambio de tareas en línea,Norte,Sí,ETA,3
+R1572,High School Musical,Wonderland,Sociología,Examen diagnóstico,10/08/2023 00:00,A000222,Copia en exámenes,Centro,No,KAPPA,4
+R1573,High School Musical,Wonderland,Sociología,Examen diagnóstico,11/08/2023 00:00,A000223,Copia en exámenes,Centro,Sí,LAMBDA,5
+R1574,High School Musical,Wonderland,Sociología,Examen diagnóstico,12/08/2023 00:00,A000224,Copia en exámenes,Centro,No,OMICRON,6
+R1575,High School Musical,Wonderland,Sociología,Examen diagnóstico,13/08/2023 00:00,A000225,Copia en exámenes,Centro,No,PI,1
+R1576,High School Musical,Wonderland,Sociología,Examen diagnóstico,14/08/2023 00:00,A000226,Copia en exámenes,Centro,No,SIGMA,9
+R1577,High School Musical,Wonderland,Sociología,Examen diagnóstico,15/08/2023 00:00,A000227,Copia en exámenes,Centro,No,OMEGA,3
+R1578,High School Musical,Pandora,Sociología,Prototipo,16/08/2023 00:00,A000228,Plagio,Norte,No,JI,4
+R1579,High School Musical,Pandora,Sociología,Prototipo,17/08/2023 00:00,A000229,Plagio,Norte,Sí,PHI,5
+R1580,High School Musical,Pandora,Sociología,Prototipo,18/08/2023 00:00,A000230,Plagio,Norte,No,ALPHA,6
+R1581,High School Musical,Pandora,Sociología,Prototipo,19/08/2023 00:00,A000231,Plagio,Norte,No,BETA,1
+R1582,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,20/08/2023 00:00,A000232,Copia en exámenes,Centro,Sí,BETA,2
+R1583,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,21/08/2023 00:00,A000233,Copia en exámenes,Centro,No,GAMMA,3
+R1584,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,22/08/2023 00:00,A000234,Copia en exámenes,Centro,No,DELTA,4
+R1585,Monster University,Distrito 13,Ingeniería,Examen diagnóstico,23/08/2023 00:00,A000235,Copia en exámenes,Centro,No,ETA,5
+R1586,Monster University,Wonderland,Arquitectura,Prototipo,24/08/2023 00:00,A000236,Plagio,Centro,No,KAPPA,4
+R1587,Monster University,Genovia,Ingeniería,Examen diagnóstico,25/08/2023 00:00,A000237,Copia en exámenes,Norte,Sí,LAMBDA,5
+R1588,Monster University,Wonderland,Ingeniería,Examen diagnóstico,26/08/2023 00:00,A000238,Copia en exámenes,Centro,Sí,OMICRON,6
+R1589,Monster University,Genovia,Arquitectura,Examen diagnóstico,27/08/2023 00:00,A000239,Copia en exámenes,Norte,No,PI,2
+R1590,Monster University,Wonderland,Ingeniería,Examen diagnóstico,28/08/2023 00:00,A000240,Copia en exámenes,Centro,Sí,SIGMA,3
+R1591,Monster University,Genovia,Ingeniería,Examen diagnóstico,29/08/2023 00:00,A000241,Copia en exámenes,Norte,No,OMEGA,4
+R1592,Monster University,Distrito 13,Bienestar,Estudio,30/08/2023 00:00,A000242,Colusión,Centro,Sí,JI,5
+R1593,Monster University,Distrito 13,Bienestar,Estudio,31/08/2023 00:00,A000243,Colusión,Centro,No,PHI,6
+R1594,High School Musical,El País de Nunca Jamás,Sociología,Estudio,01/09/2023 00:00,A000244,Plagio,Norte,No,ETA,1
+R1595,High School Musical,Pizza Planeta,Sociología,Examen diagnóstico,02/09/2023 00:00,A000245,Copia en exámenes,Sur,No,KAPPA,2
+R1596,High School Musical,Springfield,Sociología,Experimento,03/09/2023 00:00,A000246,Plagio,Centro,No,LAMBDA,3
+R1597,High School Musical,Springfield,Sociología,Estudio,04/09/2023 00:00,A000247,Plagio,Centro,No,OMICRON,4
+R1598,Monster University,Genovia,Arquitectura,Examen diagnóstico,05/09/2023 00:00,A000248,Distribución de exámenes,Norte,Sí,TAU,5
+R1599,Monster University,Genovia,Arquitectura,Examen diagnóstico,06/09/2023 00:00,A000249,Copia en exámenes,Norte,No,PSI,4
+R1600,High School Musical,Springfield,Sociología,Estudio,07/09/2023 00:00,A000250,Plagio,Norte,No,RHO,5
+R1601,High School Musical,Springfield,Sociología,Estudio,08/09/2023 00:00,A000251,Plagio,Norte,Sí,PI,6
+R1602,High School Musical,Springfield,Sociología,Prototipo,09/09/2023 00:00,A000252,Plagio,Centro,No,MU,2
+R1603,High School Musical,Springfield,Sociología,Prototipo,10/09/2023 00:00,A000253,Plagio,Centro,No,IOTA,3
+R1604,Monster University,Distrito 13,Bienestar,Prototipo,11/09/2023 00:00,A000254,Plagio,Centro,No,TAU,4
+R1605,High School Musical,Springfield,Sociología,Examen diagnóstico,12/09/2023 00:00,A000255,Copia en exámenes,Centro,No,PSI,5
+R1606,High School Musical,Springfield,Sociología,Examen diagnóstico,13/09/2023 00:00,A000256,Copia en exámenes,Centro,Sí,RHO,6
+R1607,High School Musical,Springfield,Sociología,Examen diagnóstico,14/09/2023 00:00,A000257,Copia en exámenes,Centro,Sí,PI,1
+R1608,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,15/09/2023 00:00,A000258,Copia en exámenes,Centro,No,MU,2
+R1609,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,16/09/2023 00:00,A000259,Copia en exámenes,Centro,Sí,IOTA,3
+R1610,High School Musical,"Muy, muy lejano",Sociología,Examen diagnóstico,17/09/2023 00:00,A000260,Copia en exámenes,Centro,No,ETA,4
+R1611,Monster University,El País de Nunca Jamás,Bienestar,Experimento,18/09/2023 00:00,A000261,Soborno,Sur,Sí,KAPPA,5
+R1612,Monster University,Hogwarts,Bienestar,Estudio,19/09/2023 00:00,A000262,Colusión,Centro,No,LAMBDA,4
+R1613,Monster University,Hogwarts,Bienestar,Estudio,20/09/2023 00:00,A000263,Colusión,Centro,No,OMICRON,5
+R1614,High School Musical,El País de Nunca Jamás,Sociología,Examen diagnóstico,21/09/2023 00:00,A000264,Copia en exámenes,Norte,No,TAU,6
+R1615,Monster University,Genovia,Arquitectura,Examen diagnóstico,22/09/2023 00:00,A000265,Colusión,Norte,No,PSI,2
+R1616,High School Musical,Pizza Planeta,Sociología,Experimento,23/09/2023 00:00,A000266,Copia en exámenes,Sur,No,RHO,3
+R1617,High School Musical,Pizza Planeta,Sociología,Experimento,24/09/2023 00:00,A000267,Copia en exámenes,Sur,Sí,PI,4
+R1618,High School Musical,Pizza Planeta,Sociología,Experimento,25/09/2023 00:00,A000268,Copia en exámenes,Sur,No,MU,5
+R1619,High School Musical,Pizza Planeta,Sociología,Experimento,26/09/2023 00:00,A000269,Copia en exámenes,Sur,No,MU,6
+R1620,High School Musical,Pizza Planeta,Sociología,Prototipo,27/09/2023 00:00,A000270,Plagio,Sur,Sí,MU,1
